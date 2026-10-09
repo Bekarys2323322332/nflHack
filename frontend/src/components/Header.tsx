@@ -31,7 +31,7 @@ export default function Header() {
         {/* Title block */}
         <div className="site-header__titles">
           <h1 className="site-header__title">OPEN ISN&apos;T ENOUGH</h1>
-          <p className="site-header__subtitle muted">Who gets open, against what, and where</p>
+          <p className="site-header__subtitle muted">Who Gets Open? Against What? And Where?</p>
         </div>
 
         {/* Navigation generated from the page registry */}
