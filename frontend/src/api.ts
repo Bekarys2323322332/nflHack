@@ -25,8 +25,12 @@ const API_BASE = "http://localhost:8000/api/insights";
 /* Types: separation_leaderboard.json                                         */
 /* -------------------------------------------------------------------------- */
 
-/** Positions that appear in the receiver charts. */
-export type ReceiverPosition = "WR" | "TE" | "RB";
+/**
+ * Positions found in the receiver files. The real data also contains a few
+ * fullbacks (FB). They have no filter chip (every FB is under the default
+ * target thresholds), but they are counted in the KPI cards.
+ */
+export type ReceiverPosition = "WR" | "TE" | "RB" | "FB";
 
 export interface SeparationRow {
   nfl_id: number;

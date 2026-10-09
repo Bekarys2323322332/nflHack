@@ -38,7 +38,7 @@ export default function KpiCards() {
       <article className="panel kpi">
         <p className="kpi__label muted">Receivers analysed</p>
         <p className="kpi__value num">{int(kpis.count)}</p>
-        <p className="kpi__note muted">Wide receivers, tight ends and running backs</p>
+        <p className="kpi__note muted">Receivers, tight ends and backs who were targeted</p>
       </article>
 
       <article className="panel kpi">

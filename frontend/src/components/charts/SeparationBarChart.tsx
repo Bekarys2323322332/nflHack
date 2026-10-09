@@ -27,6 +27,12 @@ const METRICS: Record<SortKey, { label: string; axis: string; format: (v: number
   targets: { label: "Targets", axis: "Targets", format: int, domain: [0, "auto"] },
 };
 
+/** "James Robinson" -> "J. Robinson". Used on phones so names stay on one line. */
+const shortName = (name: string): string => {
+  const [first, ...rest] = name.split(" ");
+  return rest.length > 0 ? `${first[0]}. ${rest.join(" ")}` : name;
+};
+
 const N_OPTIONS = [10, 15, 25];
 const DEFAULT_MIN_TARGETS = 20;
 const ROW_HEIGHT = 34;
@@ -58,7 +64,7 @@ export default function SeparationBarChart({ title, subtitle }: ChartComponentPr
   const howToRead = (
     <>
       Each bar is one receiver. A longer bar means more of the chosen measure. Separation is the distance in yards to
-      the nearest defender at the moment the pass arrives. Raise the minimum targets to hide small samples.
+      the nearest defender at the moment of the throw. Raise the minimum targets to hide small samples.
     </>
   );
 
@@ -151,7 +157,8 @@ export default function SeparationBarChart({ title, subtitle }: ChartComponentPr
               <YAxis
                 type="category"
                 dataKey="name"
-                width={narrow ? 116 : 150}
+                width={narrow ? 124 : 160}
+                tickFormatter={narrow ? shortName : undefined}
                 interval={0}
                 tick={{ fill: COLORS.text, fontSize: 14 }}
                 tickLine={false}

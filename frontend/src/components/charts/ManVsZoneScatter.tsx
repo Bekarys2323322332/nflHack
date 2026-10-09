@@ -64,7 +64,9 @@ export default function ManVsZoneScatter({ title, subtitle }: ChartComponentProp
     const kept = data.filter(
       (r) => r.targets_man >= minTargets && r.targets_zone >= minTargets && positions.includes(r.position),
     );
-    if (kept.length === 0) return { points: [] as Point[], medMan: 0, medZone: 0, lo: 0, hi: 1, matchCount: 0 };
+    if (kept.length === 0) {
+      return { points: [] as Point[], medMan: 0, medZone: 0, xLo: 0, xHi: 1, yLo: 0, yHi: 1, matchCount: 0 };
+    }
 
     const maxTotal = Math.max(...kept.map((r) => r.targets_man + r.targets_zone));
     // The "top 10" are the receivers with the most combined separation.
@@ -90,17 +92,23 @@ export default function ManVsZoneScatter({ title, subtitle }: ChartComponentProp
     // Draw highlighted players last so they sit on top.
     points.sort((a, b) => Number(a.matches) - Number(b.matches));
 
-    // Both axes share one domain so the y = x diagonal is a true 45 degree line.
-    const all = points.flatMap((p) => [p.sep_man, p.sep_zone]);
-    const lo = Math.floor((Math.min(...all) - 0.1) * 2) / 2;
-    const hi = Math.ceil((Math.max(...all) + 0.1) * 2) / 2;
+    // Each axis gets its own padded range, rounded to 0.5. Man and zone separation sit in
+    // different ranges in real data, so a shared range would leave most of the plot empty.
+    const range = (values: number[]): [number, number] => [
+      Math.floor((Math.min(...values) - 0.1) * 2) / 2,
+      Math.ceil((Math.max(...values) + 0.1) * 2) / 2,
+    ];
+    const [xLo, xHi] = range(points.map((p) => p.sep_man));
+    const [yLo, yHi] = range(points.map((p) => p.sep_zone));
 
     return {
       points,
       medMan: median(points.map((p) => p.sep_man)),
       medZone: median(points.map((p) => p.sep_zone)),
-      lo,
-      hi,
+      xLo,
+      xHi,
+      yLo,
+      yHi,
       matchCount: points.filter((p) => p.matches).length,
     };
   }, [data, minTargets, positions, labelAll, search]);
@@ -112,7 +120,7 @@ export default function ManVsZoneScatter({ title, subtitle }: ChartComponentProp
 
     const dimmed = search !== "" && !payload.matches;
     // Labels flip to the left of the dot near the right edge so they stay inside the chart.
-    const nearRight = (payload.sep_man - view.lo) / (view.hi - view.lo) > 0.65;
+    const nearRight = (payload.sep_man - view.xLo) / (view.xHi - view.xLo) > 0.65;
     return (
       <g opacity={dimmed ? 0.3 : 1}>
         <circle
@@ -204,7 +212,17 @@ export default function ManVsZoneScatter({ title, subtitle }: ChartComponentProp
       </p>
     );
   } else {
-    const { points, medMan, medZone, lo, hi } = view;
+    const { points, medMan, medZone, xLo, xHi, yLo, yHi } = view;
+    // Round tick values (every 0.5 yd, or every 1 yd on phones) instead of Recharts' uneven defaults.
+    const ticksFor = (lo: number, hi: number) => {
+      const step = narrow ? 1 : 0.5;
+      const out: number[] = [];
+      for (let t = Math.ceil(lo / step) * step; t <= hi + 1e-9; t += step) out.push(Number(t.toFixed(1)));
+      return out;
+    };
+    // The y = x diagonal only exists where the two ranges overlap.
+    const diagLo = Math.max(xLo, yLo);
+    const diagHi = Math.min(xHi, yHi);
     const corner = { fill: COLORS.muted, fontSize: 14, fontFamily: "var(--font-heading)" };
     const summary = `Scatter chart of ${points.length} receivers: separation against man coverage on the horizontal axis, against zone on the vertical axis. Dot size shows total targets.`;
 
@@ -216,24 +234,26 @@ export default function ManVsZoneScatter({ title, subtitle }: ChartComponentProp
           </p>
         )}
         <figure className="chart-figure" role="img" aria-label={summary}>
-          {/* Phones get a fixed tall plot; wider screens keep a near-square one so the diagonal reads as 45 degrees. */}
+          {/* Phones get a fixed tall plot; wider screens scale with the panel width. */}
           <ResponsiveContainer width="100%" {...(narrow ? { height: 420 } : { aspect: 1.05, maxHeight: 560 })}>
             <ScatterChart margin={{ top: 8, right: 16, bottom: 28, left: 8 }} accessibilityLayer={false}>
               {/* Quadrant corner labels. The areas have no fill; they only carry the labels. */}
-              <ReferenceArea x1={medMan} x2={hi} y1={medZone} y2={hi} fill="none" stroke="none" ifOverflow="visible"
+              <ReferenceArea x1={medMan} x2={xHi} y1={medZone} y2={yHi} fill="none" stroke="none" ifOverflow="visible"
                 label={{ value: "Beats both", position: "insideTopRight", ...corner }} />
-              <ReferenceArea x1={lo} x2={medMan} y1={medZone} y2={hi} fill="none" stroke="none" ifOverflow="visible"
+              <ReferenceArea x1={xLo} x2={medMan} y1={medZone} y2={yHi} fill="none" stroke="none" ifOverflow="visible"
                 label={{ value: "Zone specialist", position: "insideTopLeft", ...corner }} />
-              <ReferenceArea x1={medMan} x2={hi} y1={lo} y2={medZone} fill="none" stroke="none" ifOverflow="visible"
+              <ReferenceArea x1={medMan} x2={xHi} y1={yLo} y2={medZone} fill="none" stroke="none" ifOverflow="visible"
                 label={{ value: "Man specialist", position: "insideBottomRight", ...corner }} />
-              <ReferenceArea x1={lo} x2={medMan} y1={lo} y2={medZone} fill="none" stroke="none" ifOverflow="visible"
+              <ReferenceArea x1={xLo} x2={medMan} y1={yLo} y2={medZone} fill="none" stroke="none" ifOverflow="visible"
                 label={{ value: "Struggles vs both", position: "insideBottomLeft", ...corner }} />
 
               <XAxis
                 type="number"
                 dataKey="sep_man"
                 name="Separation vs man"
-                domain={[lo, hi]}
+                domain={[xLo, xHi]}
+                ticks={ticksFor(xLo, xHi)}
+                interval={0}
                 tickFormatter={fmt1}
                 tick={{ fill: COLORS.muted, fontSize: 14 }}
                 stroke={COLORS.border}
@@ -243,7 +263,9 @@ export default function ManVsZoneScatter({ title, subtitle }: ChartComponentProp
                 type="number"
                 dataKey="sep_zone"
                 name="Separation vs zone"
-                domain={[lo, hi]}
+                domain={[yLo, yHi]}
+                ticks={ticksFor(yLo, yHi)}
+                interval={0}
                 tickFormatter={fmt1}
                 tick={{ fill: COLORS.muted, fontSize: 14 }}
                 stroke={COLORS.border}
@@ -252,7 +274,9 @@ export default function ManVsZoneScatter({ title, subtitle }: ChartComponentProp
               />
 
               {/* y = x: equal separation against both coverages */}
-              <ReferenceLine segment={[{ x: lo, y: lo }, { x: hi, y: hi }]} stroke={COLORS.muted} strokeDasharray="10 5" ifOverflow="visible" />
+              {diagLo < diagHi && (
+                <ReferenceLine segment={[{ x: diagLo, y: diagLo }, { x: diagHi, y: diagHi }]} stroke={COLORS.muted} strokeDasharray="10 5" ifOverflow="visible" />
+              )}
               {/* Medians of the receivers currently shown (shorter dashes, brighter colour) */}
               <ReferenceLine x={medMan} stroke={COLORS.text} strokeOpacity={0.7} strokeDasharray="4 4" />
               <ReferenceLine y={medZone} stroke={COLORS.text} strokeOpacity={0.7} strokeDasharray="4 4" />

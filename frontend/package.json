@@ -8,6 +8,7 @@
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
+    "sync-data": "node scripts/sync-data.mjs",
     "mock-data": "node scripts/generate-mock-data.mjs"
   },
   "dependencies": {

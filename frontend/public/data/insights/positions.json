@@ -1,0 +1,134 @@
+{
+  "summary": [
+    {
+      "position": "WR",
+      "targets": 4407,
+      "catch_rate": 0.5843,
+      "median_depth": 8.34,
+      "median_sep": 2.843,
+      "median_time_to_throw": 2.7
+    },
+    {
+      "position": "TE",
+      "targets": 1558,
+      "catch_rate": 0.6694,
+      "median_depth": 5.44,
+      "median_sep": 3.325,
+      "median_time_to_throw": 2.7
+    },
+    {
+      "position": "RB",
+      "targets": 1225,
+      "catch_rate": 0.7518,
+      "median_depth": 0.51,
+      "median_sep": 5.188,
+      "median_time_to_throw": 2.7
+    },
+    {
+      "position": "FB",
+      "targets": 56,
+      "catch_rate": 0.8036,
+      "median_depth": 1.79,
+      "median_sep": 4.982,
+      "median_time_to_throw": 2.85
+    }
+  ],
+  "by_depth": [
+    {
+      "position": "FB",
+      "depth_band": "behind_los",
+      "plays": 14,
+      "catch_rate": 0.8571
+    },
+    {
+      "position": "FB",
+      "depth_band": "short",
+      "plays": 40,
+      "catch_rate": 0.825
+    },
+    {
+      "position": "FB",
+      "depth_band": "intermediate",
+      "plays": 1,
+      "catch_rate": 0.0
+    },
+    {
+      "position": "FB",
+      "depth_band": "deep",
+      "plays": 1,
+      "catch_rate": 0.0
+    },
+    {
+      "position": "RB",
+      "depth_band": "behind_los",
+      "plays": 537,
+      "catch_rate": 0.8194
+    },
+    {
+      "position": "RB",
+      "depth_band": "short",
+      "plays": 673,
+      "catch_rate": 0.7117
+    },
+    {
+      "position": "RB",
+      "depth_band": "intermediate",
+      "plays": 14,
+      "catch_rate": 0.1429
+    },
+    {
+      "position": "RB",
+      "depth_band": "deep",
+      "plays": 1,
+      "catch_rate": 0.0
+    },
+    {
+      "position": "TE",
+      "depth_band": "behind_los",
+      "plays": 125,
+      "catch_rate": 0.784
+    },
+    {
+      "position": "TE",
+      "depth_band": "short",
+      "plays": 1094,
+      "catch_rate": 0.7029
+    },
+    {
+      "position": "TE",
+      "depth_band": "intermediate",
+      "plays": 325,
+      "catch_rate": 0.5292
+    },
+    {
+      "position": "TE",
+      "depth_band": "deep",
+      "plays": 14,
+      "catch_rate": 0.2857
+    },
+    {
+      "position": "WR",
+      "depth_band": "behind_los",
+      "plays": 123,
+      "catch_rate": 0.8455
+    },
+    {
+      "position": "WR",
+      "depth_band": "short",
+      "plays": 2430,
+      "catch_rate": 0.6481
+    },
+    {
+      "position": "WR",
+      "depth_band": "intermediate",
+      "plays": 1623,
+      "catch_rate": 0.4997
+    },
+    {
+      "position": "WR",
+      "depth_band": "deep",
+      "plays": 231,
+      "catch_rate": 0.368
+    }
+  ]
+}

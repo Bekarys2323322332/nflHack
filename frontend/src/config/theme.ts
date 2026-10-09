@@ -31,6 +31,7 @@ export const POSITION_COLORS: Record<string, string> = {
   DB: "#D55E00",
   LB: "#F0E442",
   DL: "#6F9BFF",
+  FB: "#B8A9FF",
 };
 
 export const positionColor = (position: string): string => POSITION_COLORS[position] ?? COLORS.muted;

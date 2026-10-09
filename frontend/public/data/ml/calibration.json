@@ -1,0 +1,62 @@
+[
+  {
+    "bin": 1,
+    "plays": 4,
+    "mean_pred": 0.0777,
+    "actual": 0.0
+  },
+  {
+    "bin": 2,
+    "plays": 52,
+    "mean_pred": 0.158,
+    "actual": 0.1346
+  },
+  {
+    "bin": 3,
+    "plays": 112,
+    "mean_pred": 0.2571,
+    "actual": 0.2857
+  },
+  {
+    "bin": 4,
+    "plays": 129,
+    "mean_pred": 0.3499,
+    "actual": 0.3256
+  },
+  {
+    "bin": 5,
+    "plays": 127,
+    "mean_pred": 0.4504,
+    "actual": 0.4252
+  },
+  {
+    "bin": 6,
+    "plays": 147,
+    "mean_pred": 0.5514,
+    "actual": 0.4898
+  },
+  {
+    "bin": 7,
+    "plays": 206,
+    "mean_pred": 0.6519,
+    "actual": 0.6068
+  },
+  {
+    "bin": 8,
+    "plays": 337,
+    "mean_pred": 0.7529,
+    "actual": 0.7151
+  },
+  {
+    "bin": 9,
+    "plays": 484,
+    "mean_pred": 0.8474,
+    "actual": 0.8409
+  },
+  {
+    "bin": 10,
+    "plays": 52,
+    "mean_pred": 0.9126,
+    "actual": 0.8846
+  }
+]

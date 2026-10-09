@@ -29,7 +29,7 @@ export const charts: ChartConfig[] = [
   {
     id: "separation-leaders",
     title: "These receivers create the most space",
-    subtitle: "Average yards from the nearest defender when the pass arrives.",
+    subtitle: "Average yards from the nearest defender at the moment of the throw.",
     component: SeparationBarChart,
     defaultVisible: true,
   },

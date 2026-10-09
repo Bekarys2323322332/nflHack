@@ -3,10 +3,14 @@
  *
  *   npm run mock-data
  *
- * Output goes to public/data/insights/. Player names are fictional on purpose:
- * the numbers are invented, so they must not be attributed to real people.
+ * MANUAL USE ONLY. Nothing runs this automatically. The normal workflow is
+ * `git pull` -> `npm run sync-data`, which copies the real backend output.
+ * Running this script overwrites those real files in public/data/insights/
+ * with invented ones, so only use it when the backend output is unavailable.
  *
- * Replace the generated files with the real backend output when it exists.
+ * Player names are fictional on purpose: the numbers are invented, so they
+ * must not be attributed to real people.
+ *
  * The shapes below are the contract the frontend (src/api.ts) expects.
  */
 import { mkdirSync, writeFileSync } from "node:fs";
@@ -152,7 +156,7 @@ const topics = [
   {
     id: "separation",
     label: "Space at the throw",
-    description: "Average yards between the target and the nearest defender when the ball arrives.",
+    description: "Average yards between the target and the nearest defender at the moment of the throw.",
     kind: "mean",
     unit: "yds",
     positions: ["WR", "TE", "RB"],
