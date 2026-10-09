@@ -22,6 +22,12 @@ import "./Field.css";
 export interface FieldProps {
   /** Overlays (heat cells, markers, routes). Drawn above the turf, below the line of scrimmage. */
   children?: ReactNode;
+  /**
+   * Show only part of the field: [left, right] edges in field yards, for
+   * example [30, 90]. Zooming in keeps players and numbers readable. The
+   * default is the whole field, [0, 120].
+   */
+  xRange?: [number, number];
   /** x position of the line of scrimmage in field yards. Omit to hide it. */
   losX?: number;
   /** Text for the left and right end zones. */
@@ -61,6 +67,7 @@ const HASH_PATH = (() => {
 
 export default function Field({
   children,
+  xRange = [0, FIELD_LENGTH],
   losX,
   endZoneText = ["BIG DATA BOWL", "LONDON"],
   ariaLabel = "Overhead view of an American football field",
@@ -69,7 +76,7 @@ export default function Field({
   return (
     <svg
       className={`field${className ? ` ${className}` : ""}`}
-      viewBox={`0 0 ${FIELD_LENGTH} ${FIELD_WIDTH}`}
+      viewBox={`${xRange[0]} 0 ${xRange[1] - xRange[0]} ${FIELD_WIDTH}`}
       role="group"
       aria-label={ariaLabel}
       preserveAspectRatio="xMidYMid meet"

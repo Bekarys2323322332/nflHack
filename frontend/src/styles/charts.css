@@ -1,0 +1,160 @@
+/*
+ * Shared chart styles: the ChartPanel frame, chart controls, legends, tooltips
+ * and KPI cards. Used by the Insights page AND the ML Predictions page, so they
+ * live here instead of in a page stylesheet.
+ * Flat colours only. Minimum text size 14px.
+ */
+
+/* ----- Chart panel frame ----- */
+.chart-panel__head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+.chart-panel__titles {
+  min-width: 0;
+}
+.chart-panel__title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  overflow-wrap: anywhere;
+}
+.chart-panel__subtitle {
+  margin-top: 6px;
+  font-size: var(--fs-small);
+}
+.chart-panel__controls {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr));
+  gap: 14px 16px;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--color-border);
+}
+.chart-panel__body {
+  margin-top: 16px;
+  min-width: 0;
+}
+
+.control__head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+.control__value {
+  font-size: var(--fs-base);
+}
+
+@media (max-width: 600px) {
+  .chart-panel__title {
+    font-size: 1.25rem;
+  }
+}
+
+/* ----- Chart bits ----- */
+.chart-figure {
+  margin: 0;
+  min-width: 0;
+}
+.chart-note {
+  font-size: var(--fs-small);
+  margin-bottom: 8px;
+}
+.chart-empty {
+  padding: 24px 0;
+  color: var(--color-muted);
+}
+.chart-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 16px;
+  margin-top: 8px;
+}
+.chart-footer .chart-note {
+  margin: 0;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  margin: 8px 0 0;
+  padding: 0;
+  list-style: none;
+}
+.chart-footer .legend {
+  margin: 0;
+}
+.legend__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-heading);
+  font-size: var(--fs-small);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking);
+}
+.legend__swatch {
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+}
+
+/* Recharts custom tooltip */
+.chart-tooltip {
+  min-width: 190px;
+  max-width: 280px;
+  padding: 10px 12px;
+  background: var(--color-panel-raised);
+  border: 1px solid var(--color-muted);
+  border-radius: var(--radius);
+  font-size: var(--fs-small);
+}
+.chart-tooltip__title {
+  margin-bottom: 6px;
+  font-family: var(--font-heading);
+  font-size: var(--fs-base);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: var(--tracking);
+}
+.chart-tooltip__row {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+/* ----- KPI cards ----- */
+.kpis {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr));
+  gap: var(--gap);
+}
+.kpi {
+  border-top: 4px solid var(--color-red);
+}
+.kpi__label {
+  font-family: var(--font-heading);
+  font-size: var(--fs-small);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking);
+}
+.kpi__value {
+  margin-top: 6px;
+  font-size: 2.25rem;
+  font-weight: 600;
+  line-height: 1.1;
+  overflow-wrap: anywhere;
+}
+.kpi__unit {
+  font-size: var(--fs-base);
+  color: var(--color-muted);
+}
+.kpi__note {
+  margin-top: 6px;
+  font-size: var(--fs-small);
+}

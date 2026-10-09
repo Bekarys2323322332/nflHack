@@ -9,6 +9,12 @@ export const pct = (fraction: number): string => `${Math.round(fraction * 100)}%
 /** 1234 -> "1,234" */
 export const int = (value: number): string => Math.round(value).toLocaleString("en-US");
 
+/** "James Robinson" -> "J. Robinson". Keeps names on one line in narrow chart axes. */
+export const shortName = (name: string): string => {
+  const [first, ...rest] = name.split(" ");
+  return rest.length > 0 ? `${first[0]}. ${rest.join(" ")}` : name;
+};
+
 /** Median of a list of numbers. Returns NaN for an empty list. */
 export function median(values: number[]): number {
   if (values.length === 0) return Number.NaN;

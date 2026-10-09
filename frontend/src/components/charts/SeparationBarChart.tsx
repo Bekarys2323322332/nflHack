@@ -11,7 +11,7 @@ import { useSeparationLeaderboard } from "../../api";
 import type { SeparationRow } from "../../api";
 import { COLORS, positionColor } from "../../config/theme";
 import { useIsNarrow } from "../../hooks/useMediaQuery";
-import { fmt1, int, pct } from "../../lib/format";
+import { fmt1, int, pct, shortName } from "../../lib/format";
 import ChartPanel from "../ChartPanel";
 import StateMessage from "../StateMessage";
 import PositionChips from "../PositionChips";
@@ -25,12 +25,6 @@ const METRICS: Record<SortKey, { label: string; axis: string; format: (v: number
   avg_sep: { label: "Avg separation", axis: "Avg separation (yds)", format: fmt1, domain: [0, "auto"] },
   catch_rate: { label: "Catch rate", axis: "Catch rate", format: pct, domain: [0, 1] },
   targets: { label: "Targets", axis: "Targets", format: int, domain: [0, "auto"] },
-};
-
-/** "James Robinson" -> "J. Robinson". Used on phones so names stay on one line. */
-const shortName = (name: string): string => {
-  const [first, ...rest] = name.split(" ");
-  return rest.length > 0 ? `${first[0]}. ${rest.join(" ")}` : name;
 };
 
 const N_OPTIONS = [10, 15, 25];

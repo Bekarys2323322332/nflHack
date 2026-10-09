@@ -50,5 +50,23 @@ export const HEAT_STEPS = [
   "#FDE725",
 ] as const;
 
+/**
+ * Play simulator colours (Okabe-Ito, colour-blind safe). Offense and defense
+ * differ in hue AND lightness, and the target gets a yellow ring on top.
+ * Jersey numbers use COLORS.bg, which has 7:1 contrast on both fills.
+ */
+export const SIM_COLORS = {
+  offense: "#56B4E9",
+  defense: "#E69F00",
+  targetRing: "#F0E442",
+  ball: "#8B4513",
+} as const;
+
+/** Diverging pair for "above / below expectation" charts (blue vs vermillion). */
+export const DIVERGING = {
+  positive: "#56B4E9",
+  negative: "#D55E00",
+} as const;
+
 /** Opacity of the heat cells so the yard lines stay faintly visible. */
 export const HEAT_OPACITY = 0.85;
