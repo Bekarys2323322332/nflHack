@@ -20,10 +20,11 @@ def run(df: pd.DataFrame | None = None) -> None:
         df = load_features()
     print("ML:")
     result = train.train(df)
-    # train() may drop rows with NaN target; align predictions to that subset.
-    used = df.dropna(subset=[train.TARGET]).reset_index(drop=True)
-    coe.run(used, result.p_full)
-    highlights.run(used, result.p_full)
+    # result.data is the row subset actually modelled (week-joined, NaN target
+    # dropped) and result.p is aligned to it: out-of-fold for train-week plays,
+    # refit-model predictions for test-week plays.
+    coe.run(result.data, result.p)
+    highlights.run(result.data, result.p)
 
 
 if __name__ == "__main__":

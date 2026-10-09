@@ -1,24 +1,52 @@
 {
-  "best_model": "random_forest",
+  "best_model": "gradient_boosting",
   "n_plays": 7251,
+  "n_train": 5601,
+  "n_test": 1650,
+  "train_weeks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "test_weeks": [
+    7,
+    8
+  ],
   "models": [
     {
       "name": "logistic_regression",
-      "auc": 0.7578,
-      "log_loss": 0.5591,
-      "brier": 0.1883
+      "cv_auc": 0.745,
+      "cv_log_loss": 0.5668,
+      "cv_brier": 0.1915
     },
     {
       "name": "random_forest",
-      "auc": 0.7779,
-      "log_loss": 0.5495,
-      "brier": 0.1837
+      "cv_auc": 0.7547,
+      "cv_log_loss": 0.5611,
+      "cv_brier": 0.1887
     },
     {
       "name": "gradient_boosting",
-      "auc": 0.7749,
-      "log_loss": 0.5406,
-      "brier": 0.1805
+      "cv_auc": 0.7551,
+      "cv_log_loss": 0.5576,
+      "cv_brier": 0.1875
     }
-  ]
+  ],
+  "test": {
+    "auc": 0.7627,
+    "log_loss": 0.5586,
+    "brier": 0.1886,
+    "accuracy": 0.7152
+  },
+  "baseline_test": {
+    "auc": 0.5,
+    "log_loss": 0.6636,
+    "brier": 0.2354
+  },
+  "baseline_rate": 0.6358,
+  "n_train_games": 94,
+  "n_test_games": 28
 }
