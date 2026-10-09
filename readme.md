@@ -1,5 +1,7 @@
 # Rakhymbek Bekarys and Yousuf Sayed
 
+**Note added later: WE WON!**
+
 **Insight.** Using NFL Next Gen Stats tracking for 7,251 targeted passes (2021, Weeks 1–8), we measured how much space each receiver has at the exact moment the ball is thrown, and built a catch-probability model using only what the QB could see at that moment. Separation at the throw is by far the strongest predictor of a catch: removing it costs the model 3× more accuracy than any other feature, and catch rate rises from [X]% when a defender is within 1 yard to [Y]% with 5+ yards of space. Trained on Weeks 1–6 and tested on unseen Weeks 7–8, the model reaches AUC 0.76 (vs 0.50 baseline, 71.5% accuracy) and is well calibrated. Comparing actual vs expected catches reveals which receivers win contested balls ([top COE names]), and which QBs pass up the safest open target.
 
 ## What's inside
