@@ -1,0 +1,5 @@
+backend/nfl-big-data-bowl-regional-event-data-main/
+backend/outputs/common/
+__pycache__/
+.venv/
+node_modules/
