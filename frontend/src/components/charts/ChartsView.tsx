@@ -31,16 +31,7 @@ function FieldBackdrop() {
     return { cells, scale: buildScale(cells.map((c) => c.value)), topic, grid: data.grid };
   }, [data]);
 
-  return (
-    <figure className="backdrop">
-      <div className="backdrop__field">
-        <Field losX={LOS_FIELD_X} ariaLabel="Overhead football field with a faint map of where players stand">
-          {layer && <HeatmapLayer cells={layer.cells} scale={layer.scale} topic={layer.topic} grid={layer.grid} interactive={false} />}
-        </Field>
-      </div>
-      {layer && <figcaption className="backdrop__caption muted">{layer.topic.description}</figcaption>}
-    </figure>
-  );
+ 
 }
 
 export default function ChartsView({ visibility }: { visibility: ChartVisibility }) {
@@ -48,7 +39,7 @@ export default function ChartsView({ visibility }: { visibility: ChartVisibility
 
   return (
     <div className="charts-view">
-      <FieldBackdrop />
+     
 
       {visible.length === 0 ? (
         <p className="state" role="status">

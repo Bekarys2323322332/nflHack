@@ -1,7 +1,7 @@
 /**
  * Insights page.
  *
- *   [ Charts | Heatmap ] toggle (and Customize menu in charts mode)
+ *   [ Charts | Heatmap ] toggle 
  *   -> the football field is the main visual in both modes
  *
  * The chosen mode lives in the URL (?view=heatmap) so it can be shared and
@@ -9,7 +9,7 @@
  */
 import { useSearchParams } from "react-router-dom";
 import ChartsView from "../../components/charts/ChartsView";
-import CustomizeMenu from "../../components/CustomizeMenu";
+
 import HeatmapView from "../../components/heatmap/HeatmapView";
 import { useChartVisibility } from "../../hooks/useChartVisibility";
 import "./insights.css";
@@ -48,7 +48,7 @@ export default function InsightsPage() {
             </button>
           ))}
         </div>
-        {view === "charts" && <CustomizeMenu visibility={visibility} />}
+        
       </div>
 
       {view === "heatmap" ? <HeatmapView /> : <ChartsView visibility={visibility} />}
