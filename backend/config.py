@@ -22,6 +22,13 @@ PFF_CSV = DATA_DIR / "pffScoutingData.csv"
 
 # --- Shared data-contract output files -------------------------------------
 FEATURES_CSV = COMMON_OUT / "features.csv"
+PREDICTIONS_CSV = ML_OUT / "predictions.csv"
+MODEL_JOBLIB = ML_OUT / "model.joblib"
+
+# --- Train / test split by game week ---------------------------------------
+TRAIN_WEEKS = [1, 2, 3, 4, 5, 6]
+TEST_WEEKS = [7, 8]
+N_SPLITS = 5  # GroupKFold folds, grouped by gameId
 
 # --- Constants -------------------------------------------------------------
 # passResult codes in plays.csv
