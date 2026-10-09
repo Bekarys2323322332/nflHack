@@ -1,32 +1,32 @@
 [
   {
     "band": "0-1",
-    "plays": 756,
-    "catch_rate": 0.2262
+    "plays": 590,
+    "catch_rate": 0.2237
   },
   {
     "band": "1-2",
-    "plays": 1438,
-    "catch_rate": 0.4798
+    "plays": 1488,
+    "catch_rate": 0.4724
   },
   {
     "band": "2-3",
-    "plays": 1177,
-    "catch_rate": 0.6754
+    "plays": 1185,
+    "catch_rate": 0.5975
   },
   {
     "band": "3-4",
-    "plays": 1011,
-    "catch_rate": 0.7379
+    "plays": 1069,
+    "catch_rate": 0.7091
   },
   {
     "band": "4-6",
-    "plays": 1397,
-    "catch_rate": 0.781
+    "plays": 1706,
+    "catch_rate": 0.7579
   },
   {
     "band": "6+",
-    "plays": 1289,
-    "catch_rate": 0.8479
+    "plays": 1213,
+    "catch_rate": 0.8186
   }
 ]

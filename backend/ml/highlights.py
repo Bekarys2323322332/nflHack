@@ -132,8 +132,19 @@ def _jersey(v):
         return None
 
 
+def _clear_play_files() -> int:
+    """Remove stale play_*.json files so the directory matches the current run."""
+    removed = 0
+    for old in config.PLAYS_OUT.glob("play_*.json"):
+        old.unlink()
+        removed += 1
+    return removed
+
+
 def _export_play_files(highlights: dict, df: pd.DataFrame, p_catch: np.ndarray) -> None:
     """Write a tracking JSON for every highlighted play by re-reading tracking."""
+    removed = _clear_play_files()
+    print(f"  cleared {removed} stale play files from {config.PLAYS_OUT}")
     d = df.reset_index(drop=True).copy()
     d["p_catch"] = np.asarray(p_catch, dtype=float)
 

@@ -1,24 +1,24 @@
 {
   "best_model": "random_forest",
-  "n_plays": 7068,
+  "n_plays": 7251,
   "models": [
     {
       "name": "logistic_regression",
-      "auc": 0.7738,
-      "log_loss": 0.539,
-      "brier": 0.1792
+      "auc": 0.7578,
+      "log_loss": 0.5591,
+      "brier": 0.1883
     },
     {
       "name": "random_forest",
-      "auc": 0.7852,
-      "log_loss": 0.5301,
-      "brier": 0.175
+      "auc": 0.7779,
+      "log_loss": 0.5495,
+      "brier": 0.1837
     },
     {
       "name": "gradient_boosting",
-      "auc": 0.7818,
-      "log_loss": 0.5271,
-      "brier": 0.1741
+      "auc": 0.7749,
+      "log_loss": 0.5406,
+      "brier": 0.1805
     }
   ]
 }

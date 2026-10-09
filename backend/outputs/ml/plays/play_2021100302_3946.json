@@ -1,0 +1,8290 @@
+{
+  "game_id": 2021100302,
+  "play_id": 3946,
+  "description": "(4:44) (Shotgun) J.Goff pass incomplete short left to T.Hockenson.",
+  "p_catch": 0.8512,
+  "result": "incomplete",
+  "throw_frame": 35,
+  "frames": [
+    {
+      "frame_id": 1,
+      "ball": {
+        "x": 92.68,
+        "y": 23.7
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 93.04,
+          "y": 30.91,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 95.4,
+          "y": 25.99,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 93.18,
+          "y": 18.03,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 93.68,
+          "y": 22.0,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 88.15,
+          "y": 23.79,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 104.81,
+          "y": 17.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 91.25,
+          "y": 22.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 91.73,
+          "y": 31.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 106.18,
+          "y": 29.31,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 96.85,
+          "y": 21.78,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 93.45,
+          "y": 26.83,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 92.21,
+          "y": 23.73,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 90.79,
+          "y": 34.24,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.7,
+          "y": 29.28,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 97.79,
+          "y": 32.97,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 91.08,
+          "y": 20.73,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.23,
+          "y": 22.04,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 97.25,
+          "y": 38.79,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 91.51,
+          "y": 25.44,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.12,
+          "y": 9.74,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 91.55,
+          "y": 10.17,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 91.26,
+          "y": 27.1,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 2,
+      "ball": {
+        "x": 92.68,
+        "y": 23.7
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 93.03,
+          "y": 30.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 95.28,
+          "y": 25.94,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 93.19,
+          "y": 18.04,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 93.67,
+          "y": 22.01,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 88.16,
+          "y": 23.79,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 104.76,
+          "y": 17.4,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 91.25,
+          "y": 22.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 91.73,
+          "y": 31.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 106.2,
+          "y": 29.39,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 96.85,
+          "y": 21.79,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 93.45,
+          "y": 26.83,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 92.2,
+          "y": 23.73,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 90.79,
+          "y": 34.24,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.7,
+          "y": 29.28,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 97.79,
+          "y": 32.96,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 91.08,
+          "y": 20.73,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.23,
+          "y": 22.04,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 97.3,
+          "y": 38.81,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 91.52,
+          "y": 25.44,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.12,
+          "y": 9.74,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 91.55,
+          "y": 10.17,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 91.26,
+          "y": 27.1,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 3,
+      "ball": {
+        "x": 92.68,
+        "y": 23.7
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 93.02,
+          "y": 30.89,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 95.19,
+          "y": 25.91,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 93.22,
+          "y": 18.05,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 93.67,
+          "y": 22.01,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 88.16,
+          "y": 23.8,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 104.68,
+          "y": 17.33,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 91.25,
+          "y": 22.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 91.73,
+          "y": 31.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 106.21,
+          "y": 29.46,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 96.85,
+          "y": 21.8,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 93.45,
+          "y": 26.83,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 92.2,
+          "y": 23.73,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 90.79,
+          "y": 34.24,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.7,
+          "y": 29.28,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 97.79,
+          "y": 32.96,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 91.07,
+          "y": 20.74,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.23,
+          "y": 22.03,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 97.36,
+          "y": 38.83,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 91.53,
+          "y": 25.45,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.13,
+          "y": 9.73,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 91.55,
+          "y": 10.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 91.26,
+          "y": 27.1,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 4,
+      "ball": {
+        "x": 92.68,
+        "y": 23.7
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 93.02,
+          "y": 30.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 95.13,
+          "y": 25.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 93.2,
+          "y": 18.04,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 93.69,
+          "y": 22.01,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 88.16,
+          "y": 23.8,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 104.59,
+          "y": 17.27,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 91.25,
+          "y": 22.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 91.73,
+          "y": 31.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 106.24,
+          "y": 29.52,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 96.84,
+          "y": 21.81,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 93.45,
+          "y": 26.83,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 92.2,
+          "y": 23.73,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 90.79,
+          "y": 34.25,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.7,
+          "y": 29.28,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 97.8,
+          "y": 32.96,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 91.07,
+          "y": 20.74,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.23,
+          "y": 22.03,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 97.44,
+          "y": 38.83,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 91.52,
+          "y": 25.46,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.14,
+          "y": 9.74,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 91.55,
+          "y": 10.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 91.25,
+          "y": 27.11,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 5,
+      "ball": {
+        "x": 92.68,
+        "y": 23.7
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 93.02,
+          "y": 30.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 95.11,
+          "y": 25.92,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 93.14,
+          "y": 18.05,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 93.69,
+          "y": 22.02,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 88.16,
+          "y": 23.8,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 104.51,
+          "y": 17.23,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 91.25,
+          "y": 22.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 91.73,
+          "y": 31.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 106.27,
+          "y": 29.57,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 96.84,
+          "y": 21.82,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 93.45,
+          "y": 26.83,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 92.17,
+          "y": 23.73,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 90.79,
+          "y": 34.24,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.7,
+          "y": 29.28,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 97.81,
+          "y": 32.96,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 91.06,
+          "y": 20.74,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.23,
+          "y": 22.03,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 97.53,
+          "y": 38.84,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 91.52,
+          "y": 25.47,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.14,
+          "y": 9.74,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 91.55,
+          "y": 10.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 91.24,
+          "y": 27.11,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 6,
+      "ball": {
+        "x": 92.68,
+        "y": 23.7
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 93.02,
+          "y": 30.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 95.12,
+          "y": 25.96,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 93.09,
+          "y": 18.05,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 93.64,
+          "y": 22.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 88.15,
+          "y": 23.8,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 104.4,
+          "y": 17.16,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 91.24,
+          "y": 22.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 91.74,
+          "y": 31.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 106.31,
+          "y": 29.59,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 96.83,
+          "y": 21.82,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 93.44,
+          "y": 26.84,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 92.13,
+          "y": 23.73,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 90.79,
+          "y": 34.24,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.69,
+          "y": 29.28,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 97.81,
+          "y": 32.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 91.04,
+          "y": 20.73,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.24,
+          "y": 22.03,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 97.63,
+          "y": 38.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 91.51,
+          "y": 25.48,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.14,
+          "y": 9.74,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 91.56,
+          "y": 10.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 91.2,
+          "y": 27.13,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 7,
+      "ball": {
+        "x": 92.68,
+        "y": 23.7
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 93.03,
+          "y": 30.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 95.18,
+          "y": 26.03,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 93.0,
+          "y": 18.05,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 93.59,
+          "y": 22.09,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 88.14,
+          "y": 23.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 104.29,
+          "y": 17.1,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 91.23,
+          "y": 22.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 91.74,
+          "y": 31.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 106.36,
+          "y": 29.6,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 96.82,
+          "y": 21.84,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 93.42,
+          "y": 26.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 92.06,
+          "y": 23.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 90.8,
+          "y": 34.24,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.7,
+          "y": 29.29,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 97.82,
+          "y": 32.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 91.01,
+          "y": 20.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.25,
+          "y": 22.04,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 97.76,
+          "y": 38.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 91.5,
+          "y": 25.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.14,
+          "y": 9.74,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 91.57,
+          "y": 10.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 91.15,
+          "y": 27.15,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 8,
+      "ball": {
+        "x": 91.08,
+        "y": 23.83
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 93.01,
+          "y": 30.91,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 95.26,
+          "y": 26.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 92.88,
+          "y": 18.07,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 93.55,
+          "y": 22.11,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 88.14,
+          "y": 23.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 104.18,
+          "y": 17.05,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 91.23,
+          "y": 22.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 91.75,
+          "y": 31.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 106.42,
+          "y": 29.59,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 96.81,
+          "y": 21.86,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 93.37,
+          "y": 26.86,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 91.98,
+          "y": 23.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 90.81,
+          "y": 34.25,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.69,
+          "y": 29.31,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 97.83,
+          "y": 32.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 90.96,
+          "y": 20.7,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.25,
+          "y": 22.04,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 97.9,
+          "y": 38.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 91.48,
+          "y": 25.54,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.15,
+          "y": 9.73,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 91.59,
+          "y": 10.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 91.06,
+          "y": 27.18,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 9,
+      "ball": {
+        "x": 90.48,
+        "y": 23.8
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 92.95,
+          "y": 30.92,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 95.37,
+          "y": 26.23,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 92.75,
+          "y": 18.09,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 93.49,
+          "y": 22.14,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 88.13,
+          "y": 23.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 104.07,
+          "y": 17.0,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 91.22,
+          "y": 22.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 91.76,
+          "y": 31.83,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 106.49,
+          "y": 29.55,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 96.81,
+          "y": 21.89,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 93.29,
+          "y": 26.88,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 91.87,
+          "y": 23.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 90.85,
+          "y": 34.26,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.68,
+          "y": 29.32,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 97.85,
+          "y": 32.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 90.87,
+          "y": 20.66,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.26,
+          "y": 22.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 98.08,
+          "y": 38.84,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 91.44,
+          "y": 25.57,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.15,
+          "y": 9.73,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 91.63,
+          "y": 10.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 90.95,
+          "y": 27.23,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 10,
+      "ball": {
+        "x": 89.88,
+        "y": 23.77
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 92.83,
+          "y": 30.92,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 95.5,
+          "y": 26.34,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 92.58,
+          "y": 18.13,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 93.35,
+          "y": 22.21,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 88.1,
+          "y": 23.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.96,
+          "y": 16.97,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 91.22,
+          "y": 22.28,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 91.81,
+          "y": 31.86,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 106.56,
+          "y": 29.51,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 96.82,
+          "y": 21.93,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 93.17,
+          "y": 26.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 91.75,
+          "y": 23.67,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 90.93,
+          "y": 34.28,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.67,
+          "y": 29.35,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 97.85,
+          "y": 32.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 90.73,
+          "y": 20.61,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.27,
+          "y": 22.07,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 98.26,
+          "y": 38.83,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 91.39,
+          "y": 25.62,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.17,
+          "y": 9.71,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 91.7,
+          "y": 10.2,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 90.8,
+          "y": 27.29,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 11,
+      "ball": {
+        "x": 89.34,
+        "y": 23.73
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 92.65,
+          "y": 30.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 95.65,
+          "y": 26.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 92.37,
+          "y": 18.18,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 93.17,
+          "y": 22.31,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 88.06,
+          "y": 23.83,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.86,
+          "y": 16.94,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 91.21,
+          "y": 22.28,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 91.88,
+          "y": 31.9,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 106.65,
+          "y": 29.45,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 96.84,
+          "y": 21.98,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 93.01,
+          "y": 26.93,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 91.61,
+          "y": 23.63,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 91.06,
+          "y": 34.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.64,
+          "y": 29.42,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 97.87,
+          "y": 32.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 90.57,
+          "y": 20.54,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.3,
+          "y": 22.13,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 98.46,
+          "y": 38.82,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 91.32,
+          "y": 25.7,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.18,
+          "y": 9.71,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 91.81,
+          "y": 10.24,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 90.64,
+          "y": 27.35,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 12,
+      "ball": {
+        "x": 88.89,
+        "y": 23.68
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 92.39,
+          "y": 30.89,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 95.81,
+          "y": 26.61,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 92.11,
+          "y": 18.26,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 92.98,
+          "y": 22.41,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 88.0,
+          "y": 23.85,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.76,
+          "y": 16.91,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 91.2,
+          "y": 22.28,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 92.01,
+          "y": 31.96,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 106.75,
+          "y": 29.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 96.86,
+          "y": 22.03,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 92.83,
+          "y": 26.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 91.47,
+          "y": 23.57,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 91.28,
+          "y": 34.37,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.58,
+          "y": 29.54,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 97.88,
+          "y": 32.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 90.39,
+          "y": 20.47,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.35,
+          "y": 22.23,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 98.67,
+          "y": 38.82,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 91.23,
+          "y": 25.79,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.22,
+          "y": 9.71,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 91.98,
+          "y": 10.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 90.44,
+          "y": 27.42,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 13,
+      "ball": {
+        "x": 88.5,
+        "y": 23.62
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 92.08,
+          "y": 30.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 95.98,
+          "y": 26.76,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 91.81,
+          "y": 18.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 92.74,
+          "y": 22.53,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 87.92,
+          "y": 23.86,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.67,
+          "y": 16.88,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 91.17,
+          "y": 22.27,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 92.19,
+          "y": 32.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 106.87,
+          "y": 29.3,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 96.89,
+          "y": 22.09,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 92.62,
+          "y": 26.96,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 91.29,
+          "y": 23.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 91.53,
+          "y": 34.44,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.5,
+          "y": 29.68,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 97.9,
+          "y": 32.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 90.18,
+          "y": 20.38,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.42,
+          "y": 22.38,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 98.91,
+          "y": 38.82,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 91.13,
+          "y": 25.9,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.23,
+          "y": 9.71,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 92.18,
+          "y": 10.39,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 90.24,
+          "y": 27.48,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 14,
+      "ball": {
+        "x": 88.19,
+        "y": 23.56
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 91.72,
+          "y": 30.94,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 96.15,
+          "y": 26.91,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 91.47,
+          "y": 18.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 92.49,
+          "y": 22.67,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 87.81,
+          "y": 23.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.58,
+          "y": 16.84,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 91.11,
+          "y": 22.25,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 92.4,
+          "y": 32.16,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 107.0,
+          "y": 29.22,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 96.95,
+          "y": 22.17,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 92.4,
+          "y": 26.96,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 91.12,
+          "y": 23.44,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 91.84,
+          "y": 34.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.42,
+          "y": 29.85,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 97.93,
+          "y": 32.96,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 89.96,
+          "y": 20.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.51,
+          "y": 22.57,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 99.17,
+          "y": 38.83,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 91.0,
+          "y": 26.02,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.27,
+          "y": 9.71,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 92.43,
+          "y": 10.51,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 90.02,
+          "y": 27.54,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 15,
+      "ball": {
+        "x": 87.95,
+        "y": 23.52
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 91.33,
+          "y": 31.01,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 96.32,
+          "y": 27.08,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 91.09,
+          "y": 18.58,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 92.22,
+          "y": 22.81,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 87.69,
+          "y": 23.9,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.49,
+          "y": 16.8,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 91.01,
+          "y": 22.23,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 92.67,
+          "y": 32.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 107.14,
+          "y": 29.15,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 97.03,
+          "y": 22.27,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 92.17,
+          "y": 26.93,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 90.94,
+          "y": 23.39,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 92.21,
+          "y": 34.67,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.31,
+          "y": 30.04,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 98.01,
+          "y": 32.99,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 89.73,
+          "y": 20.19,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.61,
+          "y": 22.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 99.44,
+          "y": 38.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 90.85,
+          "y": 26.13,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.37,
+          "y": 9.72,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 92.72,
+          "y": 10.65,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 89.78,
+          "y": 27.6,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 16,
+      "ball": {
+        "x": 87.75,
+        "y": 23.47
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 90.91,
+          "y": 31.08,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 96.49,
+          "y": 27.24,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 90.68,
+          "y": 18.67,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 91.95,
+          "y": 22.94,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 87.53,
+          "y": 23.92,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.4,
+          "y": 16.77,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 90.88,
+          "y": 22.2,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 92.99,
+          "y": 32.45,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 107.31,
+          "y": 29.09,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 97.14,
+          "y": 22.39,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 91.93,
+          "y": 26.87,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 90.75,
+          "y": 23.34,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 92.64,
+          "y": 34.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.18,
+          "y": 30.25,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 98.1,
+          "y": 33.02,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 89.49,
+          "y": 20.09,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.71,
+          "y": 23.08,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 99.73,
+          "y": 38.89,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 90.69,
+          "y": 26.22,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.54,
+          "y": 9.73,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 93.06,
+          "y": 10.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 89.53,
+          "y": 27.64,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 17,
+      "ball": {
+        "x": 87.56,
+        "y": 23.42
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 90.48,
+          "y": 31.17,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 96.66,
+          "y": 27.41,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 90.24,
+          "y": 18.75,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 91.67,
+          "y": 23.07,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 87.35,
+          "y": 23.94,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.31,
+          "y": 16.74,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 90.74,
+          "y": 22.19,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 93.35,
+          "y": 32.63,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 107.48,
+          "y": 29.04,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 97.28,
+          "y": 22.52,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 91.7,
+          "y": 26.77,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 90.56,
+          "y": 23.32,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 93.12,
+          "y": 34.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.02,
+          "y": 30.46,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 98.24,
+          "y": 33.07,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 89.25,
+          "y": 19.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.81,
+          "y": 23.37,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 100.03,
+          "y": 38.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 90.52,
+          "y": 26.31,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 94.76,
+          "y": 9.76,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 93.43,
+          "y": 11.02,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 89.26,
+          "y": 27.68,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 18,
+      "ball": {
+        "x": 87.36,
+        "y": 23.38
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 90.04,
+          "y": 31.27,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 96.83,
+          "y": 27.59,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 89.79,
+          "y": 18.82,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 91.38,
+          "y": 23.2,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 87.15,
+          "y": 23.95,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.21,
+          "y": 16.71,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 90.57,
+          "y": 22.16,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 93.75,
+          "y": 32.83,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 107.67,
+          "y": 29.0,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 97.43,
+          "y": 22.66,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 91.47,
+          "y": 26.65,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 90.37,
+          "y": 23.31,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 93.63,
+          "y": 35.16,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 89.85,
+          "y": 30.67,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 98.41,
+          "y": 33.15,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 89.02,
+          "y": 19.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.91,
+          "y": 23.67,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 100.36,
+          "y": 39.02,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 90.35,
+          "y": 26.36,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 95.05,
+          "y": 9.8,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 93.84,
+          "y": 11.22,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 88.99,
+          "y": 27.71,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 19,
+      "ball": {
+        "x": 87.18,
+        "y": 23.35
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 89.59,
+          "y": 31.37,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 97.0,
+          "y": 27.77,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 89.33,
+          "y": 18.87,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 91.1,
+          "y": 23.33,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 86.93,
+          "y": 23.96,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.11,
+          "y": 16.68,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 90.4,
+          "y": 22.14,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 94.19,
+          "y": 33.04,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 107.88,
+          "y": 28.98,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 97.61,
+          "y": 22.81,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 91.24,
+          "y": 26.51,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 90.17,
+          "y": 23.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 94.2,
+          "y": 35.37,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 89.67,
+          "y": 30.88,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 98.61,
+          "y": 33.25,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 88.79,
+          "y": 19.77,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 87.97,
+          "y": 23.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 100.7,
+          "y": 39.1,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 90.17,
+          "y": 26.38,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 95.41,
+          "y": 9.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 94.28,
+          "y": 11.44,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 88.71,
+          "y": 27.74,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 20,
+      "ball": {
+        "x": 87.03,
+        "y": 23.32
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 89.14,
+          "y": 31.46,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 97.17,
+          "y": 27.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 88.85,
+          "y": 18.92,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 90.82,
+          "y": 23.44,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 86.68,
+          "y": 23.96,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.0,
+          "y": 16.64,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 90.2,
+          "y": 22.14,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 94.65,
+          "y": 33.28,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 108.09,
+          "y": 28.97,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 97.79,
+          "y": 22.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 91.01,
+          "y": 26.37,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 89.97,
+          "y": 23.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 94.79,
+          "y": 35.57,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 89.48,
+          "y": 31.08,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 98.83,
+          "y": 33.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 88.54,
+          "y": 19.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 88.02,
+          "y": 24.28,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 101.06,
+          "y": 39.19,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 90.01,
+          "y": 26.39,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 95.83,
+          "y": 9.92,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 94.75,
+          "y": 11.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 88.44,
+          "y": 27.75,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 21,
+      "ball": {
+        "x": 86.84,
+        "y": 23.3
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 88.7,
+          "y": 31.52,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 97.33,
+          "y": 28.14,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 88.37,
+          "y": 18.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 90.55,
+          "y": 23.56,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 86.42,
+          "y": 23.95,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 102.89,
+          "y": 16.61,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 90.0,
+          "y": 22.14,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 95.14,
+          "y": 33.54,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 108.32,
+          "y": 28.98,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 98.0,
+          "y": 23.1,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 90.8,
+          "y": 26.21,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 89.79,
+          "y": 23.31,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 95.42,
+          "y": 35.79,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 89.29,
+          "y": 31.28,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 99.07,
+          "y": 33.55,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 88.29,
+          "y": 19.59,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 88.06,
+          "y": 24.58,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 101.45,
+          "y": 39.3,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 89.83,
+          "y": 26.34,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 96.29,
+          "y": 9.99,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 95.27,
+          "y": 11.91,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 88.15,
+          "y": 27.76,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 22,
+      "ball": {
+        "x": 86.64,
+        "y": 23.29
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 88.26,
+          "y": 31.55,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 97.49,
+          "y": 28.32,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 87.89,
+          "y": 18.99,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 90.25,
+          "y": 23.67,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 86.14,
+          "y": 23.93,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 102.77,
+          "y": 16.56,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 89.79,
+          "y": 22.14,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 95.64,
+          "y": 33.83,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 108.56,
+          "y": 29.01,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 98.21,
+          "y": 23.23,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 90.59,
+          "y": 26.04,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 89.6,
+          "y": 23.35,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 96.08,
+          "y": 36.02,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 89.1,
+          "y": 31.47,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 99.31,
+          "y": 33.75,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 88.01,
+          "y": 19.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 88.08,
+          "y": 24.86,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 101.86,
+          "y": 39.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 89.65,
+          "y": 26.27,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 96.8,
+          "y": 10.08,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 95.82,
+          "y": 12.13,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 87.88,
+          "y": 27.75,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 23,
+      "ball": {
+        "x": 86.44,
+        "y": 23.28
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 87.85,
+          "y": 31.52,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 97.65,
+          "y": 28.49,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 87.41,
+          "y": 19.04,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 89.95,
+          "y": 23.79,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 85.86,
+          "y": 23.91,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 102.67,
+          "y": 16.51,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 89.58,
+          "y": 22.15,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 96.17,
+          "y": 34.14,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 108.82,
+          "y": 29.04,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 98.43,
+          "y": 23.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 90.38,
+          "y": 25.88,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 89.41,
+          "y": 23.4,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 96.76,
+          "y": 36.26,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 88.97,
+          "y": 31.66,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 99.56,
+          "y": 33.99,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 87.7,
+          "y": 19.47,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 88.08,
+          "y": 25.12,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 102.3,
+          "y": 39.56,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 89.45,
+          "y": 26.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 97.34,
+          "y": 10.19,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 96.4,
+          "y": 12.34,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 87.59,
+          "y": 27.75,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 24,
+      "ball": {
+        "x": 86.22,
+        "y": 23.31
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 87.45,
+          "y": 31.43,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 97.8,
+          "y": 28.67,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 86.94,
+          "y": 19.11,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 89.64,
+          "y": 23.93,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 85.58,
+          "y": 23.9,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 102.59,
+          "y": 16.46,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 89.35,
+          "y": 22.16,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 96.7,
+          "y": 34.45,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 109.09,
+          "y": 29.07,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 98.65,
+          "y": 23.48,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 90.19,
+          "y": 25.71,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 89.21,
+          "y": 23.46,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 97.46,
+          "y": 36.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 88.95,
+          "y": 31.88,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 99.81,
+          "y": 34.24,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 87.39,
+          "y": 19.44,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 88.09,
+          "y": 25.35,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 102.75,
+          "y": 39.7,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 89.27,
+          "y": 26.09,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 97.92,
+          "y": 10.31,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 97.01,
+          "y": 12.56,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 87.31,
+          "y": 27.76,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 25,
+      "ball": {
+        "x": 86.0,
+        "y": 23.34
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 87.08,
+          "y": 31.26,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 97.95,
+          "y": 28.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 86.47,
+          "y": 19.2,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 89.34,
+          "y": 24.07,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 85.31,
+          "y": 23.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 102.52,
+          "y": 16.4,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 89.13,
+          "y": 22.16,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 97.24,
+          "y": 34.76,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 109.37,
+          "y": 29.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 98.87,
+          "y": 23.58,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 89.99,
+          "y": 25.56,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 89.01,
+          "y": 23.58,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 98.18,
+          "y": 36.77,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 88.92,
+          "y": 32.1,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 100.06,
+          "y": 34.54,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 87.06,
+          "y": 19.43,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 88.11,
+          "y": 25.56,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 103.22,
+          "y": 39.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 89.09,
+          "y": 25.99,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 98.51,
+          "y": 10.43,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 97.64,
+          "y": 12.76,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 87.03,
+          "y": 27.76,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 26,
+      "ball": {
+        "x": 85.79,
+        "y": 23.4
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 86.73,
+          "y": 31.03,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 98.1,
+          "y": 29.04,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 86.01,
+          "y": 19.31,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 89.03,
+          "y": 24.23,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 85.05,
+          "y": 23.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 102.47,
+          "y": 16.35,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 88.9,
+          "y": 22.17,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 97.79,
+          "y": 35.07,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 109.65,
+          "y": 29.18,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 99.09,
+          "y": 23.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 89.79,
+          "y": 25.4,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 88.8,
+          "y": 23.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 98.91,
+          "y": 37.04,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 88.91,
+          "y": 32.32,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 100.3,
+          "y": 34.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 86.72,
+          "y": 19.44,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 88.14,
+          "y": 25.73,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 103.71,
+          "y": 40.01,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 88.9,
+          "y": 25.9,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 99.13,
+          "y": 10.57,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 98.28,
+          "y": 12.95,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 86.75,
+          "y": 27.77,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 27,
+      "ball": {
+        "x": 85.53,
+        "y": 23.42
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 86.39,
+          "y": 30.74,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 98.25,
+          "y": 29.23,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 85.58,
+          "y": 19.45,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 88.72,
+          "y": 24.4,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 84.82,
+          "y": 23.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 102.43,
+          "y": 16.3,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 88.67,
+          "y": 22.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 98.34,
+          "y": 35.37,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 109.94,
+          "y": 29.26,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 99.31,
+          "y": 23.79,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 89.58,
+          "y": 25.25,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 88.59,
+          "y": 23.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 99.65,
+          "y": 37.31,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 88.96,
+          "y": 32.55,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 100.54,
+          "y": 35.19,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 86.35,
+          "y": 19.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 88.19,
+          "y": 25.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 104.21,
+          "y": 40.19,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 88.73,
+          "y": 25.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 99.77,
+          "y": 10.72,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 98.94,
+          "y": 13.13,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 86.44,
+          "y": 27.76,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 28,
+      "ball": {
+        "x": 85.3,
+        "y": 23.46
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 86.06,
+          "y": 30.4,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 98.4,
+          "y": 29.43,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 85.17,
+          "y": 19.62,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 88.43,
+          "y": 24.56,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 84.63,
+          "y": 23.91,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 102.43,
+          "y": 16.26,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 88.44,
+          "y": 22.19,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 98.89,
+          "y": 35.64,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 110.23,
+          "y": 29.35,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 99.51,
+          "y": 23.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 89.35,
+          "y": 25.11,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 88.37,
+          "y": 23.94,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 100.39,
+          "y": 37.58,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 89.07,
+          "y": 32.8,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 100.79,
+          "y": 35.52,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 85.99,
+          "y": 19.58,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 88.27,
+          "y": 26.01,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 104.72,
+          "y": 40.37,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 88.57,
+          "y": 25.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 100.42,
+          "y": 10.88,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 99.62,
+          "y": 13.31,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 86.16,
+          "y": 27.77,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 29,
+      "ball": {
+        "x": 85.08,
+        "y": 23.53
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 85.72,
+          "y": 30.03,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 98.56,
+          "y": 29.64,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 84.79,
+          "y": 19.83,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 88.13,
+          "y": 24.73,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 84.46,
+          "y": 23.97,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 102.46,
+          "y": 16.22,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 88.21,
+          "y": 22.19,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 99.44,
+          "y": 35.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 110.51,
+          "y": 29.45,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 99.7,
+          "y": 24.02,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 89.11,
+          "y": 24.96,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 88.13,
+          "y": 24.08,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 101.14,
+          "y": 37.84,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 89.24,
+          "y": 33.08,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 101.06,
+          "y": 35.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 85.62,
+          "y": 19.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 88.38,
+          "y": 26.12,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 105.23,
+          "y": 40.57,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 88.4,
+          "y": 25.67,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 101.07,
+          "y": 11.04,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 100.3,
+          "y": 13.51,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 85.87,
+          "y": 27.76,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 30,
+      "ball": {
+        "x": 84.89,
+        "y": 23.61
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 85.39,
+          "y": 29.64,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 98.71,
+          "y": 29.87,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 84.46,
+          "y": 20.07,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 87.85,
+          "y": 24.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 84.32,
+          "y": 24.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 102.51,
+          "y": 16.2,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 87.98,
+          "y": 22.21,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 99.99,
+          "y": 36.09,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 110.8,
+          "y": 29.56,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 99.88,
+          "y": 24.14,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 88.83,
+          "y": 24.82,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 87.9,
+          "y": 24.23,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 101.89,
+          "y": 38.08,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 89.47,
+          "y": 33.38,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 101.32,
+          "y": 36.16,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 85.23,
+          "y": 19.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 88.54,
+          "y": 26.23,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 105.75,
+          "y": 40.77,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 88.22,
+          "y": 25.61,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 101.73,
+          "y": 11.21,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 100.97,
+          "y": 13.73,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 85.59,
+          "y": 27.74,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 31,
+      "ball": {
+        "x": 84.72,
+        "y": 23.71
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 85.05,
+          "y": 29.25,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 98.87,
+          "y": 30.13,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 84.17,
+          "y": 20.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 87.64,
+          "y": 25.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 84.23,
+          "y": 24.14,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 102.58,
+          "y": 16.19,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 87.74,
+          "y": 22.22,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 100.53,
+          "y": 36.27,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 111.08,
+          "y": 29.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 100.05,
+          "y": 24.28,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 88.53,
+          "y": 24.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 87.65,
+          "y": 24.38,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 102.64,
+          "y": 38.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 89.74,
+          "y": 33.71,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 101.61,
+          "y": 36.44,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 84.86,
+          "y": 19.96,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 88.73,
+          "y": 26.34,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 106.27,
+          "y": 40.98,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 88.05,
+          "y": 25.57,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 102.39,
+          "y": 11.39,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 101.61,
+          "y": 13.99,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 85.29,
+          "y": 27.68,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 32,
+      "ball": {
+        "x": 84.57,
+        "y": 23.82
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 84.71,
+          "y": 28.87,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 99.02,
+          "y": 30.41,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 83.93,
+          "y": 20.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 87.41,
+          "y": 25.21,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 84.17,
+          "y": 24.25,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 102.67,
+          "y": 16.18,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 87.49,
+          "y": 22.26,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 101.05,
+          "y": 36.43,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 111.36,
+          "y": 29.84,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 100.2,
+          "y": 24.44,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 88.22,
+          "y": 24.58,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 87.39,
+          "y": 24.54,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 103.39,
+          "y": 38.46,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.04,
+          "y": 34.05,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 101.92,
+          "y": 36.7,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 84.49,
+          "y": 20.12,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 88.96,
+          "y": 26.46,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 106.79,
+          "y": 41.18,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 87.88,
+          "y": 25.54,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 103.04,
+          "y": 11.59,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 102.22,
+          "y": 14.28,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 84.99,
+          "y": 27.62,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 33,
+      "ball": {
+        "x": 84.44,
+        "y": 23.94
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 84.37,
+          "y": 28.51,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 99.16,
+          "y": 30.72,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 83.73,
+          "y": 21.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 87.2,
+          "y": 25.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 84.14,
+          "y": 24.37,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 102.79,
+          "y": 16.19,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 87.23,
+          "y": 22.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 101.56,
+          "y": 36.58,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 111.64,
+          "y": 29.97,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 100.33,
+          "y": 24.63,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 87.88,
+          "y": 24.49,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 87.1,
+          "y": 24.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 104.15,
+          "y": 38.6,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.38,
+          "y": 34.42,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 102.24,
+          "y": 36.93,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 84.13,
+          "y": 20.31,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 89.21,
+          "y": 26.61,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 107.29,
+          "y": 41.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 87.71,
+          "y": 25.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 103.69,
+          "y": 11.82,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 102.8,
+          "y": 14.63,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 84.66,
+          "y": 27.49,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 34,
+      "ball": {
+        "x": 84.34,
+        "y": 24.08
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 84.03,
+          "y": 28.16,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 99.28,
+          "y": 31.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 83.59,
+          "y": 21.46,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 87.02,
+          "y": 25.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 84.13,
+          "y": 24.48,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 102.91,
+          "y": 16.2,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 86.99,
+          "y": 22.35,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 102.03,
+          "y": 36.71,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 111.92,
+          "y": 30.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 100.45,
+          "y": 24.84,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 87.52,
+          "y": 24.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 86.85,
+          "y": 24.84,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 104.9,
+          "y": 38.7,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 90.73,
+          "y": 34.8,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 102.55,
+          "y": 37.14,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 83.78,
+          "y": 20.51,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 89.5,
+          "y": 26.79,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 107.8,
+          "y": 41.56,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 87.55,
+          "y": 25.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 104.33,
+          "y": 12.08,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 103.34,
+          "y": 15.01,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 84.32,
+          "y": 27.35,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 35,
+      "ball": {
+        "x": 84.26,
+        "y": 24.23
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 83.69,
+          "y": 27.84,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 99.4,
+          "y": 31.44,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 83.5,
+          "y": 21.89,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 86.85,
+          "y": 25.59,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 84.14,
+          "y": 24.6,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.05,
+          "y": 16.22,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 86.74,
+          "y": 22.41,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 102.46,
+          "y": 36.85,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 112.18,
+          "y": 30.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 100.55,
+          "y": 25.08,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 87.15,
+          "y": 24.39,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 86.63,
+          "y": 24.96,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 105.65,
+          "y": 38.76,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 91.09,
+          "y": 35.19,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 102.85,
+          "y": 37.33,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 83.44,
+          "y": 20.74,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 89.79,
+          "y": 27.0,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 108.28,
+          "y": 41.72,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 87.39,
+          "y": 25.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 104.95,
+          "y": 12.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 103.85,
+          "y": 15.44,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 83.98,
+          "y": 27.18,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 36,
+      "ball": {
+        "x": 85.83,
+        "y": 26.65
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 83.35,
+          "y": 27.55,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 99.49,
+          "y": 31.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 83.44,
+          "y": 22.33,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 86.71,
+          "y": 25.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 84.17,
+          "y": 24.7,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.2,
+          "y": 16.24,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 86.49,
+          "y": 22.48,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 102.85,
+          "y": 36.99,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 112.43,
+          "y": 30.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 100.63,
+          "y": 25.35,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 86.77,
+          "y": 24.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 86.42,
+          "y": 25.06,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 106.38,
+          "y": 38.78,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 91.46,
+          "y": 35.58,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 103.15,
+          "y": 37.51,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 83.12,
+          "y": 20.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 90.09,
+          "y": 27.25,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 108.72,
+          "y": 41.89,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 87.24,
+          "y": 25.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 105.56,
+          "y": 12.71,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 104.3,
+          "y": 15.93,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 83.65,
+          "y": 27.01,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 37,
+      "ball": {
+        "x": 86.78,
+        "y": 28.24
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 83.03,
+          "y": 27.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 99.56,
+          "y": 32.31,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 83.41,
+          "y": 22.78,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 86.57,
+          "y": 25.65,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 84.2,
+          "y": 24.79,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.35,
+          "y": 16.27,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 86.25,
+          "y": 22.55,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 103.2,
+          "y": 37.15,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 112.65,
+          "y": 30.65,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 100.69,
+          "y": 25.65,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 86.39,
+          "y": 24.39,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 86.21,
+          "y": 25.16,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 107.11,
+          "y": 38.75,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 91.82,
+          "y": 35.98,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 103.43,
+          "y": 37.7,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 82.83,
+          "y": 21.23,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 90.39,
+          "y": 27.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 109.12,
+          "y": 42.04,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 87.1,
+          "y": 25.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 106.13,
+          "y": 13.07,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 104.69,
+          "y": 16.46,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 83.31,
+          "y": 26.8,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 38,
+      "ball": {
+        "x": 87.72,
+        "y": 29.84
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 82.71,
+          "y": 27.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 99.59,
+          "y": 32.82,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 83.42,
+          "y": 23.25,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 86.45,
+          "y": 25.65,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 84.22,
+          "y": 24.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.5,
+          "y": 16.32,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 86.01,
+          "y": 22.65,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 103.49,
+          "y": 37.35,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 112.83,
+          "y": 30.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 100.74,
+          "y": 25.98,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 86.03,
+          "y": 24.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 86.03,
+          "y": 25.25,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 107.83,
+          "y": 38.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 92.17,
+          "y": 36.39,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 103.66,
+          "y": 37.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 82.57,
+          "y": 21.48,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 90.67,
+          "y": 27.85,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 109.48,
+          "y": 42.18,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 86.98,
+          "y": 25.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 106.68,
+          "y": 13.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 105.04,
+          "y": 17.02,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 82.98,
+          "y": 26.6,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 39,
+      "ball": {
+        "x": 88.65,
+        "y": 31.42
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 82.44,
+          "y": 26.87,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 99.59,
+          "y": 33.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 83.45,
+          "y": 23.7,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 86.37,
+          "y": 25.63,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 84.24,
+          "y": 24.95,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.64,
+          "y": 16.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 85.78,
+          "y": 22.74,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 103.72,
+          "y": 37.56,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 112.98,
+          "y": 31.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 100.77,
+          "y": 26.32,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 85.68,
+          "y": 24.45,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 85.85,
+          "y": 25.32,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 108.53,
+          "y": 38.61,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 92.52,
+          "y": 36.79,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 103.85,
+          "y": 38.13,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 82.34,
+          "y": 21.74,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 90.94,
+          "y": 28.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 109.8,
+          "y": 42.32,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 86.89,
+          "y": 25.48,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 107.2,
+          "y": 13.89,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 105.34,
+          "y": 17.61,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 82.68,
+          "y": 26.41,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 40,
+      "ball": {
+        "x": 89.57,
+        "y": 32.98
+      },
+      "players": [
+        {
+          "nfl_id": 37087,
+          "jersey": 94,
+          "team": "CHI",
+          "x": 82.18,
+          "y": 26.72,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39976,
+          "jersey": 44,
+          "team": "CHI",
+          "x": 99.55,
+          "y": 33.93,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41279,
+          "jersey": 50,
+          "team": "CHI",
+          "x": 83.51,
+          "y": 24.16,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42443,
+          "jersey": 90,
+          "team": "CHI",
+          "x": 86.31,
+          "y": 25.61,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43290,
+          "jersey": 16,
+          "team": "DET",
+          "x": 84.25,
+          "y": 25.03,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43413,
+          "jersey": 26,
+          "team": "CHI",
+          "x": 103.78,
+          "y": 16.49,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43453,
+          "jersey": 72,
+          "team": "DET",
+          "x": 85.57,
+          "y": 22.85,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43584,
+          "jersey": 11,
+          "team": "DET",
+          "x": 103.91,
+          "y": 37.8,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44925,
+          "jersey": 4,
+          "team": "CHI",
+          "x": 113.08,
+          "y": 31.28,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46077,
+          "jersey": 58,
+          "team": "CHI",
+          "x": 100.76,
+          "y": 26.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46214,
+          "jersey": 98,
+          "team": "CHI",
+          "x": 85.35,
+          "y": 24.5,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46679,
+          "jersey": 63,
+          "team": "DET",
+          "x": 85.69,
+          "y": 25.38,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46992,
+          "jersey": 18,
+          "team": "DET",
+          "x": 109.2,
+          "y": 38.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47791,
+          "jersey": 88,
+          "team": "DET",
+          "x": 92.86,
+          "y": 37.19,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 47988,
+          "jersey": 20,
+          "team": "CHI",
+          "x": 103.99,
+          "y": 38.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48455,
+          "jersey": 67,
+          "team": "DET",
+          "x": 82.13,
+          "y": 21.99,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52443,
+          "jersey": 32,
+          "team": "DET",
+          "x": 91.19,
+          "y": 28.54,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52458,
+          "jersey": 33,
+          "team": "CHI",
+          "x": 110.07,
+          "y": 42.46,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52483,
+          "jersey": 73,
+          "team": "DET",
+          "x": 86.83,
+          "y": 25.47,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52571,
+          "jersey": 22,
+          "team": "CHI",
+          "x": 107.68,
+          "y": 14.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52574,
+          "jersey": 87,
+          "team": "DET",
+          "x": 105.59,
+          "y": 18.23,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53436,
+          "jersey": 58,
+          "team": "DET",
+          "x": 82.39,
+          "y": 26.23,
+          "is_offense": true,
+          "is_target": false
+        }
+      ]
+    }
+  ]
+}

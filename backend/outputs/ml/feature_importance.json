@@ -1,54 +1,54 @@
 [
   {
     "feature": "sep_nearest",
-    "importance": 0.442
+    "importance": 0.3627
   },
   {
     "feature": "qb_dist",
-    "importance": 0.1323
+    "importance": 0.1618
   },
   {
     "feature": "depth",
-    "importance": 0.1154
+    "importance": 0.1204
   },
   {
     "feature": "pressure_dist",
-    "importance": 0.0908
+    "importance": 0.1028
   },
   {
     "feature": "rec_speed",
-    "importance": 0.0533
+    "importance": 0.0608
   },
   {
     "feature": "sideline_dist",
-    "importance": 0.05
+    "importance": 0.0525
   },
   {
     "feature": "rec_accel",
-    "importance": 0.0294
+    "importance": 0.044
   },
   {
     "feature": "sep_second",
-    "importance": 0.0286
+    "importance": 0.0298
   },
   {
     "feature": "time_to_throw",
-    "importance": 0.0225
+    "importance": 0.0248
   },
   {
     "feature": "release_speed",
-    "importance": 0.0195
+    "importance": 0.0194
   },
   {
     "feature": "yardsToGo",
-    "importance": 0.0076
+    "importance": 0.0103
   },
   {
     "feature": "down",
-    "importance": 0.0059
+    "importance": 0.0076
   },
   {
     "feature": "defendersInBox",
-    "importance": 0.0027
+    "importance": 0.0031
   }
 ]

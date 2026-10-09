@@ -6,13 +6,18 @@ Output: backend/outputs/common/features.csv with columns (exact, snake_case):
   sep_nearest, sep_second, depth, sideline_dist, rec_speed, rec_accel,
   qb_dist, pressure_dist, time_to_throw, release_speed
 
-The targeted receiver is read from playDescription ("... pass [incomplete]
-short|deep left|middle|right to <NAME> ...") and matched by last name (first
-initial breaks ties) to the play's offensive pff "Pass Route" players. Target
-selection uses only the description, pff roles, players.csv names, and the
-first (pre-snap) tracking frame for team; nothing after the throw. Plays with
-no unique match are dropped. Separation is the distance from that receiver to
-the nearest / second-nearest defender at arrival.
+The targeted receiver is read from playDescription, either "... pass
+[incomplete] short|deep left|middle|right to <NAME> ..." or the interception
+form "... intended for <NAME> INTERCEPTED ...", and matched by last name (first
+initial breaks ties) to the play's offensive pff "Pass Route" players. Plays
+with no unique match are dropped.
+
+Every spatial feature (sep_nearest, sep_second, depth, sideline_dist,
+rec_speed, rec_accel, qb_dist, pressure_dist) is measured at the THROW frame:
+the first pass_forward / autoevent_passforward event. No frame after the throw
+is read anywhere in this module, so the features contain no post-throw
+information. depth uses the line of scrimmage from the snap frame, which
+precedes the throw.
 """
 from __future__ import annotations
 
@@ -159,84 +164,95 @@ def _offense_defense_teams(play_df: pd.DataFrame, play_row) -> tuple[str, str]:
     return off, deff
 
 
+def throw_frame_id(events: dict[str, int], max_frame: int) -> tuple[int, str]:
+    """Measurement frame: first pass_forward / autoevent_passforward.
+
+    Returns (frameId, source). Falls back to ball_snap then the first frame;
+    both are at or before the throw, so no post-throw data can leak in.
+    """
+    for key in (config.EV_PASS_FORWARD, "autoevent_passforward"):
+        if key in events:
+            return events[key], key
+    if config.EV_SNAP in events:
+        return events[config.EV_SNAP], "ball_snap_fallback"
+    return min(max_frame, 1), "first_frame_fallback"
+
+
 def extract_play(play_df: pd.DataFrame, play_row, pff_play: pd.DataFrame,
                  target_id: int) -> dict | None:
-    """Extract one feature row for a pass play whose target is already chosen."""
+    """Extract one feature row for a pass play whose target is already chosen.
+
+    Every spatial feature is measured at the throw frame. No frame after the
+    throw is read anywhere in this function.
+    """
     events = clean.event_frames(play_df)
     max_frame = int(play_df["frameId"].max())
 
-    throw_f = clean.throw_frame_id(events, max_frame)
-    arrive_f = clean.arrival_frame_id(events, max_frame)
+    throw_f, throw_src = throw_frame_id(events, max_frame)
     snap_f = events.get(config.EV_SNAP, throw_f)
+    if snap_f > throw_f:  # malformed event ordering; snap must precede throw
+        snap_f = throw_f
 
     off_team, def_team = _offense_defense_teams(play_df, play_row)
 
-    arr = _frame_slice(play_df, arrive_f)
-    tgt = arr[arr["nflId"] == target_id]
+    # Single measurement frame for all spatial features.
+    thr = _frame_slice(play_df, throw_f)
+    tgt = thr[thr["nflId"] == target_id]
     if tgt.empty:
         return None
     target = tgt.iloc[0]
     tx, ty = float(target["x"]), float(target["y"])
 
-    # Separation: distances to defenders at arrival.
-    defs = arr[(arr["team"] == def_team) & arr["nflId"].notna()]
+    # Separation: distance to nearest / second-nearest defender at the throw.
+    defs = thr[(thr["team"] == def_team) & thr["nflId"].notna()]
     if defs.empty:
         return None
     ddist = np.sort(np.hypot(defs["x"].to_numpy() - tx, defs["y"].to_numpy() - ty))
     sep_nearest = float(ddist[0])
     sep_second = float(ddist[1]) if len(ddist) > 1 else float("nan")
 
-    # Depth: downfield distance from line of scrimmage (ball x at snap).
-    snap_frame = _frame_slice(play_df, snap_f)
-    snap_ball = _football_xy(snap_frame) or _football_xy(_frame_slice(play_df, throw_f))
+    # Depth: downfield distance from the line of scrimmage (ball x at snap).
+    snap_ball = _football_xy(_frame_slice(play_df, snap_f)) or _football_xy(thr)
     if snap_ball is None:
         return None
-    los_x = snap_ball[0]
-    depth = float(tx - los_x)
+    depth = float(tx - snap_ball[0])
 
     sideline_dist = float(min(ty, config.FIELD_WIDTH - ty))
 
     rec_speed = float(target["s"]) if not pd.isna(target["s"]) else float("nan")
     rec_accel = float(target["a"]) if not pd.isna(target["a"]) else float("nan")
 
-    # QB at throw frame -> distance from target to QB (pressure proxy context).
-    throw_frame = _frame_slice(play_df, throw_f)
-    qb_dist = float("nan")
+    # QB at the throw frame -> distance from target to QB, release speed.
+    qb_id = None
+    if pff_play is not None and not pff_play.empty:
+        ids = [int(n) for n in pff_play.loc[pff_play["pff_role"] == "Pass",
+                                           "nflId"].dropna().tolist()]
+        if ids:
+            qb_id = ids[0]
+    qb_row = None
+    if qb_id is not None:
+        m = thr[thr["nflId"].astype("Int64") == qb_id]
+        if not m.empty:
+            qb_row = m.iloc[0]
+
     release_speed = float("nan")
+    if qb_row is None:
+        fb = _football_xy(thr)
+        qbx, qby = fb if fb is not None else (tx, ty)
+    else:
+        qbx, qby = float(qb_row["x"]), float(qb_row["y"])
+        release_speed = float(qb_row["s"]) if not pd.isna(qb_row["s"]) else float("nan")
+
+    qb_dist = _dist(tx, ty, qbx, qby)
+
+    # Pressure: nearest defender to the QB at the throw.
     pressure_dist = float("nan")
-    if not throw_frame.empty:
-        qb_id = None
-        if pff_play is not None and not pff_play.empty:
-            qbs = pff_play[pff_play["pff_role"] == "Pass"]
-            ids = [int(n) for n in qbs["nflId"].dropna().tolist()]
-            if ids:
-                qb_id = ids[0]
-        qb_row = None
-        if qb_id is not None:
-            m = throw_frame[throw_frame["nflId"].astype("Int64") == qb_id]
-            if not m.empty:
-                qb_row = m.iloc[0]
-        if qb_row is None:
-            fb = _football_xy(throw_frame)
-            if fb is not None:
-                qbx, qby = fb
-            else:
-                qbx, qby = tx, ty
-            release_speed = float("nan")
-        else:
-            qbx, qby = float(qb_row["x"]), float(qb_row["y"])
-            release_speed = float(qb_row["s"]) if not pd.isna(qb_row["s"]) else float("nan")
-
-        qb_dist = _dist(tx, ty, qbx, qby)
-
-        # Pressure: nearest defender to the QB at throw.
-        tdefs = throw_frame[(throw_frame["team"] == def_team) & throw_frame["nflId"].notna()]
-        if not tdefs.empty:
-            pd_arr = np.hypot(tdefs["x"].to_numpy() - qbx, tdefs["y"].to_numpy() - qby)
-            pressure_dist = float(np.min(pd_arr))
+    if not defs.empty:
+        pressure_dist = float(np.min(
+            np.hypot(defs["x"].to_numpy() - qbx, defs["y"].to_numpy() - qby)))
 
     # time_to_throw: seconds between snap and throw (10 fps tracking).
-    time_to_throw = float((throw_f - snap_f) / 10.0) if throw_f >= snap_f else float("nan")
+    time_to_throw = float((throw_f - snap_f) / 10.0)
 
     info = index.player_lookup().get(target_id, {"name": "", "position": ""})
     complete = 1 if str(play_row.passResult) == config.PASS_COMPLETE else 0
@@ -263,6 +279,9 @@ def extract_play(play_df: pd.DataFrame, play_row, pff_play: pd.DataFrame,
         "pressure_dist": round(pressure_dist, 3) if not np.isnan(pressure_dist) else np.nan,
         "time_to_throw": round(time_to_throw, 3) if not np.isnan(time_to_throw) else np.nan,
         "release_speed": round(release_speed, 3) if not np.isnan(release_speed) else np.nan,
+        # Audit-only (dropped before features.csv is written).
+        "throw_src": throw_src,
+        "throw_frame": int(throw_f),
     }
 
 
@@ -338,6 +357,7 @@ def build_features() -> pd.DataFrame:
                 extract_failed += 1
                 continue
             row["parsed_name"] = name
+            row["passResult"] = _str(play_row.passResult)
             rows.append(row)
         print(f"  [{i}/{len(files)}] {path.name}: {len(rows)} targeted passes so far")
 
@@ -358,6 +378,21 @@ def _report_matching(audit: pd.DataFrame, out: pd.DataFrame, extract_failed: int
           f"match %: {100.0 * matched / total:.2f}%" if total else "No pass plays.")
     if not total:
         return
+
+    # Measurement-frame confirmation (single line).
+    if not out.empty:
+        counts = out["throw_src"].value_counts().to_dict()
+        detail = ", ".join(f"{k}={v}" for k, v in counts.items())
+        print(f"Measured at: THROW frame (first pass_forward / "
+              f"autoevent_passforward); no post-throw frames used. [{detail}]")
+
+    # Result mix of the rows that made it into features.csv.
+    if "passResult" in out.columns and not out.empty:
+        rc = out["passResult"].value_counts().to_dict()
+        print("Result counts: " + "  ".join(
+            f"{k}={rc.get(k, 0)}" for k in ("C", "I", "IN")))
+        print(f"sep_nearest median: "
+              f"{pd.to_numeric(out['sep_nearest'], errors='coerce').median():.3f} yd")
     print("Unmatched by reason:")
     for reason, n in audit.loc[audit["reason"] != "ok", "reason"].value_counts().items():
         print(f"  {reason:<20} {n}")
