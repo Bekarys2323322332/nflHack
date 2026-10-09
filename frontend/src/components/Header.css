@@ -1,0 +1,79 @@
+/* Header: logo slot | title | nav. Wraps on narrow screens. */
+.site-header {
+  background: var(--color-panel);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.site-header__inner {
+  max-width: var(--page-max);
+  margin: 0 auto;
+  padding: 16px var(--page-pad);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px 24px;
+}
+
+/* ----- Logo slot ----- */
+.site-header__logo {
+  display: flex;
+  align-items: center;
+  min-height: 48px;
+  flex: none;
+}
+.site-header__logo img {
+  display: block;
+  height: 48px;
+  width: auto;
+  max-width: 100%;
+}
+/* Text fallback when /logo.png is missing */
+.wordmark {
+  display: inline-block;
+  padding: 8px 12px;
+  background: var(--color-navy);
+  border-left: 4px solid var(--color-red);
+  border-radius: 4px;
+  color: #ffffff;
+  font-family: var(--font-heading);
+  font-size: var(--fs-small);
+  font-weight: 600;
+  letter-spacing: var(--tracking);
+  line-height: 1.1;
+  white-space: nowrap;
+}
+
+/* ----- Titles ----- */
+.site-header__titles {
+  flex: 1 1 260px;
+  min-width: 0;
+}
+.site-header__title {
+  font-size: 2rem;
+  font-weight: 700;
+}
+.site-header__subtitle {
+  margin-top: 4px;
+  font-size: var(--fs-base);
+}
+
+/* ----- Navigation ----- */
+.site-header__nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-left: auto;
+}
+
+@media (max-width: 720px) {
+  .site-header__title {
+    font-size: 1.5rem;
+  }
+  .site-header__nav {
+    margin-left: 0;
+    width: 100%;
+  }
+  .site-header__nav .btn {
+    flex: 1 1 0;
+  }
+}

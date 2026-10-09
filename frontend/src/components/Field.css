@@ -1,0 +1,29 @@
+/* Field: responsive SVG, scales with its container. */
+.field {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+}
+
+/* Text inside the SVG uses the heading font. Sizes are in field yards. */
+.field__text {
+  font-family: var(--font-heading);
+  fill: #ffffff;
+  text-transform: uppercase;
+  user-select: none;
+}
+
+.field__numbers {
+  font-size: 3.6px;
+  font-weight: 500;
+  opacity: 0.9;
+  letter-spacing: 0.04em;
+}
+
+.field__endzone {
+  font-size: 4.2px;
+  font-weight: 600;
+  letter-spacing: 0.3em;
+  opacity: 0.85;
+}

@@ -1,0 +1,443 @@
+/*
+ * Insights page styles: view toggle, charts mode and heatmap mode.
+ * Flat colours only. Minimum text size 14px.
+ */
+
+.insights {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-width: 0;
+}
+
+/* ---------- View toggle bar ---------- */
+.view-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.view-toggle .btn {
+  min-width: 128px;
+}
+
+/* ---------- Customize menu ---------- */
+.customize {
+  position: relative;
+}
+.customize__panel {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 8px);
+  z-index: 30;
+  width: min(360px, calc(100vw - 32px));
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 14px;
+  background: var(--color-panel-raised);
+  border: 1px solid var(--color-muted);
+  border-radius: var(--radius);
+}
+.customize__title {
+  margin-bottom: 4px;
+  font-family: var(--font-heading);
+  font-size: var(--fs-small);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking);
+  color: var(--color-muted);
+}
+.customize__option {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 44px;
+  cursor: pointer;
+}
+.customize__option input {
+  width: 22px;
+  height: 22px;
+  flex: none;
+  accent-color: var(--color-red);
+}
+.customize__reset {
+  margin-top: 8px;
+  align-self: flex-start;
+}
+
+/* =====================================================================
+   Charts mode
+   ===================================================================== */
+.charts-view {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-width: 0;
+}
+
+/* Faded field with the player-density map behind the charts' header area. */
+.backdrop {
+  margin: 0;
+}
+.backdrop__field {
+  opacity: 0.45;
+}
+.backdrop__caption {
+  margin-top: 8px;
+  font-size: var(--fs-small);
+}
+
+/* Two panels side by side on desktop, stacked on mobile. */
+.charts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 480px), 1fr));
+  gap: var(--gap);
+  align-items: start;
+}
+
+/* ----- Chart panel frame ----- */
+.chart-panel__head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+.chart-panel__titles {
+  min-width: 0;
+}
+.chart-panel__title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  overflow-wrap: anywhere;
+}
+.chart-panel__subtitle {
+  margin-top: 6px;
+  font-size: var(--fs-small);
+}
+.chart-panel__controls {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr));
+  gap: 14px 16px;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--color-border);
+}
+.chart-panel__body {
+  margin-top: 16px;
+  min-width: 0;
+}
+
+.control__head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+.control__value {
+  font-size: var(--fs-base);
+}
+
+@media (max-width: 600px) {
+  .chart-panel__title {
+    font-size: 1.25rem;
+  }
+}
+
+/* ----- Chart bits ----- */
+.chart-figure {
+  margin: 0;
+  min-width: 0;
+}
+.chart-note {
+  font-size: var(--fs-small);
+  margin-bottom: 8px;
+}
+.chart-empty {
+  padding: 24px 0;
+  color: var(--color-muted);
+}
+.chart-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 16px;
+  margin-top: 8px;
+}
+.chart-footer .chart-note {
+  margin: 0;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  margin: 8px 0 0;
+  padding: 0;
+  list-style: none;
+}
+.chart-footer .legend {
+  margin: 0;
+}
+.legend__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-heading);
+  font-size: var(--fs-small);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking);
+}
+.legend__swatch {
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+}
+
+/* Recharts custom tooltip */
+.chart-tooltip {
+  min-width: 190px;
+  max-width: 280px;
+  padding: 10px 12px;
+  background: var(--color-panel-raised);
+  border: 1px solid var(--color-muted);
+  border-radius: var(--radius);
+  font-size: var(--fs-small);
+}
+.chart-tooltip__title {
+  margin-bottom: 6px;
+  font-family: var(--font-heading);
+  font-size: var(--fs-base);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: var(--tracking);
+}
+.chart-tooltip__row {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+/* ----- KPI cards ----- */
+.kpis {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr));
+  gap: var(--gap);
+}
+.kpi {
+  border-top: 4px solid var(--color-red);
+}
+.kpi__label {
+  font-family: var(--font-heading);
+  font-size: var(--fs-small);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking);
+}
+.kpi__value {
+  margin-top: 6px;
+  font-size: 2.25rem;
+  font-weight: 600;
+  line-height: 1.1;
+  overflow-wrap: anywhere;
+}
+.kpi__unit {
+  font-size: var(--fs-base);
+  color: var(--color-muted);
+}
+.kpi__note {
+  margin-top: 6px;
+  font-size: var(--fs-small);
+}
+
+/* =====================================================================
+   Heatmap mode
+   ===================================================================== */
+.heat-view {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-width: 0;
+}
+
+/* Large, wrapping topic buttons */
+.topic-selector .btn {
+  flex: 1 1 180px;
+}
+
+.heat-head__title {
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+.heat-head__text {
+  margin-top: 6px;
+  max-width: 70ch;
+}
+
+/* Filters: three groups in a row on desktop, stacked on mobile */
+.filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 32px;
+}
+
+/* ----- Field stage ----- */
+.field-stage {
+  min-width: 0;
+}
+.field-stage__field {
+  position: relative; /* anchor for the tooltip */
+}
+.field-stage .field {
+  border-radius: 0 0 var(--radius) var(--radius);
+}
+.field-stage__empty {
+  margin-top: 8px;
+  color: var(--color-muted);
+}
+
+/* Label strip attached above the field. The blue marker sits over the line of scrimmage. */
+.los-strip {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 36px;
+  padding: 6px 12px;
+  background: var(--color-navy);
+  border-radius: var(--radius) var(--radius) 0 0;
+  color: #ffffff;
+}
+.los-strip__text {
+  font-family: var(--font-heading);
+  font-size: var(--fs-small);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: var(--tracking);
+  text-align: center;
+}
+.los-strip__marker {
+  position: absolute;
+  bottom: -9px;
+  width: 0;
+  height: 0;
+  border-left: 9px solid transparent;
+  border-right: 9px solid transparent;
+  border-top: 9px solid var(--color-los);
+  transform: translateX(-50%);
+  z-index: 2;
+}
+
+/* Heat cells */
+.heat-cell {
+  cursor: crosshair;
+}
+.heat-cell:hover {
+  stroke: #ffffff;
+  stroke-width: 0.25;
+}
+/* SVG elements ignore CSS outline in some browsers, so focus is drawn as a stroke. */
+.heat-cell:focus {
+  outline: none;
+}
+.heat-cell:focus-visible {
+  stroke: #ffffff;
+  stroke-width: 0.5;
+}
+
+/* Tooltip over the field */
+.heat-tooltip {
+  position: absolute;
+  z-index: 10;
+  width: max-content;
+  max-width: min(280px, 90%);
+  padding: 10px 12px;
+  background: var(--color-panel-raised);
+  border: 1px solid var(--color-muted);
+  border-radius: var(--radius);
+  font-size: var(--fs-small);
+  pointer-events: none;
+}
+.heat-tooltip__zone {
+  margin-bottom: 4px;
+  font-weight: 600;
+}
+.heat-tooltip__row {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+}
+.heat-tooltip__value {
+  font-size: var(--fs-base);
+}
+
+/* ----- Legend ----- */
+.heat-legend {
+  margin: 0;
+  padding: 14px 16px 12px;
+  max-width: 720px;
+  background: var(--color-panel);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+}
+.heat-legend__title {
+  margin-bottom: 8px;
+  font-family: var(--font-heading);
+  font-size: var(--fs-small);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking);
+}
+.heat-legend__swatches {
+  display: flex;
+  height: 22px;
+}
+.heat-legend__swatch {
+  flex: 1;
+}
+.heat-legend__labels {
+  position: relative;
+  height: 26px;
+  margin-top: 6px;
+  font-size: var(--fs-small);
+}
+.heat-legend__label {
+  position: absolute;
+  top: 0;
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
+.heat-legend__label:first-child {
+  transform: none;
+}
+.heat-legend__label:last-child {
+  transform: translateX(-100%);
+}
+/* On narrow screens, show only the first, middle and last labels so they never collide. */
+@media (max-width: 600px) {
+  .heat-legend__label:not(:first-child):not(:last-child):not(:nth-child(5)) {
+    display: none;
+  }
+}
+
+/* ----- Takeaway ----- */
+.takeaway {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 12px;
+  padding: 14px 16px;
+  background: var(--color-panel);
+  border: 1px solid var(--color-border);
+  border-left: 4px solid var(--color-red);
+  border-radius: var(--radius);
+}
+.takeaway__label {
+  font-family: var(--font-heading);
+  font-size: var(--fs-small);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking);
+  color: var(--color-muted);
+}
+.takeaway__text {
+  font-size: var(--fs-base);
+}

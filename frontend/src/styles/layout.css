@@ -1,0 +1,70 @@
+/* Page-level layout shared by every page. */
+.page {
+  max-width: var(--page-max);
+  margin: 0 auto;
+  padding: 24px var(--page-pad) 48px;
+  /* The main element receives programmatic focus from the skip link; no ring needed. */
+}
+.page:focus {
+  outline: none;
+}
+
+/* ---------- InfoTip ("How to read this") ---------- */
+.infotip {
+  position: relative;
+  flex: none;
+}
+.infotip__button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  background: transparent;
+  color: var(--color-text);
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+}
+/* The visible circle is smaller than the 44px hit area. */
+.infotip__button span {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border: 2px solid var(--color-muted);
+  border-radius: 50%;
+  font-family: var(--font-heading);
+  font-size: var(--fs-small);
+  line-height: 1;
+}
+.infotip__button:hover span,
+.infotip__button[aria-expanded="true"] span {
+  border-color: var(--color-text);
+  background: var(--color-panel-raised);
+}
+.infotip__popover {
+  position: absolute;
+  top: calc(100% + 4px);
+  right: 0;
+  z-index: 20;
+  display: block;
+  width: min(340px, calc(100vw - 48px));
+  padding: 12px 14px;
+  background: var(--color-panel-raised);
+  border: 1px solid var(--color-muted);
+  border-radius: var(--radius);
+  font-size: var(--fs-small);
+  line-height: 1.5;
+  text-align: left;
+}
+.infotip__title {
+  display: block;
+  margin-bottom: 4px;
+  font-family: var(--font-heading);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: var(--tracking);
+}
