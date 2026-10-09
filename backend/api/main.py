@@ -48,9 +48,17 @@ def _safe_name(name: str) -> str:
 
 @app.get("/")
 def root():
-    return {"service": "nfl-bdb", "status": "ok",
-            "endpoints": ["/api/insights/{name}", "/api/ml/{name}",
-                          "/api/ml/plays/{gameId}/{playId}"]}
+    return {
+        "service": "nfl-bdb",
+        "status": "ok",
+        "endpoints": ["/api/insights/{name}", "/api/ml/{name}",
+                      "/api/ml/plays/{gameId}/{playId}"],
+        "insights": ["separation_leaderboard", "separation_curve",
+                     "man_vs_zone", "positions"],
+        # play_index is served by /api/ml/{name}; no dedicated route needed.
+        "ml": ["model_metrics", "feature_importance", "calibration",
+               "coe_leaderboard", "highlight_plays", "play_index"],
+    }
 
 
 @app.get("/api/insights/{name}")
