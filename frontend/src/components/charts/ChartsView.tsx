@@ -8,31 +8,15 @@
  * The backdrop sits above the chart panels, never behind them, so it can
  * never reduce the contrast of chart text.
  */
-import { useMemo } from "react";
-import { useHeatmap } from "../../api";
+
 import { charts } from "../../config/charts";
 import type { ChartVisibility } from "../../hooks/useChartVisibility";
-import { LOS_FIELD_X, aggregateCells, buildScale } from "../../lib/heatmap";
-import Field from "../Field";
+
 import KpiCards from "../KpiCards";
-import HeatmapLayer from "../heatmap/HeatmapLayer";
 
-/** The topic id used for the backdrop. */
-const BACKDROP_TOPIC = "player_density";
 
-function FieldBackdrop() {
-  const { data } = useHeatmap();
 
-  // All positions, all downs, all coverages.
-  const layer = useMemo(() => {
-    const topic = data?.topics.find((t) => t.id === BACKDROP_TOPIC);
-    if (!data || !topic) return null;
-    const cells = aggregateCells(data, topic, { positions: topic.positions, down: "all", coverage: "all" });
-    return { cells, scale: buildScale(cells.map((c) => c.value)), topic, grid: data.grid };
-  }, [data]);
 
- 
-}
 
 export default function ChartsView({ visibility }: { visibility: ChartVisibility }) {
   const visible = charts.filter((chart) => visibility.isVisible(chart.id));
