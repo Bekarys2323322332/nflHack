@@ -1,0 +1,650 @@
+[
+  {
+    "nfl_id": 44288,
+    "name": "Devon Winslow",
+    "position": "WR",
+    "targets": 67,
+    "catch_rate": 0.558,
+    "avg_sep": 4.57,
+    "avg_release_speed": 4.91
+  },
+  {
+    "nfl_id": 44797,
+    "name": "Preston Zielinski",
+    "position": "WR",
+    "targets": 27,
+    "catch_rate": 0.702,
+    "avg_sep": 4.45,
+    "avg_release_speed": 4.11
+  },
+  {
+    "nfl_id": 43861,
+    "name": "Brandon Thackeray",
+    "position": "WR",
+    "targets": 84,
+    "catch_rate": 0.82,
+    "avg_sep": 4.27,
+    "avg_release_speed": 4.47
+  },
+  {
+    "nfl_id": 44034,
+    "name": "Marcus Underhill",
+    "position": "WR",
+    "targets": 52,
+    "catch_rate": 0.716,
+    "avg_sep": 3.99,
+    "avg_release_speed": 4.42
+  },
+  {
+    "nfl_id": 44387,
+    "name": "Nolan Quintero",
+    "position": "WR",
+    "targets": 54,
+    "catch_rate": 0.62,
+    "avg_sep": 3.93,
+    "avg_release_speed": 4.26
+  },
+  {
+    "nfl_id": 45499,
+    "name": "Elijah Oyelaran",
+    "position": "TE",
+    "targets": 51,
+    "catch_rate": 0.73,
+    "avg_sep": 3.81,
+    "avg_release_speed": 3.1
+  },
+  {
+    "nfl_id": 44176,
+    "name": "Nolan Yarbrough",
+    "position": "WR",
+    "targets": 72,
+    "catch_rate": 0.638,
+    "avg_sep": 3.8,
+    "avg_release_speed": 3.97
+  },
+  {
+    "nfl_id": 43316,
+    "name": "Rashad Vasquez",
+    "position": "WR",
+    "targets": 20,
+    "catch_rate": 0.534,
+    "avg_sep": 3.74,
+    "avg_release_speed": 4.88
+  },
+  {
+    "nfl_id": 43081,
+    "name": "Lamar Radcliffe",
+    "position": "WR",
+    "targets": 57,
+    "catch_rate": 0.661,
+    "avg_sep": 3.73,
+    "avg_release_speed": 3.6
+  },
+  {
+    "nfl_id": 43345,
+    "name": "Grady Jennings",
+    "position": "WR",
+    "targets": 36,
+    "catch_rate": 0.574,
+    "avg_sep": 3.68,
+    "avg_release_speed": 4.97
+  },
+  {
+    "nfl_id": 44322,
+    "name": "Andre Galloway",
+    "position": "WR",
+    "targets": 6,
+    "catch_rate": 0.707,
+    "avg_sep": 3.62,
+    "avg_release_speed": 4.7
+  },
+  {
+    "nfl_id": 44371,
+    "name": "Nolan Nakamura",
+    "position": "WR",
+    "targets": 61,
+    "catch_rate": 0.7,
+    "avg_sep": 3.62,
+    "avg_release_speed": 5.12
+  },
+  {
+    "nfl_id": 43246,
+    "name": "Quentin Lindqvist",
+    "position": "WR",
+    "targets": 45,
+    "catch_rate": 0.795,
+    "avg_sep": 3.6,
+    "avg_release_speed": 4.75
+  },
+  {
+    "nfl_id": 45435,
+    "name": "Victor Sandoval",
+    "position": "TE",
+    "targets": 9,
+    "catch_rate": 0.65,
+    "avg_sep": 3.59,
+    "avg_release_speed": 2.77
+  },
+  {
+    "nfl_id": 46150,
+    "name": "Marcus Thackeray",
+    "position": "RB",
+    "targets": 36,
+    "catch_rate": 0.681,
+    "avg_sep": 3.57,
+    "avg_release_speed": 3.86
+  },
+  {
+    "nfl_id": 43536,
+    "name": "Preston Hargrove",
+    "position": "WR",
+    "targets": 16,
+    "catch_rate": 0.738,
+    "avg_sep": 3.55,
+    "avg_release_speed": 5.66
+  },
+  {
+    "nfl_id": 44603,
+    "name": "Lamar Yarbrough",
+    "position": "WR",
+    "targets": 48,
+    "catch_rate": 0.67,
+    "avg_sep": 3.54,
+    "avg_release_speed": 4.87
+  },
+  {
+    "nfl_id": 43442,
+    "name": "Devon Holloway",
+    "position": "WR",
+    "targets": 49,
+    "catch_rate": 0.716,
+    "avg_sep": 3.52,
+    "avg_release_speed": 5.03
+  },
+  {
+    "nfl_id": 45095,
+    "name": "Brandon Sandoval",
+    "position": "TE",
+    "targets": 52,
+    "catch_rate": 0.618,
+    "avg_sep": 3.51,
+    "avg_release_speed": 3.59
+  },
+  {
+    "nfl_id": 43514,
+    "name": "Micah Kowalski",
+    "position": "WR",
+    "targets": 6,
+    "catch_rate": 0.687,
+    "avg_sep": 3.49,
+    "avg_release_speed": 4.48
+  },
+  {
+    "nfl_id": 43585,
+    "name": "Gavin Galloway",
+    "position": "WR",
+    "targets": 63,
+    "catch_rate": 0.673,
+    "avg_sep": 3.49,
+    "avg_release_speed": 4.27
+  },
+  {
+    "nfl_id": 44000,
+    "name": "Emmett Iverson",
+    "position": "WR",
+    "targets": 23,
+    "catch_rate": 0.499,
+    "avg_sep": 3.49,
+    "avg_release_speed": 5.45
+  },
+  {
+    "nfl_id": 44884,
+    "name": "Andre Okafor",
+    "position": "TE",
+    "targets": 6,
+    "catch_rate": 0.709,
+    "avg_sep": 3.48,
+    "avg_release_speed": 3.86
+  },
+  {
+    "nfl_id": 44232,
+    "name": "Tyrell Whitfield",
+    "position": "WR",
+    "targets": 6,
+    "catch_rate": 0.624,
+    "avg_sep": 3.43,
+    "avg_release_speed": 5.12
+  },
+  {
+    "nfl_id": 44452,
+    "name": "Darius Pemberton",
+    "position": "WR",
+    "targets": 6,
+    "catch_rate": 0.539,
+    "avg_sep": 3.43,
+    "avg_release_speed": 4.39
+  },
+  {
+    "nfl_id": 43751,
+    "name": "Jalen Jennings",
+    "position": "WR",
+    "targets": 49,
+    "catch_rate": 0.478,
+    "avg_sep": 3.41,
+    "avg_release_speed": 5.57
+  },
+  {
+    "nfl_id": 43128,
+    "name": "Kendrick Jennings",
+    "position": "WR",
+    "targets": 66,
+    "catch_rate": 0.538,
+    "avg_sep": 3.35,
+    "avg_release_speed": 4.46
+  },
+  {
+    "nfl_id": 45840,
+    "name": "Lamar Okafor",
+    "position": "RB",
+    "targets": 16,
+    "catch_rate": 0.828,
+    "avg_sep": 3.35,
+    "avg_release_speed": 4.21
+  },
+  {
+    "nfl_id": 46112,
+    "name": "Darius Zielinski",
+    "position": "RB",
+    "targets": 21,
+    "catch_rate": 0.676,
+    "avg_sep": 3.35,
+    "avg_release_speed": 4.17
+  },
+  {
+    "nfl_id": 44200,
+    "name": "Emmett Quintero",
+    "position": "WR",
+    "targets": 37,
+    "catch_rate": 0.774,
+    "avg_sep": 3.28,
+    "avg_release_speed": 4.58
+  },
+  {
+    "nfl_id": 45956,
+    "name": "Grady Nakamura",
+    "position": "RB",
+    "targets": 51,
+    "catch_rate": 0.786,
+    "avg_sep": 3.24,
+    "avg_release_speed": 3.46
+  },
+  {
+    "nfl_id": 43674,
+    "name": "Lamar Maddox",
+    "position": "WR",
+    "targets": 15,
+    "catch_rate": 0.704,
+    "avg_sep": 3.16,
+    "avg_release_speed": 4.88
+  },
+  {
+    "nfl_id": 46483,
+    "name": "Quentin Yarbrough",
+    "position": "RB",
+    "targets": 48,
+    "catch_rate": 0.638,
+    "avg_sep": 3.15,
+    "avg_release_speed": 3.89
+  },
+  {
+    "nfl_id": 44919,
+    "name": "Jalen Holloway",
+    "position": "TE",
+    "targets": 50,
+    "catch_rate": 0.736,
+    "avg_sep": 3.13,
+    "avg_release_speed": 2.99
+  },
+  {
+    "nfl_id": 45132,
+    "name": "Xavier Kowalski",
+    "position": "TE",
+    "targets": 61,
+    "catch_rate": 0.722,
+    "avg_sep": 3.13,
+    "avg_release_speed": 3.56
+  },
+  {
+    "nfl_id": 43529,
+    "name": "Quentin Radcliffe",
+    "position": "WR",
+    "targets": 67,
+    "catch_rate": 0.624,
+    "avg_sep": 3.09,
+    "avg_release_speed": 4.13
+  },
+  {
+    "nfl_id": 43209,
+    "name": "Rashad Yarbrough",
+    "position": "WR",
+    "targets": 11,
+    "catch_rate": 0.696,
+    "avg_sep": 3.08,
+    "avg_release_speed": 5.23
+  },
+  {
+    "nfl_id": 43837,
+    "name": "Grady Oyelaran",
+    "position": "WR",
+    "targets": 32,
+    "catch_rate": 0.704,
+    "avg_sep": 3.02,
+    "avg_release_speed": 3.87
+  },
+  {
+    "nfl_id": 45886,
+    "name": "Micah Galloway",
+    "position": "RB",
+    "targets": 54,
+    "catch_rate": 0.626,
+    "avg_sep": 3.01,
+    "avg_release_speed": 2.4
+  },
+  {
+    "nfl_id": 44534,
+    "name": "Silas Holloway",
+    "position": "WR",
+    "targets": 58,
+    "catch_rate": 0.698,
+    "avg_sep": 3,
+    "avg_release_speed": 4.39
+  },
+  {
+    "nfl_id": 46226,
+    "name": "Grady Iverson",
+    "position": "RB",
+    "targets": 35,
+    "catch_rate": 0.808,
+    "avg_sep": 3,
+    "avg_release_speed": 3.77
+  },
+  {
+    "nfl_id": 43385,
+    "name": "Omar Underhill",
+    "position": "WR",
+    "targets": 74,
+    "catch_rate": 0.533,
+    "avg_sep": 2.98,
+    "avg_release_speed": 4.24
+  },
+  {
+    "nfl_id": 45628,
+    "name": "Marcus Iverson",
+    "position": "TE",
+    "targets": 56,
+    "catch_rate": 0.73,
+    "avg_sep": 2.92,
+    "avg_release_speed": 3.83
+  },
+  {
+    "nfl_id": 45092,
+    "name": "Lamar Jennings",
+    "position": "TE",
+    "targets": 71,
+    "catch_rate": 0.65,
+    "avg_sep": 2.91,
+    "avg_release_speed": 2.94
+  },
+  {
+    "nfl_id": 45174,
+    "name": "Floyd Dunmore",
+    "position": "TE",
+    "targets": 6,
+    "catch_rate": 0.647,
+    "avg_sep": 2.91,
+    "avg_release_speed": 3.1
+  },
+  {
+    "nfl_id": 46142,
+    "name": "Andre Holloway",
+    "position": "RB",
+    "targets": 34,
+    "catch_rate": 0.768,
+    "avg_sep": 2.91,
+    "avg_release_speed": 3.65
+  },
+  {
+    "nfl_id": 44686,
+    "name": "Rashad Pemberton",
+    "position": "WR",
+    "targets": 70,
+    "catch_rate": 0.706,
+    "avg_sep": 2.9,
+    "avg_release_speed": 5.32
+  },
+  {
+    "nfl_id": 44698,
+    "name": "Rashad Everhart",
+    "position": "WR",
+    "targets": 28,
+    "catch_rate": 0.61,
+    "avg_sep": 2.84,
+    "avg_release_speed": 4.76
+  },
+  {
+    "nfl_id": 44004,
+    "name": "Preston Blackwood",
+    "position": "WR",
+    "targets": 34,
+    "catch_rate": 0.671,
+    "avg_sep": 2.82,
+    "avg_release_speed": 5.37
+  },
+  {
+    "nfl_id": 45203,
+    "name": "Quentin Holloway",
+    "position": "TE",
+    "targets": 12,
+    "catch_rate": 0.754,
+    "avg_sep": 2.76,
+    "avg_release_speed": 3.34
+  },
+  {
+    "nfl_id": 44330,
+    "name": "Brandon Nakamura",
+    "position": "WR",
+    "targets": 35,
+    "catch_rate": 0.575,
+    "avg_sep": 2.73,
+    "avg_release_speed": 3.84
+  },
+  {
+    "nfl_id": 45020,
+    "name": "Devon Hargrove",
+    "position": "TE",
+    "targets": 34,
+    "catch_rate": 0.705,
+    "avg_sep": 2.72,
+    "avg_release_speed": 3.85
+  },
+  {
+    "nfl_id": 46509,
+    "name": "Lamar Underhill",
+    "position": "RB",
+    "targets": 17,
+    "catch_rate": 0.677,
+    "avg_sep": 2.7,
+    "avg_release_speed": 2.64
+  },
+  {
+    "nfl_id": 46455,
+    "name": "Tyrell Abernathy",
+    "position": "RB",
+    "targets": 34,
+    "catch_rate": 0.584,
+    "avg_sep": 2.69,
+    "avg_release_speed": 4.76
+  },
+  {
+    "nfl_id": 45555,
+    "name": "Zane Fairbanks",
+    "position": "TE",
+    "targets": 45,
+    "catch_rate": 0.703,
+    "avg_sep": 2.67,
+    "avg_release_speed": 3.08
+  },
+  {
+    "nfl_id": 44999,
+    "name": "Victor Kowalski",
+    "position": "TE",
+    "targets": 15,
+    "catch_rate": 0.715,
+    "avg_sep": 2.66,
+    "avg_release_speed": 3.99
+  },
+  {
+    "nfl_id": 43914,
+    "name": "Kendrick Blackwood",
+    "position": "WR",
+    "targets": 72,
+    "catch_rate": 0.728,
+    "avg_sep": 2.62,
+    "avg_release_speed": 5.27
+  },
+  {
+    "nfl_id": 46391,
+    "name": "Omar Pemberton",
+    "position": "RB",
+    "targets": 21,
+    "catch_rate": 0.795,
+    "avg_sep": 2.62,
+    "avg_release_speed": 3.74
+  },
+  {
+    "nfl_id": 44774,
+    "name": "Preston Kowalski",
+    "position": "WR",
+    "targets": 84,
+    "catch_rate": 0.654,
+    "avg_sep": 2.53,
+    "avg_release_speed": 4.29
+  },
+  {
+    "nfl_id": 45786,
+    "name": "Tyrell Castellano",
+    "position": "TE",
+    "targets": 44,
+    "catch_rate": 0.673,
+    "avg_sep": 2.49,
+    "avg_release_speed": 4.33
+  },
+  {
+    "nfl_id": 44103,
+    "name": "Isaiah Galloway",
+    "position": "WR",
+    "targets": 56,
+    "catch_rate": 0.782,
+    "avg_sep": 2.48,
+    "avg_release_speed": 4.77
+  },
+  {
+    "nfl_id": 43110,
+    "name": "Marcus Maddox",
+    "position": "WR",
+    "targets": 38,
+    "catch_rate": 0.729,
+    "avg_sep": 2.45,
+    "avg_release_speed": 4.57
+  },
+  {
+    "nfl_id": 45384,
+    "name": "Colton Castellano",
+    "position": "TE",
+    "targets": 67,
+    "catch_rate": 0.753,
+    "avg_sep": 2.41,
+    "avg_release_speed": 4.06
+  },
+  {
+    "nfl_id": 46047,
+    "name": "Nolan Blackwood",
+    "position": "RB",
+    "targets": 41,
+    "catch_rate": 0.883,
+    "avg_sep": 2.41,
+    "avg_release_speed": 4.24
+  },
+  {
+    "nfl_id": 46267,
+    "name": "Terrance Okafor",
+    "position": "RB",
+    "targets": 19,
+    "catch_rate": 0.755,
+    "avg_sep": 2.39,
+    "avg_release_speed": 4.7
+  },
+  {
+    "nfl_id": 43118,
+    "name": "Dante Hargrove",
+    "position": "WR",
+    "targets": 6,
+    "catch_rate": 0.622,
+    "avg_sep": 2.37,
+    "avg_release_speed": 4.55
+  },
+  {
+    "nfl_id": 45704,
+    "name": "Zane Quintero",
+    "position": "TE",
+    "targets": 28,
+    "catch_rate": 0.597,
+    "avg_sep": 2.35,
+    "avg_release_speed": 2.62
+  },
+  {
+    "nfl_id": 43588,
+    "name": "Terrance Fairbanks",
+    "position": "WR",
+    "targets": 25,
+    "catch_rate": 0.657,
+    "avg_sep": 2.33,
+    "avg_release_speed": 4.1
+  },
+  {
+    "nfl_id": 43300,
+    "name": "Lamar Thackeray",
+    "position": "WR",
+    "targets": 25,
+    "catch_rate": 0.763,
+    "avg_sep": 2.26,
+    "avg_release_speed": 5.75
+  },
+  {
+    "nfl_id": 45292,
+    "name": "Darius Winslow",
+    "position": "TE",
+    "targets": 78,
+    "catch_rate": 0.689,
+    "avg_sep": 2.24,
+    "avg_release_speed": 4.07
+  },
+  {
+    "nfl_id": 46343,
+    "name": "Terrance Galloway",
+    "position": "RB",
+    "targets": 30,
+    "catch_rate": 0.702,
+    "avg_sep": 1.71,
+    "avg_release_speed": 4.54
+  },
+  {
+    "nfl_id": 45150,
+    "name": "Xavier Oyelaran",
+    "position": "TE",
+    "targets": 7,
+    "catch_rate": 0.751,
+    "avg_sep": 1.58,
+    "avg_release_speed": 2.96
+  }
+]

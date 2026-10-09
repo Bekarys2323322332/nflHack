@@ -1,0 +1,722 @@
+[
+  {
+    "nfl_id": 43081,
+    "name": "Lamar Radcliffe",
+    "position": "WR",
+    "sep_man": 2.85,
+    "sep_zone": 4.17,
+    "diff": -1.32,
+    "targets_man": 19,
+    "targets_zone": 38
+  },
+  {
+    "nfl_id": 43110,
+    "name": "Marcus Maddox",
+    "position": "WR",
+    "sep_man": 2.43,
+    "sep_zone": 2.45,
+    "diff": -0.02,
+    "targets_man": 10,
+    "targets_zone": 28
+  },
+  {
+    "nfl_id": 43118,
+    "name": "Dante Hargrove",
+    "position": "WR",
+    "sep_man": 2.04,
+    "sep_zone": 2.54,
+    "diff": -0.5,
+    "targets_man": 2,
+    "targets_zone": 4
+  },
+  {
+    "nfl_id": 43128,
+    "name": "Kendrick Jennings",
+    "position": "WR",
+    "sep_man": 3,
+    "sep_zone": 3.66,
+    "diff": -0.66,
+    "targets_man": 31,
+    "targets_zone": 35
+  },
+  {
+    "nfl_id": 43209,
+    "name": "Rashad Yarbrough",
+    "position": "WR",
+    "sep_man": 2.96,
+    "sep_zone": 3.18,
+    "diff": -0.22,
+    "targets_man": 5,
+    "targets_zone": 6
+  },
+  {
+    "nfl_id": 43246,
+    "name": "Quentin Lindqvist",
+    "position": "WR",
+    "sep_man": 3.19,
+    "sep_zone": 3.78,
+    "diff": -0.59,
+    "targets_man": 14,
+    "targets_zone": 31
+  },
+  {
+    "nfl_id": 43300,
+    "name": "Lamar Thackeray",
+    "position": "WR",
+    "sep_man": 1.84,
+    "sep_zone": 2.6,
+    "diff": -0.76,
+    "targets_man": 11,
+    "targets_zone": 14
+  },
+  {
+    "nfl_id": 43316,
+    "name": "Rashad Vasquez",
+    "position": "WR",
+    "sep_man": 3.55,
+    "sep_zone": 3.84,
+    "diff": -0.29,
+    "targets_man": 7,
+    "targets_zone": 13
+  },
+  {
+    "nfl_id": 43345,
+    "name": "Grady Jennings",
+    "position": "WR",
+    "sep_man": 2.33,
+    "sep_zone": 4.13,
+    "diff": -1.8,
+    "targets_man": 9,
+    "targets_zone": 27
+  },
+  {
+    "nfl_id": 43385,
+    "name": "Omar Underhill",
+    "position": "WR",
+    "sep_man": 2.54,
+    "sep_zone": 3.35,
+    "diff": -0.81,
+    "targets_man": 34,
+    "targets_zone": 40
+  },
+  {
+    "nfl_id": 43442,
+    "name": "Devon Holloway",
+    "position": "WR",
+    "sep_man": 3.54,
+    "sep_zone": 3.51,
+    "diff": 0.03,
+    "targets_man": 14,
+    "targets_zone": 35
+  },
+  {
+    "nfl_id": 43514,
+    "name": "Micah Kowalski",
+    "position": "WR",
+    "sep_man": 2.78,
+    "sep_zone": 3.85,
+    "diff": -1.07,
+    "targets_man": 2,
+    "targets_zone": 4
+  },
+  {
+    "nfl_id": 43529,
+    "name": "Quentin Radcliffe",
+    "position": "WR",
+    "sep_man": 3.45,
+    "sep_zone": 2.87,
+    "diff": 0.58,
+    "targets_man": 26,
+    "targets_zone": 41
+  },
+  {
+    "nfl_id": 43536,
+    "name": "Preston Hargrove",
+    "position": "WR",
+    "sep_man": 3.59,
+    "sep_zone": 3.53,
+    "diff": 0.06,
+    "targets_man": 7,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 43585,
+    "name": "Gavin Galloway",
+    "position": "WR",
+    "sep_man": 3.38,
+    "sep_zone": 3.56,
+    "diff": -0.18,
+    "targets_man": 25,
+    "targets_zone": 38
+  },
+  {
+    "nfl_id": 43588,
+    "name": "Terrance Fairbanks",
+    "position": "WR",
+    "sep_man": 2.11,
+    "sep_zone": 2.48,
+    "diff": -0.37,
+    "targets_man": 10,
+    "targets_zone": 15
+  },
+  {
+    "nfl_id": 43674,
+    "name": "Lamar Maddox",
+    "position": "WR",
+    "sep_man": 2.44,
+    "sep_zone": 3.53,
+    "diff": -1.09,
+    "targets_man": 5,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 43751,
+    "name": "Jalen Jennings",
+    "position": "WR",
+    "sep_man": 3.32,
+    "sep_zone": 3.46,
+    "diff": -0.14,
+    "targets_man": 19,
+    "targets_zone": 30
+  },
+  {
+    "nfl_id": 43837,
+    "name": "Grady Oyelaran",
+    "position": "WR",
+    "sep_man": 2.38,
+    "sep_zone": 3.52,
+    "diff": -1.14,
+    "targets_man": 14,
+    "targets_zone": 18
+  },
+  {
+    "nfl_id": 43861,
+    "name": "Brandon Thackeray",
+    "position": "WR",
+    "sep_man": 4.29,
+    "sep_zone": 4.26,
+    "diff": 0.03,
+    "targets_man": 37,
+    "targets_zone": 47
+  },
+  {
+    "nfl_id": 43914,
+    "name": "Kendrick Blackwood",
+    "position": "WR",
+    "sep_man": 2.72,
+    "sep_zone": 2.59,
+    "diff": 0.13,
+    "targets_man": 18,
+    "targets_zone": 54
+  },
+  {
+    "nfl_id": 44000,
+    "name": "Emmett Iverson",
+    "position": "WR",
+    "sep_man": 3.33,
+    "sep_zone": 3.58,
+    "diff": -0.25,
+    "targets_man": 8,
+    "targets_zone": 15
+  },
+  {
+    "nfl_id": 44004,
+    "name": "Preston Blackwood",
+    "position": "WR",
+    "sep_man": 2.19,
+    "sep_zone": 3.31,
+    "diff": -1.12,
+    "targets_man": 15,
+    "targets_zone": 19
+  },
+  {
+    "nfl_id": 44034,
+    "name": "Marcus Underhill",
+    "position": "WR",
+    "sep_man": 4.04,
+    "sep_zone": 3.96,
+    "diff": 0.08,
+    "targets_man": 19,
+    "targets_zone": 33
+  },
+  {
+    "nfl_id": 44103,
+    "name": "Isaiah Galloway",
+    "position": "WR",
+    "sep_man": 2.55,
+    "sep_zone": 2.45,
+    "diff": 0.1,
+    "targets_man": 20,
+    "targets_zone": 36
+  },
+  {
+    "nfl_id": 44176,
+    "name": "Nolan Yarbrough",
+    "position": "WR",
+    "sep_man": 3.57,
+    "sep_zone": 3.91,
+    "diff": -0.34,
+    "targets_man": 23,
+    "targets_zone": 49
+  },
+  {
+    "nfl_id": 44200,
+    "name": "Emmett Quintero",
+    "position": "WR",
+    "sep_man": 3.11,
+    "sep_zone": 3.35,
+    "diff": -0.24,
+    "targets_man": 11,
+    "targets_zone": 26
+  },
+  {
+    "nfl_id": 44232,
+    "name": "Tyrell Whitfield",
+    "position": "WR",
+    "sep_man": 3.29,
+    "sep_zone": 3.56,
+    "diff": -0.27,
+    "targets_man": 3,
+    "targets_zone": 3
+  },
+  {
+    "nfl_id": 44288,
+    "name": "Devon Winslow",
+    "position": "WR",
+    "sep_man": 4.1,
+    "sep_zone": 4.74,
+    "diff": -0.64,
+    "targets_man": 18,
+    "targets_zone": 49
+  },
+  {
+    "nfl_id": 44322,
+    "name": "Andre Galloway",
+    "position": "WR",
+    "sep_man": 3.59,
+    "sep_zone": 3.64,
+    "diff": -0.05,
+    "targets_man": 3,
+    "targets_zone": 3
+  },
+  {
+    "nfl_id": 44330,
+    "name": "Brandon Nakamura",
+    "position": "WR",
+    "sep_man": 2.21,
+    "sep_zone": 2.96,
+    "diff": -0.75,
+    "targets_man": 11,
+    "targets_zone": 24
+  },
+  {
+    "nfl_id": 44371,
+    "name": "Nolan Nakamura",
+    "position": "WR",
+    "sep_man": 3.4,
+    "sep_zone": 3.78,
+    "diff": -0.38,
+    "targets_man": 25,
+    "targets_zone": 36
+  },
+  {
+    "nfl_id": 44387,
+    "name": "Nolan Quintero",
+    "position": "WR",
+    "sep_man": 4.05,
+    "sep_zone": 3.89,
+    "diff": 0.16,
+    "targets_man": 15,
+    "targets_zone": 39
+  },
+  {
+    "nfl_id": 44452,
+    "name": "Darius Pemberton",
+    "position": "WR",
+    "sep_man": 4.07,
+    "sep_zone": 3.12,
+    "diff": 0.95,
+    "targets_man": 2,
+    "targets_zone": 4
+  },
+  {
+    "nfl_id": 44534,
+    "name": "Silas Holloway",
+    "position": "WR",
+    "sep_man": 2.47,
+    "sep_zone": 3.33,
+    "diff": -0.86,
+    "targets_man": 22,
+    "targets_zone": 36
+  },
+  {
+    "nfl_id": 44603,
+    "name": "Lamar Yarbrough",
+    "position": "WR",
+    "sep_man": 2.57,
+    "sep_zone": 4.06,
+    "diff": -1.49,
+    "targets_man": 17,
+    "targets_zone": 31
+  },
+  {
+    "nfl_id": 44686,
+    "name": "Rashad Pemberton",
+    "position": "WR",
+    "sep_man": 2.74,
+    "sep_zone": 2.99,
+    "diff": -0.25,
+    "targets_man": 24,
+    "targets_zone": 46
+  },
+  {
+    "nfl_id": 44698,
+    "name": "Rashad Everhart",
+    "position": "WR",
+    "sep_man": 2.07,
+    "sep_zone": 3.27,
+    "diff": -1.2,
+    "targets_man": 10,
+    "targets_zone": 18
+  },
+  {
+    "nfl_id": 44774,
+    "name": "Preston Kowalski",
+    "position": "WR",
+    "sep_man": 1.94,
+    "sep_zone": 2.98,
+    "diff": -1.04,
+    "targets_man": 36,
+    "targets_zone": 48
+  },
+  {
+    "nfl_id": 44797,
+    "name": "Preston Zielinski",
+    "position": "WR",
+    "sep_man": 3.88,
+    "sep_zone": 4.83,
+    "diff": -0.95,
+    "targets_man": 11,
+    "targets_zone": 16
+  },
+  {
+    "nfl_id": 44884,
+    "name": "Andre Okafor",
+    "position": "TE",
+    "sep_man": 3.62,
+    "sep_zone": 3.41,
+    "diff": 0.21,
+    "targets_man": 2,
+    "targets_zone": 4
+  },
+  {
+    "nfl_id": 44919,
+    "name": "Jalen Holloway",
+    "position": "TE",
+    "sep_man": 2.26,
+    "sep_zone": 3.71,
+    "diff": -1.45,
+    "targets_man": 20,
+    "targets_zone": 30
+  },
+  {
+    "nfl_id": 44999,
+    "name": "Victor Kowalski",
+    "position": "TE",
+    "sep_man": 1.92,
+    "sep_zone": 3.14,
+    "diff": -1.22,
+    "targets_man": 6,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 45020,
+    "name": "Devon Hargrove",
+    "position": "TE",
+    "sep_man": 2.88,
+    "sep_zone": 2.64,
+    "diff": 0.24,
+    "targets_man": 12,
+    "targets_zone": 22
+  },
+  {
+    "nfl_id": 45092,
+    "name": "Lamar Jennings",
+    "position": "TE",
+    "sep_man": 2.25,
+    "sep_zone": 3.39,
+    "diff": -1.14,
+    "targets_man": 30,
+    "targets_zone": 41
+  },
+  {
+    "nfl_id": 45095,
+    "name": "Brandon Sandoval",
+    "position": "TE",
+    "sep_man": 3.42,
+    "sep_zone": 3.56,
+    "diff": -0.14,
+    "targets_man": 18,
+    "targets_zone": 34
+  },
+  {
+    "nfl_id": 45132,
+    "name": "Xavier Kowalski",
+    "position": "TE",
+    "sep_man": 3.05,
+    "sep_zone": 3.19,
+    "diff": -0.14,
+    "targets_man": 27,
+    "targets_zone": 34
+  },
+  {
+    "nfl_id": 45150,
+    "name": "Xavier Oyelaran",
+    "position": "TE",
+    "sep_man": 1.81,
+    "sep_zone": 1.49,
+    "diff": 0.32,
+    "targets_man": 2,
+    "targets_zone": 5
+  },
+  {
+    "nfl_id": 45174,
+    "name": "Floyd Dunmore",
+    "position": "TE",
+    "sep_man": 2.07,
+    "sep_zone": 3.33,
+    "diff": -1.26,
+    "targets_man": 2,
+    "targets_zone": 4
+  },
+  {
+    "nfl_id": 45203,
+    "name": "Quentin Holloway",
+    "position": "TE",
+    "sep_man": 2.27,
+    "sep_zone": 2.86,
+    "diff": -0.59,
+    "targets_man": 2,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 45292,
+    "name": "Darius Winslow",
+    "position": "TE",
+    "sep_man": 1.41,
+    "sep_zone": 2.54,
+    "diff": -1.13,
+    "targets_man": 21,
+    "targets_zone": 57
+  },
+  {
+    "nfl_id": 45384,
+    "name": "Colton Castellano",
+    "position": "TE",
+    "sep_man": 2.25,
+    "sep_zone": 2.48,
+    "diff": -0.23,
+    "targets_man": 19,
+    "targets_zone": 48
+  },
+  {
+    "nfl_id": 45435,
+    "name": "Victor Sandoval",
+    "position": "TE",
+    "sep_man": 3.32,
+    "sep_zone": 3.67,
+    "diff": -0.35,
+    "targets_man": 2,
+    "targets_zone": 7
+  },
+  {
+    "nfl_id": 45499,
+    "name": "Elijah Oyelaran",
+    "position": "TE",
+    "sep_man": 3.24,
+    "sep_zone": 4,
+    "diff": -0.76,
+    "targets_man": 13,
+    "targets_zone": 38
+  },
+  {
+    "nfl_id": 45555,
+    "name": "Zane Fairbanks",
+    "position": "TE",
+    "sep_man": 2.42,
+    "sep_zone": 2.84,
+    "diff": -0.42,
+    "targets_man": 18,
+    "targets_zone": 27
+  },
+  {
+    "nfl_id": 45628,
+    "name": "Marcus Iverson",
+    "position": "TE",
+    "sep_man": 2.71,
+    "sep_zone": 3.07,
+    "diff": -0.36,
+    "targets_man": 24,
+    "targets_zone": 32
+  },
+  {
+    "nfl_id": 45704,
+    "name": "Zane Quintero",
+    "position": "TE",
+    "sep_man": 2.11,
+    "sep_zone": 2.52,
+    "diff": -0.41,
+    "targets_man": 12,
+    "targets_zone": 16
+  },
+  {
+    "nfl_id": 45786,
+    "name": "Tyrell Castellano",
+    "position": "TE",
+    "sep_man": 2.69,
+    "sep_zone": 2.33,
+    "diff": 0.36,
+    "targets_man": 19,
+    "targets_zone": 25
+  },
+  {
+    "nfl_id": 45840,
+    "name": "Lamar Okafor",
+    "position": "RB",
+    "sep_man": 3.68,
+    "sep_zone": 3.23,
+    "diff": 0.45,
+    "targets_man": 4,
+    "targets_zone": 12
+  },
+  {
+    "nfl_id": 45886,
+    "name": "Micah Galloway",
+    "position": "RB",
+    "sep_man": 2.7,
+    "sep_zone": 3.12,
+    "diff": -0.42,
+    "targets_man": 14,
+    "targets_zone": 40
+  },
+  {
+    "nfl_id": 45956,
+    "name": "Grady Nakamura",
+    "position": "RB",
+    "sep_man": 2.97,
+    "sep_zone": 3.37,
+    "diff": -0.4,
+    "targets_man": 17,
+    "targets_zone": 34
+  },
+  {
+    "nfl_id": 46047,
+    "name": "Nolan Blackwood",
+    "position": "RB",
+    "sep_man": 2.48,
+    "sep_zone": 2.37,
+    "diff": 0.11,
+    "targets_man": 16,
+    "targets_zone": 25
+  },
+  {
+    "nfl_id": 46112,
+    "name": "Darius Zielinski",
+    "position": "RB",
+    "sep_man": 2.91,
+    "sep_zone": 3.62,
+    "diff": -0.71,
+    "targets_man": 8,
+    "targets_zone": 13
+  },
+  {
+    "nfl_id": 46142,
+    "name": "Andre Holloway",
+    "position": "RB",
+    "sep_man": 2.36,
+    "sep_zone": 3.3,
+    "diff": -0.94,
+    "targets_man": 14,
+    "targets_zone": 20
+  },
+  {
+    "nfl_id": 46150,
+    "name": "Marcus Thackeray",
+    "position": "RB",
+    "sep_man": 3.36,
+    "sep_zone": 3.68,
+    "diff": -0.32,
+    "targets_man": 12,
+    "targets_zone": 24
+  },
+  {
+    "nfl_id": 46226,
+    "name": "Grady Iverson",
+    "position": "RB",
+    "sep_man": 3.3,
+    "sep_zone": 2.83,
+    "diff": 0.47,
+    "targets_man": 13,
+    "targets_zone": 22
+  },
+  {
+    "nfl_id": 46267,
+    "name": "Terrance Okafor",
+    "position": "RB",
+    "sep_man": 2.4,
+    "sep_zone": 2.38,
+    "diff": 0.02,
+    "targets_man": 6,
+    "targets_zone": 13
+  },
+  {
+    "nfl_id": 46343,
+    "name": "Terrance Galloway",
+    "position": "RB",
+    "sep_man": 1.88,
+    "sep_zone": 1.62,
+    "diff": 0.26,
+    "targets_man": 10,
+    "targets_zone": 20
+  },
+  {
+    "nfl_id": 46391,
+    "name": "Omar Pemberton",
+    "position": "RB",
+    "sep_man": 2.61,
+    "sep_zone": 2.62,
+    "diff": -0.01,
+    "targets_man": 7,
+    "targets_zone": 14
+  },
+  {
+    "nfl_id": 46455,
+    "name": "Tyrell Abernathy",
+    "position": "RB",
+    "sep_man": 2.09,
+    "sep_zone": 3.11,
+    "diff": -1.02,
+    "targets_man": 14,
+    "targets_zone": 20
+  },
+  {
+    "nfl_id": 46483,
+    "name": "Quentin Yarbrough",
+    "position": "RB",
+    "sep_man": 3.42,
+    "sep_zone": 2.98,
+    "diff": 0.44,
+    "targets_man": 19,
+    "targets_zone": 29
+  },
+  {
+    "nfl_id": 46509,
+    "name": "Lamar Underhill",
+    "position": "RB",
+    "sep_man": 2.46,
+    "sep_zone": 2.83,
+    "diff": -0.37,
+    "targets_man": 6,
+    "targets_zone": 11
+  }
+]
