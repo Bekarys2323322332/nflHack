@@ -1,0 +1,2315 @@
+[
+  {
+    "nfl_id": 53180,
+    "name": "Ty'Son Williams",
+    "position": "RB",
+    "targets": 11,
+    "catch_rate": 0.8182,
+    "avg_sep": 8.939,
+    "avg_release_speed": 2.293
+  },
+  {
+    "nfl_id": 46526,
+    "name": "Darrel Williams",
+    "position": "RB",
+    "targets": 24,
+    "catch_rate": 0.75,
+    "avg_sep": 8.073,
+    "avg_release_speed": 2.375
+  },
+  {
+    "nfl_id": 41325,
+    "name": "Jerick McKinnon",
+    "position": "RB",
+    "targets": 8,
+    "catch_rate": 0.5,
+    "avg_sep": 7.967,
+    "avg_release_speed": 2.268
+  },
+  {
+    "nfl_id": 41332,
+    "name": "Devonta Freeman",
+    "position": "RB",
+    "targets": 9,
+    "catch_rate": 0.6667,
+    "avg_sep": 7.584,
+    "avg_release_speed": 1.918
+  },
+  {
+    "nfl_id": 53464,
+    "name": "Javonte Williams",
+    "position": "RB",
+    "targets": 18,
+    "catch_rate": 0.8889,
+    "avg_sep": 6.966,
+    "avg_release_speed": 1.989
+  },
+  {
+    "nfl_id": 47969,
+    "name": "Ty Johnson",
+    "position": "RB",
+    "targets": 24,
+    "catch_rate": 0.6667,
+    "avg_sep": 6.666,
+    "avg_release_speed": 1.489
+  },
+  {
+    "nfl_id": 47857,
+    "name": "Devin Singletary",
+    "position": "RB",
+    "targets": 14,
+    "catch_rate": 0.7143,
+    "avg_sep": 6.628,
+    "avg_release_speed": 1.899
+  },
+  {
+    "nfl_id": 41286,
+    "name": "Carlos Hyde",
+    "position": "RB",
+    "targets": 11,
+    "catch_rate": 0.7273,
+    "avg_sep": 6.557,
+    "avg_release_speed": 2.204
+  },
+  {
+    "nfl_id": 41712,
+    "name": "Damien Williams",
+    "position": "RB",
+    "targets": 10,
+    "catch_rate": 0.7,
+    "avg_sep": 6.502,
+    "avg_release_speed": 1.553
+  },
+  {
+    "nfl_id": 52733,
+    "name": "James Robinson",
+    "position": "RB",
+    "targets": 24,
+    "catch_rate": 0.6667,
+    "avg_sep": 6.317,
+    "avg_release_speed": 2.182
+  },
+  {
+    "nfl_id": 53478,
+    "name": "Rondale Moore",
+    "position": "WR",
+    "targets": 13,
+    "catch_rate": 0.6923,
+    "avg_sep": 6.071,
+    "avg_release_speed": 2.648
+  },
+  {
+    "nfl_id": 47911,
+    "name": "Tony Pollard",
+    "position": "RB",
+    "targets": 10,
+    "catch_rate": 1.0,
+    "avg_sep": 6.057,
+    "avg_release_speed": 1.223
+  },
+  {
+    "nfl_id": 44927,
+    "name": "Samaje Perine",
+    "position": "RB",
+    "targets": 11,
+    "catch_rate": 0.8182,
+    "avg_sep": 6.036,
+    "avg_release_speed": 1.552
+  },
+  {
+    "nfl_id": 52470,
+    "name": "A.J. Dillon",
+    "position": "RB",
+    "targets": 10,
+    "catch_rate": 0.8,
+    "avg_sep": 6.01,
+    "avg_release_speed": 2.507
+  },
+  {
+    "nfl_id": 47853,
+    "name": "Darrell Henderson",
+    "position": "RB",
+    "targets": 18,
+    "catch_rate": 0.5556,
+    "avg_sep": 5.944,
+    "avg_release_speed": 1.358
+  },
+  {
+    "nfl_id": 43722,
+    "name": "J.D. McKissic",
+    "position": "RB",
+    "targets": 37,
+    "catch_rate": 0.7568,
+    "avg_sep": 5.809,
+    "avg_release_speed": 1.474
+  },
+  {
+    "nfl_id": 47836,
+    "name": "Miles Sanders",
+    "position": "RB",
+    "targets": 13,
+    "catch_rate": 0.6923,
+    "avg_sep": 5.738,
+    "avg_release_speed": 1.678
+  },
+  {
+    "nfl_id": 53579,
+    "name": "Kenneth Gainwell",
+    "position": "RB",
+    "targets": 27,
+    "catch_rate": 0.6296,
+    "avg_sep": 5.715,
+    "avg_release_speed": 2.245
+  },
+  {
+    "nfl_id": 47807,
+    "name": "Josh Jacobs",
+    "position": "RB",
+    "targets": 12,
+    "catch_rate": 0.8333,
+    "avg_sep": 5.697,
+    "avg_release_speed": 1.498
+  },
+  {
+    "nfl_id": 44975,
+    "name": "Jeremy McNichols",
+    "position": "RB",
+    "targets": 16,
+    "catch_rate": 0.75,
+    "avg_sep": 5.678,
+    "avg_release_speed": 1.632
+  },
+  {
+    "nfl_id": 39212,
+    "name": "Brandon Bolden",
+    "position": "RB",
+    "targets": 14,
+    "catch_rate": 0.8571,
+    "avg_sep": 5.672,
+    "avg_release_speed": 1.245
+  },
+  {
+    "nfl_id": 43334,
+    "name": "Derrick Henry",
+    "position": "RB",
+    "targets": 15,
+    "catch_rate": 0.8667,
+    "avg_sep": 5.65,
+    "avg_release_speed": 1.417
+  },
+  {
+    "nfl_id": 44947,
+    "name": "Jamaal Williams",
+    "position": "RB",
+    "targets": 17,
+    "catch_rate": 0.8824,
+    "avg_sep": 5.646,
+    "avg_release_speed": 1.609
+  },
+  {
+    "nfl_id": 42358,
+    "name": "Melvin Gordon",
+    "position": "RB",
+    "targets": 16,
+    "catch_rate": 0.8125,
+    "avg_sep": 5.624,
+    "avg_release_speed": 2.166
+  },
+  {
+    "nfl_id": 53555,
+    "name": "Chuba Hubbard",
+    "position": "RB",
+    "targets": 22,
+    "catch_rate": 0.6364,
+    "avg_sep": 5.623,
+    "avg_release_speed": 1.399
+  },
+  {
+    "nfl_id": 42469,
+    "name": "Mike Davis",
+    "position": "RB",
+    "targets": 29,
+    "catch_rate": 0.7241,
+    "avg_sep": 5.603,
+    "avg_release_speed": 1.147
+  },
+  {
+    "nfl_id": 44860,
+    "name": "Joe Mixon",
+    "position": "RB",
+    "targets": 15,
+    "catch_rate": 0.9333,
+    "avg_sep": 5.598,
+    "avg_release_speed": 1.838
+  },
+  {
+    "nfl_id": 52449,
+    "name": "Jonathan Taylor",
+    "position": "RB",
+    "targets": 16,
+    "catch_rate": 0.75,
+    "avg_sep": 5.56,
+    "avg_release_speed": 2.241
+  },
+  {
+    "nfl_id": 45573,
+    "name": "Austin Ekeler",
+    "position": "RB",
+    "targets": 32,
+    "catch_rate": 0.8125,
+    "avg_sep": 5.547,
+    "avg_release_speed": 1.527
+  },
+  {
+    "nfl_id": 53536,
+    "name": "Michael Carter",
+    "position": "RB",
+    "targets": 28,
+    "catch_rate": 0.6429,
+    "avg_sep": 5.5,
+    "avg_release_speed": 1.509
+  },
+  {
+    "nfl_id": 30842,
+    "name": "Marcedes Lewis",
+    "position": "TE",
+    "targets": 9,
+    "catch_rate": 0.7778,
+    "avg_sep": 5.484,
+    "avg_release_speed": 3.912
+  },
+  {
+    "nfl_id": 52708,
+    "name": "Jamycal Hasty",
+    "position": "RB",
+    "targets": 11,
+    "catch_rate": 0.7273,
+    "avg_sep": 5.453,
+    "avg_release_speed": 1.789
+  },
+  {
+    "nfl_id": 52494,
+    "name": "Zack Moss",
+    "position": "RB",
+    "targets": 12,
+    "catch_rate": 0.75,
+    "avg_sep": 5.442,
+    "avg_release_speed": 2.032
+  },
+  {
+    "nfl_id": 47870,
+    "name": "Damien Harris",
+    "position": "RB",
+    "targets": 9,
+    "catch_rate": 0.7778,
+    "avg_sep": 5.424,
+    "avg_release_speed": 1.519
+  },
+  {
+    "nfl_id": 52454,
+    "name": "K.J. Hamler",
+    "position": "WR",
+    "targets": 9,
+    "catch_rate": 0.4444,
+    "avg_sep": 5.419,
+    "avg_release_speed": 1.581
+  },
+  {
+    "nfl_id": 44995,
+    "name": "Aaron Jones",
+    "position": "RB",
+    "targets": 23,
+    "catch_rate": 0.8261,
+    "avg_sep": 5.373,
+    "avg_release_speed": 1.823
+  },
+  {
+    "nfl_id": 52443,
+    "name": "D'Andre Swift",
+    "position": "RB",
+    "targets": 46,
+    "catch_rate": 0.7826,
+    "avg_sep": 5.364,
+    "avg_release_speed": 1.703
+  },
+  {
+    "nfl_id": 44853,
+    "name": "Dalvin Cook",
+    "position": "RB",
+    "targets": 11,
+    "catch_rate": 0.5455,
+    "avg_sep": 5.355,
+    "avg_release_speed": 2.247
+  },
+  {
+    "nfl_id": 46094,
+    "name": "Hayden Hurst",
+    "position": "TE",
+    "targets": 21,
+    "catch_rate": 0.8571,
+    "avg_sep": 5.277,
+    "avg_release_speed": 2.514
+  },
+  {
+    "nfl_id": 46071,
+    "name": "Saquon Barkley",
+    "position": "RB",
+    "targets": 15,
+    "catch_rate": 0.6,
+    "avg_sep": 5.274,
+    "avg_release_speed": 1.941
+  },
+  {
+    "nfl_id": 43362,
+    "name": "Kenyan Drake",
+    "position": "RB",
+    "targets": 23,
+    "catch_rate": 0.7826,
+    "avg_sep": 5.25,
+    "avg_release_speed": 1.475
+  },
+  {
+    "nfl_id": 37234,
+    "name": "Lee Smith",
+    "position": "TE",
+    "targets": 8,
+    "catch_rate": 1.0,
+    "avg_sep": 5.243,
+    "avg_release_speed": 3.466
+  },
+  {
+    "nfl_id": 44879,
+    "name": "Alvin Kamara",
+    "position": "RB",
+    "targets": 27,
+    "catch_rate": 0.7037,
+    "avg_sep": 5.231,
+    "avg_release_speed": 1.324
+  },
+  {
+    "nfl_id": 48017,
+    "name": "Myles Gaskin",
+    "position": "RB",
+    "targets": 33,
+    "catch_rate": 0.8182,
+    "avg_sep": 5.191,
+    "avg_release_speed": 1.33
+  },
+  {
+    "nfl_id": 43293,
+    "name": "Ezekiel Elliott",
+    "position": "RB",
+    "targets": 25,
+    "catch_rate": 0.84,
+    "avg_sep": 5.182,
+    "avg_release_speed": 2.126
+  },
+  {
+    "nfl_id": 48456,
+    "name": "Donald Parham",
+    "position": "TE",
+    "targets": 10,
+    "catch_rate": 0.7,
+    "avg_sep": 5.162,
+    "avg_release_speed": 2.361
+  },
+  {
+    "nfl_id": 47856,
+    "name": "David Montgomery",
+    "position": "RB",
+    "targets": 10,
+    "catch_rate": 0.6,
+    "avg_sep": 5.126,
+    "avg_release_speed": 1.083
+  },
+  {
+    "nfl_id": 53453,
+    "name": "Najee Harris",
+    "position": "RB",
+    "targets": 43,
+    "catch_rate": 0.7674,
+    "avg_sep": 5.097,
+    "avg_release_speed": 1.403
+  },
+  {
+    "nfl_id": 46173,
+    "name": "Nyheim Hines",
+    "position": "RB",
+    "targets": 20,
+    "catch_rate": 0.65,
+    "avg_sep": 5.041,
+    "avg_release_speed": 1.513
+  },
+  {
+    "nfl_id": 46279,
+    "name": "Braxton Berrios",
+    "position": "WR",
+    "targets": 20,
+    "catch_rate": 0.7,
+    "avg_sep": 4.989,
+    "avg_release_speed": 1.918
+  },
+  {
+    "nfl_id": 44912,
+    "name": "Jonnu Smith",
+    "position": "TE",
+    "targets": 24,
+    "catch_rate": 0.6667,
+    "avg_sep": 4.979,
+    "avg_release_speed": 1.685
+  },
+  {
+    "nfl_id": 46203,
+    "name": "Chase Edmonds",
+    "position": "RB",
+    "targets": 25,
+    "catch_rate": 0.76,
+    "avg_sep": 4.962,
+    "avg_release_speed": 2.806
+  },
+  {
+    "nfl_id": 47885,
+    "name": "Alexander Mattison",
+    "position": "RB",
+    "targets": 12,
+    "catch_rate": 0.9167,
+    "avg_sep": 4.951,
+    "avg_release_speed": 2.031
+  },
+  {
+    "nfl_id": 46170,
+    "name": "Ian Thomas",
+    "position": "TE",
+    "targets": 12,
+    "catch_rate": 0.6667,
+    "avg_sep": 4.846,
+    "avg_release_speed": 2.174
+  },
+  {
+    "nfl_id": 44856,
+    "name": "Gerald Everett",
+    "position": "TE",
+    "targets": 14,
+    "catch_rate": 0.7143,
+    "avg_sep": 4.799,
+    "avg_release_speed": 1.992
+  },
+  {
+    "nfl_id": 52474,
+    "name": "Antonio Gibson",
+    "position": "RB",
+    "targets": 15,
+    "catch_rate": 0.6,
+    "avg_sep": 4.757,
+    "avg_release_speed": 1.938
+  },
+  {
+    "nfl_id": 52922,
+    "name": "Salvon Ahmed",
+    "position": "RB",
+    "targets": 14,
+    "catch_rate": 0.5,
+    "avg_sep": 4.735,
+    "avg_release_speed": 1.511
+  },
+  {
+    "nfl_id": 39985,
+    "name": "Giovani Bernard",
+    "position": "RB",
+    "targets": 13,
+    "catch_rate": 0.8462,
+    "avg_sep": 4.73,
+    "avg_release_speed": 1.084
+  },
+  {
+    "nfl_id": 42516,
+    "name": "James O'Shaughnessy",
+    "position": "TE",
+    "targets": 10,
+    "catch_rate": 0.7,
+    "avg_sep": 4.716,
+    "avg_release_speed": 2.386
+  },
+  {
+    "nfl_id": 47839,
+    "name": "Mecole Hardman",
+    "position": "WR",
+    "targets": 34,
+    "catch_rate": 0.6176,
+    "avg_sep": 4.652,
+    "avg_release_speed": 2.199
+  },
+  {
+    "nfl_id": 47879,
+    "name": "Dawson Knox",
+    "position": "TE",
+    "targets": 23,
+    "catch_rate": 0.7391,
+    "avg_sep": 4.642,
+    "avg_release_speed": 1.97
+  },
+  {
+    "nfl_id": 40078,
+    "name": "Kyle Juszczyk",
+    "position": "FB",
+    "targets": 16,
+    "catch_rate": 0.875,
+    "avg_sep": 4.622,
+    "avg_release_speed": 1.043
+  },
+  {
+    "nfl_id": 42486,
+    "name": "MyCole Pruitt",
+    "position": "TE",
+    "targets": 10,
+    "catch_rate": 0.9,
+    "avg_sep": 4.617,
+    "avg_release_speed": 2.356
+  },
+  {
+    "nfl_id": 44898,
+    "name": "Kareem Hunt",
+    "position": "RB",
+    "targets": 16,
+    "catch_rate": 0.8125,
+    "avg_sep": 4.564,
+    "avg_release_speed": 1.634
+  },
+  {
+    "nfl_id": 43010,
+    "name": "Adam Humphries",
+    "position": "WR",
+    "targets": 25,
+    "catch_rate": 0.68,
+    "avg_sep": 4.536,
+    "avg_release_speed": 1.277
+  },
+  {
+    "nfl_id": 43425,
+    "name": "Devontae Booker",
+    "position": "RB",
+    "targets": 14,
+    "catch_rate": 0.8571,
+    "avg_sep": 4.521,
+    "avg_release_speed": 3.244
+  },
+  {
+    "nfl_id": 46226,
+    "name": "Tyler Conklin",
+    "position": "TE",
+    "targets": 34,
+    "catch_rate": 0.7059,
+    "avg_sep": 4.491,
+    "avg_release_speed": 1.834
+  },
+  {
+    "nfl_id": 52526,
+    "name": "Albert Okwuegbunam",
+    "position": "TE",
+    "targets": 12,
+    "catch_rate": 0.9167,
+    "avg_sep": 4.486,
+    "avg_release_speed": 2.482
+  },
+  {
+    "nfl_id": 47803,
+    "name": "Noah Fant",
+    "position": "TE",
+    "targets": 50,
+    "catch_rate": 0.7,
+    "avg_sep": 4.48,
+    "avg_release_speed": 2.184
+  },
+  {
+    "nfl_id": 46189,
+    "name": "Will Dissly",
+    "position": "TE",
+    "targets": 12,
+    "catch_rate": 0.6667,
+    "avg_sep": 4.473,
+    "avg_release_speed": 2.438
+  },
+  {
+    "nfl_id": 44820,
+    "name": "Christian McCaffrey",
+    "position": "RB",
+    "targets": 13,
+    "catch_rate": 1.0,
+    "avg_sep": 4.471,
+    "avg_release_speed": 1.616
+  },
+  {
+    "nfl_id": 47852,
+    "name": "Josh Oliver",
+    "position": "TE",
+    "targets": 12,
+    "catch_rate": 0.5833,
+    "avg_sep": 4.449,
+    "avg_release_speed": 1.346
+  },
+  {
+    "nfl_id": 44923,
+    "name": "Dede Westbrook",
+    "position": "WR",
+    "targets": 9,
+    "catch_rate": 0.7778,
+    "avg_sep": 4.448,
+    "avg_release_speed": 2.657
+  },
+  {
+    "nfl_id": 42500,
+    "name": "C.J. Uzomah",
+    "position": "TE",
+    "targets": 20,
+    "catch_rate": 0.9,
+    "avg_sep": 4.435,
+    "avg_release_speed": 2.544
+  },
+  {
+    "nfl_id": 42429,
+    "name": "David Johnson",
+    "position": "RB",
+    "targets": 20,
+    "catch_rate": 0.7,
+    "avg_sep": 4.404,
+    "avg_release_speed": 2.253
+  },
+  {
+    "nfl_id": 46192,
+    "name": "Durham Smythe",
+    "position": "TE",
+    "targets": 16,
+    "catch_rate": 0.8125,
+    "avg_sep": 4.374,
+    "avg_release_speed": 1.869
+  },
+  {
+    "nfl_id": 48233,
+    "name": "Alec Ingold",
+    "position": "FB",
+    "targets": 8,
+    "catch_rate": 0.75,
+    "avg_sep": 4.365,
+    "avg_release_speed": 3.2
+  },
+  {
+    "nfl_id": 42794,
+    "name": "DeAndre Carter",
+    "position": "WR",
+    "targets": 12,
+    "catch_rate": 0.5833,
+    "avg_sep": 4.364,
+    "avg_release_speed": 1.653
+  },
+  {
+    "nfl_id": 52622,
+    "name": "Freddie Swain",
+    "position": "WR",
+    "targets": 20,
+    "catch_rate": 0.55,
+    "avg_sep": 4.354,
+    "avg_release_speed": 2.183
+  },
+  {
+    "nfl_id": 44816,
+    "name": "Leonard Fournette",
+    "position": "RB",
+    "targets": 29,
+    "catch_rate": 0.7241,
+    "avg_sep": 4.343,
+    "avg_release_speed": 1.105
+  },
+  {
+    "nfl_id": 42398,
+    "name": "Maxx Williams",
+    "position": "TE",
+    "targets": 15,
+    "catch_rate": 0.9333,
+    "avg_sep": 4.326,
+    "avg_release_speed": 0.904
+  },
+  {
+    "nfl_id": 52609,
+    "name": "James Proche",
+    "position": "WR",
+    "targets": 9,
+    "catch_rate": 0.6667,
+    "avg_sep": 4.265,
+    "avg_release_speed": 2.65
+  },
+  {
+    "nfl_id": 52467,
+    "name": "Denzel Mims",
+    "position": "WR",
+    "targets": 9,
+    "catch_rate": 0.6667,
+    "avg_sep": 4.215,
+    "avg_release_speed": 1.866
+  },
+  {
+    "nfl_id": 43415,
+    "name": "Demarcus Robinson",
+    "position": "WR",
+    "targets": 21,
+    "catch_rate": 0.5238,
+    "avg_sep": 4.184,
+    "avg_release_speed": 2.253
+  },
+  {
+    "nfl_id": 46522,
+    "name": "Byron Pringle",
+    "position": "WR",
+    "targets": 25,
+    "catch_rate": 0.68,
+    "avg_sep": 4.182,
+    "avg_release_speed": 1.928
+  },
+  {
+    "nfl_id": 53463,
+    "name": "Elijah Moore",
+    "position": "WR",
+    "targets": 27,
+    "catch_rate": 0.4074,
+    "avg_sep": 4.141,
+    "avg_release_speed": 2.054
+  },
+  {
+    "nfl_id": 44959,
+    "name": "George Kittle",
+    "position": "TE",
+    "targets": 19,
+    "catch_rate": 0.6842,
+    "avg_sep": 4.137,
+    "avg_release_speed": 1.508
+  },
+  {
+    "nfl_id": 46155,
+    "name": "Mark Andrews",
+    "position": "TE",
+    "targets": 50,
+    "catch_rate": 0.72,
+    "avg_sep": 4.128,
+    "avg_release_speed": 1.851
+  },
+  {
+    "nfl_id": 48556,
+    "name": "Jalen Guyton",
+    "position": "WR",
+    "targets": 20,
+    "catch_rate": 0.5,
+    "avg_sep": 4.112,
+    "avg_release_speed": 2.286
+  },
+  {
+    "nfl_id": 46118,
+    "name": "Dallas Goedert",
+    "position": "TE",
+    "targets": 27,
+    "catch_rate": 0.7778,
+    "avg_sep": 4.105,
+    "avg_release_speed": 2.569
+  },
+  {
+    "nfl_id": 52536,
+    "name": "Gabe Davis",
+    "position": "WR",
+    "targets": 11,
+    "catch_rate": 0.6364,
+    "avg_sep": 4.077,
+    "avg_release_speed": 2.175
+  },
+  {
+    "nfl_id": 44987,
+    "name": "Eric Saubert",
+    "position": "TE",
+    "targets": 10,
+    "catch_rate": 0.8,
+    "avg_sep": 4.066,
+    "avg_release_speed": 3.196
+  },
+  {
+    "nfl_id": 42428,
+    "name": "Tyler Kroft",
+    "position": "TE",
+    "targets": 13,
+    "catch_rate": 0.6154,
+    "avg_sep": 4.042,
+    "avg_release_speed": 2.195
+  },
+  {
+    "nfl_id": 39975,
+    "name": "Cordarrelle Patterson",
+    "position": "RB",
+    "targets": 34,
+    "catch_rate": 0.7941,
+    "avg_sep": 4.039,
+    "avg_release_speed": 1.862
+  },
+  {
+    "nfl_id": 38622,
+    "name": "T.Y. Hilton",
+    "position": "WR",
+    "targets": 9,
+    "catch_rate": 0.6667,
+    "avg_sep": 3.983,
+    "avg_release_speed": 0.986
+  },
+  {
+    "nfl_id": 52523,
+    "name": "Harrison Bryant",
+    "position": "TE",
+    "targets": 12,
+    "catch_rate": 0.75,
+    "avg_sep": 3.983,
+    "avg_release_speed": 2.777
+  },
+  {
+    "nfl_id": 44792,
+    "name": "Mo Alie-Cox",
+    "position": "TE",
+    "targets": 22,
+    "catch_rate": 0.4545,
+    "avg_sep": 3.973,
+    "avg_release_speed": 2.07
+  },
+  {
+    "nfl_id": 52513,
+    "name": "Adam Trautman",
+    "position": "TE",
+    "targets": 15,
+    "catch_rate": 0.4667,
+    "avg_sep": 3.934,
+    "avg_release_speed": 2.619
+  },
+  {
+    "nfl_id": 41349,
+    "name": "Logan Thomas",
+    "position": "TE",
+    "targets": 12,
+    "catch_rate": 0.8333,
+    "avg_sep": 3.898,
+    "avg_release_speed": 1.337
+  },
+  {
+    "nfl_id": 47808,
+    "name": "Marquise Brown",
+    "position": "WR",
+    "targets": 45,
+    "catch_rate": 0.6222,
+    "avg_sep": 3.889,
+    "avg_release_speed": 1.776
+  },
+  {
+    "nfl_id": 37101,
+    "name": "Mark Ingram",
+    "position": "RB",
+    "targets": 8,
+    "catch_rate": 0.625,
+    "avg_sep": 3.854,
+    "avg_release_speed": 3.169
+  },
+  {
+    "nfl_id": 52942,
+    "name": "Juwan Johnson",
+    "position": "TE",
+    "targets": 11,
+    "catch_rate": 0.5455,
+    "avg_sep": 3.85,
+    "avg_release_speed": 1.128
+  },
+  {
+    "nfl_id": 41506,
+    "name": "Albert Wilson",
+    "position": "WR",
+    "targets": 11,
+    "catch_rate": 0.5455,
+    "avg_sep": 3.846,
+    "avg_release_speed": 1.526
+  },
+  {
+    "nfl_id": 43310,
+    "name": "Will Fuller",
+    "position": "WR",
+    "targets": 10,
+    "catch_rate": 0.5,
+    "avg_sep": 3.844,
+    "avg_release_speed": 2.998
+  },
+  {
+    "nfl_id": 40149,
+    "name": "Ryan Griffin",
+    "position": "TE",
+    "targets": 18,
+    "catch_rate": 0.6111,
+    "avg_sep": 3.843,
+    "avg_release_speed": 3.524
+  },
+  {
+    "nfl_id": 40641,
+    "name": "Jack Doyle",
+    "position": "TE",
+    "targets": 14,
+    "catch_rate": 0.7857,
+    "avg_sep": 3.841,
+    "avg_release_speed": 0.934
+  },
+  {
+    "nfl_id": 44835,
+    "name": "Evan Engram",
+    "position": "TE",
+    "targets": 24,
+    "catch_rate": 0.6667,
+    "avg_sep": 3.814,
+    "avg_release_speed": 2.299
+  },
+  {
+    "nfl_id": 43584,
+    "name": "Kalif Raymond",
+    "position": "WR",
+    "targets": 36,
+    "catch_rate": 0.6111,
+    "avg_sep": 3.808,
+    "avg_release_speed": 1.842
+  },
+  {
+    "nfl_id": 45481,
+    "name": "Ricky Seals-Jones",
+    "position": "TE",
+    "targets": 29,
+    "catch_rate": 0.6552,
+    "avg_sep": 3.794,
+    "avg_release_speed": 2.346
+  },
+  {
+    "nfl_id": 38947,
+    "name": "Cole Beasley",
+    "position": "WR",
+    "targets": 40,
+    "catch_rate": 0.7,
+    "avg_sep": 3.79,
+    "avg_release_speed": 1.681
+  },
+  {
+    "nfl_id": 42448,
+    "name": "Jamison Crowder",
+    "position": "WR",
+    "targets": 22,
+    "catch_rate": 0.8182,
+    "avg_sep": 3.778,
+    "avg_release_speed": 1.983
+  },
+  {
+    "nfl_id": 45785,
+    "name": "Dan Arnold",
+    "position": "TE",
+    "targets": 34,
+    "catch_rate": 0.5882,
+    "avg_sep": 3.76,
+    "avg_release_speed": 2.148
+  },
+  {
+    "nfl_id": 52450,
+    "name": "Laviska Shenault",
+    "position": "WR",
+    "targets": 39,
+    "catch_rate": 0.5385,
+    "avg_sep": 3.757,
+    "avg_release_speed": 1.853
+  },
+  {
+    "nfl_id": 46129,
+    "name": "James Washington",
+    "position": "WR",
+    "targets": 10,
+    "catch_rate": 0.6,
+    "avg_sep": 3.742,
+    "avg_release_speed": 0.809
+  },
+  {
+    "nfl_id": 47819,
+    "name": "Deebo Samuel",
+    "position": "WR",
+    "targets": 60,
+    "catch_rate": 0.6167,
+    "avg_sep": 3.742,
+    "avg_release_speed": 1.605
+  },
+  {
+    "nfl_id": 47932,
+    "name": "Hunter Renfrow",
+    "position": "WR",
+    "targets": 45,
+    "catch_rate": 0.7111,
+    "avg_sep": 3.732,
+    "avg_release_speed": 2.014
+  },
+  {
+    "nfl_id": 39954,
+    "name": "Tavon Austin",
+    "position": "WR",
+    "targets": 11,
+    "catch_rate": 0.6364,
+    "avg_sep": 3.71,
+    "avg_release_speed": 2.358
+  },
+  {
+    "nfl_id": 39989,
+    "name": "Robert Woods",
+    "position": "WR",
+    "targets": 50,
+    "catch_rate": 0.62,
+    "avg_sep": 3.705,
+    "avg_release_speed": 1.459
+  },
+  {
+    "nfl_id": 43454,
+    "name": "Tyreek Hill",
+    "position": "WR",
+    "targets": 71,
+    "catch_rate": 0.6901,
+    "avg_sep": 3.685,
+    "avg_release_speed": 2.202
+  },
+  {
+    "nfl_id": 44978,
+    "name": "Jamal Agnew",
+    "position": "WR",
+    "targets": 20,
+    "catch_rate": 0.6,
+    "avg_sep": 3.662,
+    "avg_release_speed": 2.955
+  },
+  {
+    "nfl_id": 52584,
+    "name": "K.J. Osborn",
+    "position": "WR",
+    "targets": 35,
+    "catch_rate": 0.6857,
+    "avg_sep": 3.646,
+    "avg_release_speed": 1.519
+  },
+  {
+    "nfl_id": 35481,
+    "name": "Rob Gronkowski",
+    "position": "TE",
+    "targets": 21,
+    "catch_rate": 0.7143,
+    "avg_sep": 3.628,
+    "avg_release_speed": 1.179
+  },
+  {
+    "nfl_id": 46095,
+    "name": "Calvin Ridley",
+    "position": "WR",
+    "targets": 52,
+    "catch_rate": 0.5769,
+    "avg_sep": 3.628,
+    "avg_release_speed": 1.773
+  },
+  {
+    "nfl_id": 35634,
+    "name": "Antonio Brown",
+    "position": "WR",
+    "targets": 39,
+    "catch_rate": 0.6667,
+    "avg_sep": 3.623,
+    "avg_release_speed": 1.148
+  },
+  {
+    "nfl_id": 45355,
+    "name": "Anthony Firkser",
+    "position": "TE",
+    "targets": 15,
+    "catch_rate": 0.7333,
+    "avg_sep": 3.617,
+    "avg_release_speed": 1.223
+  },
+  {
+    "nfl_id": 52500,
+    "name": "Devin Duvernay",
+    "position": "WR",
+    "targets": 16,
+    "catch_rate": 0.625,
+    "avg_sep": 3.597,
+    "avg_release_speed": 1.747
+  },
+  {
+    "nfl_id": 45339,
+    "name": "Pharaoh Brown",
+    "position": "TE",
+    "targets": 16,
+    "catch_rate": 0.5625,
+    "avg_sep": 3.584,
+    "avg_release_speed": 2.549
+  },
+  {
+    "nfl_id": 46206,
+    "name": "Dalton Schultz",
+    "position": "TE",
+    "targets": 39,
+    "catch_rate": 0.7436,
+    "avg_sep": 3.582,
+    "avg_release_speed": 2.463
+  },
+  {
+    "nfl_id": 46277,
+    "name": "Cedrick Wilson",
+    "position": "WR",
+    "targets": 19,
+    "catch_rate": 0.7895,
+    "avg_sep": 3.57,
+    "avg_release_speed": 2.018
+  },
+  {
+    "nfl_id": 41230,
+    "name": "Sammy Watkins",
+    "position": "WR",
+    "targets": 31,
+    "catch_rate": 0.5806,
+    "avg_sep": 3.563,
+    "avg_release_speed": 1.757
+  },
+  {
+    "nfl_id": 41359,
+    "name": "James White",
+    "position": "RB",
+    "targets": 12,
+    "catch_rate": 0.8333,
+    "avg_sep": 3.561,
+    "avg_release_speed": 1.273
+  },
+  {
+    "nfl_id": 43461,
+    "name": "Rashard Higgins",
+    "position": "WR",
+    "targets": 24,
+    "catch_rate": 0.5833,
+    "avg_sep": 3.505,
+    "avg_release_speed": 1.227
+  },
+  {
+    "nfl_id": 45052,
+    "name": "Noah Brown",
+    "position": "WR",
+    "targets": 11,
+    "catch_rate": 0.8182,
+    "avg_sep": 3.5,
+    "avg_release_speed": 2.776
+  },
+  {
+    "nfl_id": 48374,
+    "name": "Olamide Zaccheaus",
+    "position": "WR",
+    "targets": 20,
+    "catch_rate": 0.5,
+    "avg_sep": 3.467,
+    "avg_release_speed": 1.619
+  },
+  {
+    "nfl_id": 47920,
+    "name": "Foster Moreau",
+    "position": "TE",
+    "targets": 8,
+    "catch_rate": 0.875,
+    "avg_sep": 3.458,
+    "avg_release_speed": 0.96
+  },
+  {
+    "nfl_id": 37077,
+    "name": "A.J. Green",
+    "position": "WR",
+    "targets": 36,
+    "catch_rate": 0.6111,
+    "avg_sep": 3.44,
+    "avg_release_speed": 1.95
+  },
+  {
+    "nfl_id": 52423,
+    "name": "Jerry Jeudy",
+    "position": "WR",
+    "targets": 11,
+    "catch_rate": 0.9091,
+    "avg_sep": 3.44,
+    "avg_release_speed": 1.459
+  },
+  {
+    "nfl_id": 48011,
+    "name": "Tommy Sweeney",
+    "position": "TE",
+    "targets": 9,
+    "catch_rate": 0.7778,
+    "avg_sep": 3.431,
+    "avg_release_speed": 3.399
+  },
+  {
+    "nfl_id": 53074,
+    "name": "Nick Westbrook-Ikhine",
+    "position": "WR",
+    "targets": 22,
+    "catch_rate": 0.5909,
+    "avg_sep": 3.431,
+    "avg_release_speed": 1.725
+  },
+  {
+    "nfl_id": 45185,
+    "name": "Kendrick Bourne",
+    "position": "WR",
+    "targets": 34,
+    "catch_rate": 0.7647,
+    "avg_sep": 3.42,
+    "avg_release_speed": 1.302
+  },
+  {
+    "nfl_id": 52451,
+    "name": "Cole Kmet",
+    "position": "TE",
+    "targets": 36,
+    "catch_rate": 0.6111,
+    "avg_sep": 3.414,
+    "avg_release_speed": 2.014
+  },
+  {
+    "nfl_id": 53484,
+    "name": "Pat Freiermuth",
+    "position": "TE",
+    "targets": 27,
+    "catch_rate": 0.8148,
+    "avg_sep": 3.414,
+    "avg_release_speed": 1.387
+  },
+  {
+    "nfl_id": 39983,
+    "name": "Zach Ertz",
+    "position": "TE",
+    "targets": 33,
+    "catch_rate": 0.6364,
+    "avg_sep": 3.39,
+    "avg_release_speed": 1.945
+  },
+  {
+    "nfl_id": 44931,
+    "name": "Mack Hollins",
+    "position": "WR",
+    "targets": 9,
+    "catch_rate": 0.5556,
+    "avg_sep": 3.389,
+    "avg_release_speed": 2.054
+  },
+  {
+    "nfl_id": 47791,
+    "name": "T.J. Hockenson",
+    "position": "TE",
+    "targets": 62,
+    "catch_rate": 0.7419,
+    "avg_sep": 3.386,
+    "avg_release_speed": 1.418
+  },
+  {
+    "nfl_id": 38613,
+    "name": "Mohamed Sanu",
+    "position": "WR",
+    "targets": 21,
+    "catch_rate": 0.619,
+    "avg_sep": 3.378,
+    "avg_release_speed": 1.414
+  },
+  {
+    "nfl_id": 52420,
+    "name": "Henry Ruggs",
+    "position": "WR",
+    "targets": 36,
+    "catch_rate": 0.6111,
+    "avg_sep": 3.371,
+    "avg_release_speed": 1.424
+  },
+  {
+    "nfl_id": 46263,
+    "name": "Russell Gage",
+    "position": "WR",
+    "targets": 10,
+    "catch_rate": 0.6,
+    "avg_sep": 3.366,
+    "avg_release_speed": 1.024
+  },
+  {
+    "nfl_id": 40011,
+    "name": "Travis Kelce",
+    "position": "TE",
+    "targets": 67,
+    "catch_rate": 0.6418,
+    "avg_sep": 3.364,
+    "avg_release_speed": 1.884
+  },
+  {
+    "nfl_id": 45102,
+    "name": "Zach Pascal",
+    "position": "WR",
+    "targets": 32,
+    "catch_rate": 0.5312,
+    "avg_sep": 3.357,
+    "avg_release_speed": 1.117
+  },
+  {
+    "nfl_id": 52766,
+    "name": "Kendall Hinton",
+    "position": "WR",
+    "targets": 16,
+    "catch_rate": 0.75,
+    "avg_sep": 3.354,
+    "avg_release_speed": 1.379
+  },
+  {
+    "nfl_id": 42412,
+    "name": "Tyler Lockett",
+    "position": "WR",
+    "targets": 53,
+    "catch_rate": 0.6415,
+    "avg_sep": 3.349,
+    "avg_release_speed": 1.995
+  },
+  {
+    "nfl_id": 53541,
+    "name": "Amon-Ra St. Brown",
+    "position": "WR",
+    "targets": 38,
+    "catch_rate": 0.6842,
+    "avg_sep": 3.343,
+    "avg_release_speed": 1.753
+  },
+  {
+    "nfl_id": 35521,
+    "name": "Emmanuel Sanders",
+    "position": "WR",
+    "targets": 44,
+    "catch_rate": 0.5227,
+    "avg_sep": 3.337,
+    "avg_release_speed": 1.717
+  },
+  {
+    "nfl_id": 33566,
+    "name": "Danny Amendola",
+    "position": "WR",
+    "targets": 12,
+    "catch_rate": 0.6667,
+    "avg_sep": 3.331,
+    "avg_release_speed": 1.767
+  },
+  {
+    "nfl_id": 44857,
+    "name": "Adam Shaheen",
+    "position": "TE",
+    "targets": 11,
+    "catch_rate": 0.8182,
+    "avg_sep": 3.313,
+    "avg_release_speed": 1.605
+  },
+  {
+    "nfl_id": 44881,
+    "name": "Cooper Kupp",
+    "position": "WR",
+    "targets": 80,
+    "catch_rate": 0.675,
+    "avg_sep": 3.308,
+    "avg_release_speed": 1.354
+  },
+  {
+    "nfl_id": 44817,
+    "name": "Corey Davis",
+    "position": "WR",
+    "targets": 42,
+    "catch_rate": 0.5476,
+    "avg_sep": 3.291,
+    "avg_release_speed": 1.757
+  },
+  {
+    "nfl_id": 52574,
+    "name": "Quintez Cephus",
+    "position": "WR",
+    "targets": 22,
+    "catch_rate": 0.6364,
+    "avg_sep": 3.286,
+    "avg_release_speed": 1.691
+  },
+  {
+    "nfl_id": 46093,
+    "name": "D.J. Moore",
+    "position": "WR",
+    "targets": 70,
+    "catch_rate": 0.6,
+    "avg_sep": 3.284,
+    "avg_release_speed": 1.915
+  },
+  {
+    "nfl_id": 46116,
+    "name": "Christian Kirk",
+    "position": "WR",
+    "targets": 34,
+    "catch_rate": 0.8529,
+    "avg_sep": 3.28,
+    "avg_release_speed": 2.03
+  },
+  {
+    "nfl_id": 45532,
+    "name": "Blake Jarwin",
+    "position": "TE",
+    "targets": 17,
+    "catch_rate": 0.5882,
+    "avg_sep": 3.262,
+    "avg_release_speed": 2.119
+  },
+  {
+    "nfl_id": 47842,
+    "name": "Parris Campbell",
+    "position": "WR",
+    "targets": 20,
+    "catch_rate": 0.45,
+    "avg_sep": 3.258,
+    "avg_release_speed": 1.616
+  },
+  {
+    "nfl_id": 47847,
+    "name": "DK Metcalf",
+    "position": "WR",
+    "targets": 54,
+    "catch_rate": 0.6481,
+    "avg_sep": 3.256,
+    "avg_release_speed": 1.618
+  },
+  {
+    "nfl_id": 40024,
+    "name": "Keenan Allen",
+    "position": "WR",
+    "targets": 59,
+    "catch_rate": 0.6441,
+    "avg_sep": 3.251,
+    "avg_release_speed": 1.517
+  },
+  {
+    "nfl_id": 42547,
+    "name": "Darren Waller",
+    "position": "TE",
+    "targets": 45,
+    "catch_rate": 0.6,
+    "avg_sep": 3.235,
+    "avg_release_speed": 1.432
+  },
+  {
+    "nfl_id": 46130,
+    "name": "D.J. Chark",
+    "position": "WR",
+    "targets": 20,
+    "catch_rate": 0.35,
+    "avg_sep": 3.222,
+    "avg_release_speed": 2.165
+  },
+  {
+    "nfl_id": 44874,
+    "name": "JuJu Smith-Schuster",
+    "position": "WR",
+    "targets": 23,
+    "catch_rate": 0.5652,
+    "avg_sep": 3.216,
+    "avg_release_speed": 1.359
+  },
+  {
+    "nfl_id": 52442,
+    "name": "Michael Pittman",
+    "position": "WR",
+    "targets": 58,
+    "catch_rate": 0.6724,
+    "avg_sep": 3.213,
+    "avg_release_speed": 1.648
+  },
+  {
+    "nfl_id": 52569,
+    "name": "Tyler Johnson",
+    "position": "WR",
+    "targets": 17,
+    "catch_rate": 0.5882,
+    "avg_sep": 3.209,
+    "avg_release_speed": 1.208
+  },
+  {
+    "nfl_id": 41246,
+    "name": "Brandin Cooks",
+    "position": "WR",
+    "targets": 60,
+    "catch_rate": 0.6667,
+    "avg_sep": 3.205,
+    "avg_release_speed": 2.187
+  },
+  {
+    "nfl_id": 48097,
+    "name": "Jakobi Meyers",
+    "position": "WR",
+    "targets": 65,
+    "catch_rate": 0.6308,
+    "avg_sep": 3.203,
+    "avg_release_speed": 1.261
+  },
+  {
+    "nfl_id": 43324,
+    "name": "Hunter Henry",
+    "position": "TE",
+    "targets": 35,
+    "catch_rate": 0.7143,
+    "avg_sep": 3.201,
+    "avg_release_speed": 1.479
+  },
+  {
+    "nfl_id": 53488,
+    "name": "Terrace Marshall",
+    "position": "WR",
+    "targets": 16,
+    "catch_rate": 0.625,
+    "avg_sep": 3.201,
+    "avg_release_speed": 1.261
+  },
+  {
+    "nfl_id": 53435,
+    "name": "Jaylen Waddle",
+    "position": "WR",
+    "targets": 48,
+    "catch_rate": 0.6667,
+    "avg_sep": 3.193,
+    "avg_release_speed": 1.896
+  },
+  {
+    "nfl_id": 40488,
+    "name": "Adam Thielen",
+    "position": "WR",
+    "targets": 50,
+    "catch_rate": 0.66,
+    "avg_sep": 3.192,
+    "avg_release_speed": 1.634
+  },
+  {
+    "nfl_id": 52581,
+    "name": "Darnell Mooney",
+    "position": "WR",
+    "targets": 43,
+    "catch_rate": 0.6512,
+    "avg_sep": 3.178,
+    "avg_release_speed": 1.505
+  },
+  {
+    "nfl_id": 38696,
+    "name": "Marvin Jones",
+    "position": "WR",
+    "targets": 48,
+    "catch_rate": 0.5833,
+    "avg_sep": 3.166,
+    "avg_release_speed": 2.443
+  },
+  {
+    "nfl_id": 45267,
+    "name": "Tim Patrick",
+    "position": "WR",
+    "targets": 41,
+    "catch_rate": 0.6829,
+    "avg_sep": 3.166,
+    "avg_release_speed": 1.414
+  },
+  {
+    "nfl_id": 39973,
+    "name": "DeAndre Hopkins",
+    "position": "WR",
+    "targets": 43,
+    "catch_rate": 0.5814,
+    "avg_sep": 3.161,
+    "avg_release_speed": 2.198
+  },
+  {
+    "nfl_id": 47849,
+    "name": "Diontae Johnson",
+    "position": "WR",
+    "targets": 47,
+    "catch_rate": 0.5319,
+    "avg_sep": 3.159,
+    "avg_release_speed": 1.322
+  },
+  {
+    "nfl_id": 42589,
+    "name": "Geoff Swaim",
+    "position": "TE",
+    "targets": 16,
+    "catch_rate": 0.625,
+    "avg_sep": 3.157,
+    "avg_release_speed": 1.806
+  },
+  {
+    "nfl_id": 44930,
+    "name": "Josh Reynolds",
+    "position": "WR",
+    "targets": 12,
+    "catch_rate": 0.6667,
+    "avg_sep": 3.147,
+    "avg_release_speed": 0.932
+  },
+  {
+    "nfl_id": 43556,
+    "name": "Chester Rogers",
+    "position": "WR",
+    "targets": 22,
+    "catch_rate": 0.5909,
+    "avg_sep": 3.145,
+    "avg_release_speed": 1.176
+  },
+  {
+    "nfl_id": 46111,
+    "name": "Mike Gesicki",
+    "position": "TE",
+    "targets": 43,
+    "catch_rate": 0.7674,
+    "avg_sep": 3.14,
+    "avg_release_speed": 1.673
+  },
+  {
+    "nfl_id": 53687,
+    "name": "Dax Milne",
+    "position": "WR",
+    "targets": 9,
+    "catch_rate": 0.4444,
+    "avg_sep": 3.133,
+    "avg_release_speed": 1.65
+  },
+  {
+    "nfl_id": 52608,
+    "name": "Quez Watkins",
+    "position": "WR",
+    "targets": 18,
+    "catch_rate": 0.5556,
+    "avg_sep": 3.126,
+    "avg_release_speed": 3.541
+  },
+  {
+    "nfl_id": 46243,
+    "name": "Marquez Valdes-Scantling",
+    "position": "WR",
+    "targets": 13,
+    "catch_rate": 0.3846,
+    "avg_sep": 3.114,
+    "avg_release_speed": 1.171
+  },
+  {
+    "nfl_id": 33130,
+    "name": "DeSean Jackson",
+    "position": "WR",
+    "targets": 13,
+    "catch_rate": 0.4615,
+    "avg_sep": 3.084,
+    "avg_release_speed": 1.125
+  },
+  {
+    "nfl_id": 41282,
+    "name": "Davante Adams",
+    "position": "WR",
+    "targets": 60,
+    "catch_rate": 0.6,
+    "avg_sep": 3.079,
+    "avg_release_speed": 1.64
+  },
+  {
+    "nfl_id": 43344,
+    "name": "Tyler Boyd",
+    "position": "WR",
+    "targets": 46,
+    "catch_rate": 0.7391,
+    "avg_sep": 3.075,
+    "avg_release_speed": 1.481
+  },
+  {
+    "nfl_id": 46167,
+    "name": "Jordan Akins",
+    "position": "TE",
+    "targets": 22,
+    "catch_rate": 0.7273,
+    "avg_sep": 3.07,
+    "avg_release_speed": 1.559
+  },
+  {
+    "nfl_id": 53512,
+    "name": "Tommy Tremble",
+    "position": "TE",
+    "targets": 15,
+    "catch_rate": 0.5333,
+    "avg_sep": 3.061,
+    "avg_release_speed": 2.452
+  },
+  {
+    "nfl_id": 42489,
+    "name": "Stefon Diggs",
+    "position": "WR",
+    "targets": 50,
+    "catch_rate": 0.62,
+    "avg_sep": 3.029,
+    "avg_release_speed": 1.814
+  },
+  {
+    "nfl_id": 52425,
+    "name": "CeeDee Lamb",
+    "position": "WR",
+    "targets": 46,
+    "catch_rate": 0.6304,
+    "avg_sep": 3.023,
+    "avg_release_speed": 1.617
+  },
+  {
+    "nfl_id": 43370,
+    "name": "Austin Hooper",
+    "position": "TE",
+    "targets": 26,
+    "catch_rate": 0.6154,
+    "avg_sep": 3.0,
+    "avg_release_speed": 1.883
+  },
+  {
+    "nfl_id": 53520,
+    "name": "Anthony Schwartz",
+    "position": "WR",
+    "targets": 12,
+    "catch_rate": 0.4167,
+    "avg_sep": 2.998,
+    "avg_release_speed": 1.167
+  },
+  {
+    "nfl_id": 44841,
+    "name": "David Njoku",
+    "position": "TE",
+    "targets": 20,
+    "catch_rate": 0.7,
+    "avg_sep": 2.991,
+    "avg_release_speed": 2.169
+  },
+  {
+    "nfl_id": 43808,
+    "name": "Robby Anderson",
+    "position": "WR",
+    "targets": 46,
+    "catch_rate": 0.3261,
+    "avg_sep": 2.959,
+    "avg_release_speed": 2.17
+  },
+  {
+    "nfl_id": 43329,
+    "name": "Sterling Shepard",
+    "position": "WR",
+    "targets": 38,
+    "catch_rate": 0.6842,
+    "avg_sep": 2.955,
+    "avg_release_speed": 1.418
+  },
+  {
+    "nfl_id": 52465,
+    "name": "Van Jefferson",
+    "position": "WR",
+    "targets": 35,
+    "catch_rate": 0.5429,
+    "avg_sep": 2.951,
+    "avg_release_speed": 1.709
+  },
+  {
+    "nfl_id": 44831,
+    "name": "O.J. Howard",
+    "position": "TE",
+    "targets": 18,
+    "catch_rate": 0.6111,
+    "avg_sep": 2.948,
+    "avg_release_speed": 0.751
+  },
+  {
+    "nfl_id": 42419,
+    "name": "Chris Conley",
+    "position": "WR",
+    "targets": 14,
+    "catch_rate": 0.5,
+    "avg_sep": 2.944,
+    "avg_release_speed": 2.304
+  },
+  {
+    "nfl_id": 43399,
+    "name": "Tyler Higbee",
+    "position": "TE",
+    "targets": 28,
+    "catch_rate": 0.75,
+    "avg_sep": 2.912,
+    "avg_release_speed": 1.694
+  },
+  {
+    "nfl_id": 52429,
+    "name": "Jalen Reagor",
+    "position": "WR",
+    "targets": 22,
+    "catch_rate": 0.4091,
+    "avg_sep": 2.911,
+    "avg_release_speed": 2.23
+  },
+  {
+    "nfl_id": 34540,
+    "name": "Jared Cook",
+    "position": "TE",
+    "targets": 34,
+    "catch_rate": 0.6176,
+    "avg_sep": 2.909,
+    "avg_release_speed": 1.65
+  },
+  {
+    "nfl_id": 46120,
+    "name": "Anthony Miller",
+    "position": "WR",
+    "targets": 9,
+    "catch_rate": 0.4444,
+    "avg_sep": 2.903,
+    "avg_release_speed": 2.123
+  },
+  {
+    "nfl_id": 46671,
+    "name": "Trent Sherfield",
+    "position": "WR",
+    "targets": 10,
+    "catch_rate": 0.4,
+    "avg_sep": 2.903,
+    "avg_release_speed": 1.286
+  },
+  {
+    "nfl_id": 47834,
+    "name": "A.J. Brown",
+    "position": "WR",
+    "targets": 52,
+    "catch_rate": 0.6731,
+    "avg_sep": 2.875,
+    "avg_release_speed": 1.339
+  },
+  {
+    "nfl_id": 53449,
+    "name": "Kadarius Toney",
+    "position": "WR",
+    "targets": 25,
+    "catch_rate": 0.72,
+    "avg_sep": 2.872,
+    "avg_release_speed": 2.344
+  },
+  {
+    "nfl_id": 45555,
+    "name": "Keelan Cole",
+    "position": "WR",
+    "targets": 17,
+    "catch_rate": 0.6471,
+    "avg_sep": 2.867,
+    "avg_release_speed": 1.395
+  },
+  {
+    "nfl_id": 45635,
+    "name": "Robert Tonyan",
+    "position": "TE",
+    "targets": 24,
+    "catch_rate": 0.5,
+    "avg_sep": 2.866,
+    "avg_release_speed": 2.275
+  },
+  {
+    "nfl_id": 48118,
+    "name": "Ashton Dulin",
+    "position": "WR",
+    "targets": 11,
+    "catch_rate": 0.1818,
+    "avg_sep": 2.865,
+    "avg_release_speed": 2.558
+  },
+  {
+    "nfl_id": 47859,
+    "name": "Terry McLaurin",
+    "position": "WR",
+    "targets": 70,
+    "catch_rate": 0.5429,
+    "avg_sep": 2.844,
+    "avg_release_speed": 1.615
+  },
+  {
+    "nfl_id": 40092,
+    "name": "Kenny Stills",
+    "position": "WR",
+    "targets": 13,
+    "catch_rate": 0.3077,
+    "avg_sep": 2.843,
+    "avg_release_speed": 1.652
+  },
+  {
+    "nfl_id": 44908,
+    "name": "Kenny Golladay",
+    "position": "WR",
+    "targets": 28,
+    "catch_rate": 0.6071,
+    "avg_sep": 2.827,
+    "avg_release_speed": 1.423
+  },
+  {
+    "nfl_id": 46992,
+    "name": "KhaDarel Hodge",
+    "position": "WR",
+    "targets": 14,
+    "catch_rate": 0.4286,
+    "avg_sep": 2.826,
+    "avg_release_speed": 0.884
+  },
+  {
+    "nfl_id": 53456,
+    "name": "Rashod Bateman",
+    "position": "WR",
+    "targets": 8,
+    "catch_rate": 0.625,
+    "avg_sep": 2.819,
+    "avg_release_speed": 1.514
+  },
+  {
+    "nfl_id": 41233,
+    "name": "Mike Evans",
+    "position": "WR",
+    "targets": 59,
+    "catch_rate": 0.5932,
+    "avg_sep": 2.817,
+    "avg_release_speed": 0.858
+  },
+  {
+    "nfl_id": 46109,
+    "name": "Courtland Sutton",
+    "position": "WR",
+    "targets": 57,
+    "catch_rate": 0.6316,
+    "avg_sep": 2.815,
+    "avg_release_speed": 1.272
+  },
+  {
+    "nfl_id": 53098,
+    "name": "Marquez Callaway",
+    "position": "WR",
+    "targets": 34,
+    "catch_rate": 0.5882,
+    "avg_sep": 2.801,
+    "avg_release_speed": 1.407
+  },
+  {
+    "nfl_id": 41238,
+    "name": "Odell Beckham",
+    "position": "WR",
+    "targets": 31,
+    "catch_rate": 0.3871,
+    "avg_sep": 2.789,
+    "avg_release_speed": 1.727
+  },
+  {
+    "nfl_id": 42363,
+    "name": "Nelson Agholor",
+    "position": "WR",
+    "targets": 36,
+    "catch_rate": 0.5,
+    "avg_sep": 2.759,
+    "avg_release_speed": 1.375
+  },
+  {
+    "nfl_id": 52457,
+    "name": "Chase Claypool",
+    "position": "WR",
+    "targets": 36,
+    "catch_rate": 0.4722,
+    "avg_sep": 2.753,
+    "avg_release_speed": 1.016
+  },
+  {
+    "nfl_id": 46705,
+    "name": "Allen Lazard",
+    "position": "WR",
+    "targets": 17,
+    "catch_rate": 0.6471,
+    "avg_sep": 2.727,
+    "avg_release_speed": 1.338
+  },
+  {
+    "nfl_id": 53433,
+    "name": "Kyle Pitts",
+    "position": "TE",
+    "targets": 55,
+    "catch_rate": 0.6364,
+    "avg_sep": 2.722,
+    "avg_release_speed": 1.283
+  },
+  {
+    "nfl_id": 42347,
+    "name": "Amari Cooper",
+    "position": "WR",
+    "targets": 52,
+    "catch_rate": 0.6346,
+    "avg_sep": 2.701,
+    "avg_release_speed": 1.394
+  },
+  {
+    "nfl_id": 46113,
+    "name": "Dante Pettis",
+    "position": "WR",
+    "targets": 13,
+    "catch_rate": 0.6923,
+    "avg_sep": 2.699,
+    "avg_release_speed": 1.932
+  },
+  {
+    "nfl_id": 43429,
+    "name": "Tajae Sharpe",
+    "position": "WR",
+    "targets": 20,
+    "catch_rate": 0.75,
+    "avg_sep": 2.694,
+    "avg_release_speed": 1.671
+  },
+  {
+    "nfl_id": 53518,
+    "name": "Nico Collins",
+    "position": "WR",
+    "targets": 17,
+    "catch_rate": 0.6471,
+    "avg_sep": 2.694,
+    "avg_release_speed": 1.715
+  },
+  {
+    "nfl_id": 44821,
+    "name": "John Ross",
+    "position": "WR",
+    "targets": 15,
+    "catch_rate": 0.4667,
+    "avg_sep": 2.676,
+    "avg_release_speed": 1.749
+  },
+  {
+    "nfl_id": 53511,
+    "name": "Dyami Brown",
+    "position": "WR",
+    "targets": 20,
+    "catch_rate": 0.4,
+    "avg_sep": 2.665,
+    "avg_release_speed": 1.2
+  },
+  {
+    "nfl_id": 52573,
+    "name": "Collin Johnson",
+    "position": "WR",
+    "targets": 20,
+    "catch_rate": 0.6,
+    "avg_sep": 2.648,
+    "avg_release_speed": 2.227
+  },
+  {
+    "nfl_id": 37118,
+    "name": "Kyle Rudolph",
+    "position": "TE",
+    "targets": 17,
+    "catch_rate": 0.6471,
+    "avg_sep": 2.626,
+    "avg_release_speed": 2.078
+  },
+  {
+    "nfl_id": 37079,
+    "name": "Julio Jones",
+    "position": "WR",
+    "targets": 27,
+    "catch_rate": 0.6667,
+    "avg_sep": 2.616,
+    "avg_release_speed": 1.369
+  },
+  {
+    "nfl_id": 47954,
+    "name": "Darius Slayton",
+    "position": "WR",
+    "targets": 24,
+    "catch_rate": 0.5,
+    "avg_sep": 2.605,
+    "avg_release_speed": 2.268
+  },
+  {
+    "nfl_id": 42033,
+    "name": "Cameron Brate",
+    "position": "TE",
+    "targets": 24,
+    "catch_rate": 0.5,
+    "avg_sep": 2.594,
+    "avg_release_speed": 1.028
+  },
+  {
+    "nfl_id": 41292,
+    "name": "Jarvis Landry",
+    "position": "WR",
+    "targets": 21,
+    "catch_rate": 0.619,
+    "avg_sep": 2.58,
+    "avg_release_speed": 1.285
+  },
+  {
+    "nfl_id": 52430,
+    "name": "Justin Jefferson",
+    "position": "WR",
+    "targets": 56,
+    "catch_rate": 0.5714,
+    "avg_sep": 2.577,
+    "avg_release_speed": 1.366
+  },
+  {
+    "nfl_id": 40026,
+    "name": "Marquise Goodwin",
+    "position": "WR",
+    "targets": 18,
+    "catch_rate": 0.4444,
+    "avg_sep": 2.567,
+    "avg_release_speed": 1.776
+  },
+  {
+    "nfl_id": 53439,
+    "name": "DeVonta Smith",
+    "position": "WR",
+    "targets": 50,
+    "catch_rate": 0.6,
+    "avg_sep": 2.547,
+    "avg_release_speed": 1.898
+  },
+  {
+    "nfl_id": 44896,
+    "name": "Chris Godwin",
+    "position": "WR",
+    "targets": 50,
+    "catch_rate": 0.68,
+    "avg_sep": 2.541,
+    "avg_release_speed": 1.141
+  },
+  {
+    "nfl_id": 44819,
+    "name": "Mike Williams",
+    "position": "WR",
+    "targets": 51,
+    "catch_rate": 0.5098,
+    "avg_sep": 2.504,
+    "avg_release_speed": 1.324
+  },
+  {
+    "nfl_id": 41236,
+    "name": "Eric Ebron",
+    "position": "TE",
+    "targets": 12,
+    "catch_rate": 0.5833,
+    "avg_sep": 2.496,
+    "avg_release_speed": 1.272
+  },
+  {
+    "nfl_id": 52433,
+    "name": "Brandon Aiyuk",
+    "position": "WR",
+    "targets": 23,
+    "catch_rate": 0.5217,
+    "avg_sep": 2.452,
+    "avg_release_speed": 1.709
+  },
+  {
+    "nfl_id": 52595,
+    "name": "Donovan Peoples-Jones",
+    "position": "WR",
+    "targets": 15,
+    "catch_rate": 0.8667,
+    "avg_sep": 2.436,
+    "avg_release_speed": 2.117
+  },
+  {
+    "nfl_id": 53434,
+    "name": "Ja'Marr Chase",
+    "position": "WR",
+    "targets": 54,
+    "catch_rate": 0.6481,
+    "avg_sep": 2.363,
+    "avg_release_speed": 1.091
+  },
+  {
+    "nfl_id": 42357,
+    "name": "DeVante Parker",
+    "position": "WR",
+    "targets": 38,
+    "catch_rate": 0.5526,
+    "avg_sep": 2.328,
+    "avg_release_speed": 1.665
+  },
+  {
+    "nfl_id": 52441,
+    "name": "Tee Higgins",
+    "position": "WR",
+    "targets": 49,
+    "catch_rate": 0.5714,
+    "avg_sep": 2.324,
+    "avg_release_speed": 1.52
+  },
+  {
+    "nfl_id": 53506,
+    "name": "Josh Palmer",
+    "position": "WR",
+    "targets": 9,
+    "catch_rate": 0.5556,
+    "avg_sep": 2.309,
+    "avg_release_speed": 1.05
+  },
+  {
+    "nfl_id": 52489,
+    "name": "Bryan Edwards",
+    "position": "WR",
+    "targets": 28,
+    "catch_rate": 0.6071,
+    "avg_sep": 2.268,
+    "avg_release_speed": 1.942
+  },
+  {
+    "nfl_id": 47815,
+    "name": "N'Keal Harry",
+    "position": "WR",
+    "targets": 8,
+    "catch_rate": 0.5,
+    "avg_sep": 2.229,
+    "avg_release_speed": 0.976
+  },
+  {
+    "nfl_id": 41290,
+    "name": "Allen Robinson",
+    "position": "WR",
+    "targets": 41,
+    "catch_rate": 0.6098,
+    "avg_sep": 2.228,
+    "avg_release_speed": 1.684
+  },
+  {
+    "nfl_id": 37139,
+    "name": "Randall Cobb",
+    "position": "WR",
+    "targets": 16,
+    "catch_rate": 0.625,
+    "avg_sep": 2.205,
+    "avg_release_speed": 1.897
+  },
+  {
+    "nfl_id": 48053,
+    "name": "Trinity Benson",
+    "position": "WR",
+    "targets": 14,
+    "catch_rate": 0.3571,
+    "avg_sep": 2.116,
+    "avg_release_speed": 1.116
+  },
+  {
+    "nfl_id": 48480,
+    "name": "Preston Williams",
+    "position": "WR",
+    "targets": 8,
+    "catch_rate": 0.375,
+    "avg_sep": 2.042,
+    "avg_release_speed": 2.042
+  },
+  {
+    "nfl_id": 44003,
+    "name": "Marcus Johnson",
+    "position": "WR",
+    "targets": 11,
+    "catch_rate": 0.2727,
+    "avg_sep": 1.844,
+    "avg_release_speed": 0.891
+  }
+]

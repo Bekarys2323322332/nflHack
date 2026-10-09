@@ -1,0 +1,54 @@
+[
+  {
+    "feature": "sep_nearest",
+    "importance": 0.442
+  },
+  {
+    "feature": "qb_dist",
+    "importance": 0.1323
+  },
+  {
+    "feature": "depth",
+    "importance": 0.1154
+  },
+  {
+    "feature": "pressure_dist",
+    "importance": 0.0908
+  },
+  {
+    "feature": "rec_speed",
+    "importance": 0.0533
+  },
+  {
+    "feature": "sideline_dist",
+    "importance": 0.05
+  },
+  {
+    "feature": "rec_accel",
+    "importance": 0.0294
+  },
+  {
+    "feature": "sep_second",
+    "importance": 0.0286
+  },
+  {
+    "feature": "time_to_throw",
+    "importance": 0.0225
+  },
+  {
+    "feature": "release_speed",
+    "importance": 0.0195
+  },
+  {
+    "feature": "yardsToGo",
+    "importance": 0.0076
+  },
+  {
+    "feature": "down",
+    "importance": 0.0059
+  },
+  {
+    "feature": "defendersInBox",
+    "importance": 0.0027
+  }
+]

@@ -1,0 +1,6220 @@
+{
+  "game_id": 2021091200,
+  "play_id": 2020,
+  "description": "(1:37) (Shotgun) J.Hurts pass incomplete short right to K.Gainwell.",
+  "p_catch": 0.6665,
+  "result": "incomplete",
+  "throw_frame": 26,
+  "frames": [
+    {
+      "frame_id": 1,
+      "ball": {
+        "x": 56.82,
+        "y": 23.83
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 56.19,
+          "y": 23.86,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 55.51,
+          "y": 22.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 72.57,
+          "y": 27.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 55.5,
+          "y": 21.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 55.7,
+          "y": 30.7,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 62.05,
+          "y": 18.37,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 57.89,
+          "y": 29.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 57.63,
+          "y": 19.46,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 57.42,
+          "y": 26.86,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 61.85,
+          "y": 23.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 55.5,
+          "y": 25.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 63.81,
+          "y": 44.32,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 55.06,
+          "y": 35.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 63.48,
+          "y": 34.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 62.98,
+          "y": 27.54,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 55.23,
+          "y": 26.78,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.39,
+          "y": 15.15,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 55.1,
+          "y": 44.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 57.97,
+          "y": 22.67,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 51.51,
+          "y": 23.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 55.78,
+          "y": 16.43,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.22,
+          "y": 21.11,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 2,
+      "ball": {
+        "x": 56.82,
+        "y": 23.83
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 56.18,
+          "y": 23.86,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 55.51,
+          "y": 22.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 72.58,
+          "y": 27.66,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 55.5,
+          "y": 21.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 55.71,
+          "y": 30.7,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 61.9,
+          "y": 18.35,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 57.92,
+          "y": 29.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 57.63,
+          "y": 19.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 57.4,
+          "y": 26.88,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 61.86,
+          "y": 23.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 55.5,
+          "y": 25.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 63.79,
+          "y": 44.34,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 55.06,
+          "y": 35.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 63.48,
+          "y": 34.43,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 62.98,
+          "y": 27.54,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 55.23,
+          "y": 26.77,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.42,
+          "y": 15.13,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 55.1,
+          "y": 44.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 57.97,
+          "y": 22.67,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 51.51,
+          "y": 23.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 55.78,
+          "y": 16.42,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.22,
+          "y": 21.12,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 3,
+      "ball": {
+        "x": 56.82,
+        "y": 23.83
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 56.17,
+          "y": 23.86,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 55.51,
+          "y": 22.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 72.57,
+          "y": 27.65,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 55.5,
+          "y": 21.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 55.71,
+          "y": 30.7,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 61.74,
+          "y": 18.34,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 57.92,
+          "y": 29.43,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 57.61,
+          "y": 19.48,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 57.37,
+          "y": 26.91,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 61.86,
+          "y": 23.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 55.5,
+          "y": 25.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 63.78,
+          "y": 44.37,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 55.06,
+          "y": 35.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 63.5,
+          "y": 34.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 62.98,
+          "y": 27.53,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 55.23,
+          "y": 26.77,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.46,
+          "y": 15.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 55.09,
+          "y": 44.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 57.96,
+          "y": 22.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 51.52,
+          "y": 23.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 55.79,
+          "y": 16.43,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.23,
+          "y": 21.13,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 4,
+      "ball": {
+        "x": 56.82,
+        "y": 23.83
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 56.15,
+          "y": 23.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 55.51,
+          "y": 22.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 72.57,
+          "y": 27.63,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 55.5,
+          "y": 21.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 55.72,
+          "y": 30.7,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 61.55,
+          "y": 18.33,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 57.91,
+          "y": 29.43,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 57.58,
+          "y": 19.5,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 57.3,
+          "y": 26.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 61.87,
+          "y": 23.37,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 55.49,
+          "y": 25.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 63.76,
+          "y": 44.4,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 55.06,
+          "y": 35.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 63.51,
+          "y": 34.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 62.97,
+          "y": 27.53,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 55.22,
+          "y": 26.77,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.49,
+          "y": 15.09,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 55.09,
+          "y": 44.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 57.94,
+          "y": 22.71,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 51.52,
+          "y": 23.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 55.79,
+          "y": 16.43,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.24,
+          "y": 21.14,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 5,
+      "ball": {
+        "x": 56.82,
+        "y": 23.83
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 56.1,
+          "y": 23.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 55.5,
+          "y": 22.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 72.57,
+          "y": 27.6,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 55.47,
+          "y": 21.03,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 55.74,
+          "y": 30.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 61.35,
+          "y": 18.31,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 57.88,
+          "y": 29.41,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 57.56,
+          "y": 19.53,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 57.24,
+          "y": 26.96,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 61.87,
+          "y": 23.37,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 55.46,
+          "y": 25.54,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 63.75,
+          "y": 44.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 55.06,
+          "y": 35.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 63.53,
+          "y": 34.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 62.97,
+          "y": 27.54,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 55.21,
+          "y": 26.77,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.52,
+          "y": 15.07,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 55.1,
+          "y": 44.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 57.91,
+          "y": 22.73,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 51.53,
+          "y": 23.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 55.8,
+          "y": 16.43,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.34,
+          "y": 21.11,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 6,
+      "ball": {
+        "x": 56.82,
+        "y": 23.83
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 56.02,
+          "y": 23.89,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 55.5,
+          "y": 22.71,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 72.57,
+          "y": 27.57,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 55.44,
+          "y": 21.01,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 55.75,
+          "y": 30.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 61.11,
+          "y": 18.3,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 57.86,
+          "y": 29.4,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 57.54,
+          "y": 19.56,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 57.17,
+          "y": 26.98,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 61.87,
+          "y": 23.37,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 55.43,
+          "y": 25.57,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 63.76,
+          "y": 44.41,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 55.07,
+          "y": 35.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 63.56,
+          "y": 34.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 62.98,
+          "y": 27.55,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 55.2,
+          "y": 26.78,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.54,
+          "y": 15.05,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 55.1,
+          "y": 44.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 57.88,
+          "y": 22.75,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 51.53,
+          "y": 23.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 55.81,
+          "y": 16.44,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.34,
+          "y": 21.06,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 7,
+      "ball": {
+        "x": 55.92,
+        "y": 23.54
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 55.93,
+          "y": 23.91,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 55.49,
+          "y": 22.71,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 72.58,
+          "y": 27.53,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 55.4,
+          "y": 20.99,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 55.78,
+          "y": 30.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 60.84,
+          "y": 18.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 57.83,
+          "y": 29.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 57.5,
+          "y": 19.59,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 57.06,
+          "y": 27.0,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 61.87,
+          "y": 23.37,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 55.35,
+          "y": 25.62,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 63.76,
+          "y": 44.41,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 55.09,
+          "y": 35.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 63.6,
+          "y": 34.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 62.98,
+          "y": 27.57,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 55.16,
+          "y": 26.78,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.56,
+          "y": 15.02,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 55.11,
+          "y": 44.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 57.83,
+          "y": 22.79,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 51.53,
+          "y": 23.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 55.82,
+          "y": 16.44,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.35,
+          "y": 21.07,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 8,
+      "ball": {
+        "x": 54.89,
+        "y": 23.53
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 55.8,
+          "y": 23.94,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 55.48,
+          "y": 22.71,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 72.59,
+          "y": 27.49,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 55.34,
+          "y": 20.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 55.87,
+          "y": 30.66,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 60.54,
+          "y": 18.28,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 57.76,
+          "y": 29.34,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 57.44,
+          "y": 19.64,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 56.9,
+          "y": 27.01,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 61.89,
+          "y": 23.37,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 55.24,
+          "y": 25.67,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 63.77,
+          "y": 44.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 55.11,
+          "y": 35.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 63.64,
+          "y": 34.43,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 62.98,
+          "y": 27.61,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 55.1,
+          "y": 26.79,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.57,
+          "y": 14.98,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 55.12,
+          "y": 44.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 57.74,
+          "y": 22.87,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 51.51,
+          "y": 23.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 55.84,
+          "y": 16.44,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.36,
+          "y": 21.05,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 9,
+      "ball": {
+        "x": 53.92,
+        "y": 23.53
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 55.65,
+          "y": 23.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 55.45,
+          "y": 22.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 72.61,
+          "y": 27.44,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 55.27,
+          "y": 20.96,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 56.01,
+          "y": 30.62,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 60.2,
+          "y": 18.27,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 57.65,
+          "y": 29.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 57.36,
+          "y": 19.72,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 56.71,
+          "y": 27.03,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 61.91,
+          "y": 23.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 55.11,
+          "y": 25.74,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 63.79,
+          "y": 44.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 55.19,
+          "y": 35.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 63.69,
+          "y": 34.43,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 62.99,
+          "y": 27.64,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 54.99,
+          "y": 26.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.57,
+          "y": 14.94,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 55.14,
+          "y": 44.7,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 57.62,
+          "y": 22.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 51.51,
+          "y": 23.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 55.89,
+          "y": 16.44,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.36,
+          "y": 21.09,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 10,
+      "ball": {
+        "x": 53.16,
+        "y": 23.53
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 55.49,
+          "y": 24.02,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 55.4,
+          "y": 22.75,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 72.63,
+          "y": 27.37,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 55.19,
+          "y": 20.96,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 56.2,
+          "y": 30.58,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 59.82,
+          "y": 18.25,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 57.48,
+          "y": 29.22,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 57.2,
+          "y": 19.83,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 56.47,
+          "y": 27.05,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 61.93,
+          "y": 23.39,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 54.96,
+          "y": 25.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 63.81,
+          "y": 44.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 55.32,
+          "y": 35.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 63.75,
+          "y": 34.45,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 63.0,
+          "y": 27.67,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 54.85,
+          "y": 26.83,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.56,
+          "y": 14.89,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 55.18,
+          "y": 44.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 57.44,
+          "y": 23.07,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 51.5,
+          "y": 23.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 56.0,
+          "y": 16.44,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.35,
+          "y": 21.03,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 11,
+      "ball": {
+        "x": 52.35,
+        "y": 23.53
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 55.3,
+          "y": 24.08,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 55.33,
+          "y": 22.8,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 72.66,
+          "y": 27.27,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 55.11,
+          "y": 20.97,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 56.45,
+          "y": 30.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 59.4,
+          "y": 18.23,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 57.25,
+          "y": 29.14,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 57.0,
+          "y": 19.98,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 56.22,
+          "y": 27.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 61.94,
+          "y": 23.39,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 54.75,
+          "y": 25.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 63.83,
+          "y": 44.43,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 55.51,
+          "y": 35.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 63.88,
+          "y": 34.48,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 63.01,
+          "y": 27.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 54.68,
+          "y": 26.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.55,
+          "y": 14.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 55.24,
+          "y": 44.75,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 57.2,
+          "y": 23.21,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 51.49,
+          "y": 23.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 56.19,
+          "y": 16.46,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.39,
+          "y": 20.89,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 12,
+      "ball": {
+        "x": 51.68,
+        "y": 23.54
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 55.09,
+          "y": 24.15,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 55.25,
+          "y": 22.85,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 72.71,
+          "y": 27.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 55.02,
+          "y": 20.99,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 56.74,
+          "y": 30.46,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 58.95,
+          "y": 18.2,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 56.97,
+          "y": 29.04,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 56.77,
+          "y": 20.16,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 55.93,
+          "y": 27.08,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 61.97,
+          "y": 23.41,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 54.54,
+          "y": 25.95,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 63.88,
+          "y": 44.44,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 55.74,
+          "y": 35.55,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 64.06,
+          "y": 34.54,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 63.03,
+          "y": 27.74,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 54.49,
+          "y": 26.92,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.55,
+          "y": 14.79,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 55.34,
+          "y": 44.8,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 56.89,
+          "y": 23.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 51.47,
+          "y": 23.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 56.44,
+          "y": 16.47,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.44,
+          "y": 20.7,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 13,
+      "ball": {
+        "x": 51.07,
+        "y": 23.55
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 54.87,
+          "y": 24.22,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 55.13,
+          "y": 22.94,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 72.79,
+          "y": 26.92,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 54.93,
+          "y": 21.04,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 57.1,
+          "y": 30.41,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 58.46,
+          "y": 18.17,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 56.64,
+          "y": 28.93,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 56.51,
+          "y": 20.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 55.62,
+          "y": 27.09,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 62.03,
+          "y": 23.44,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 54.3,
+          "y": 26.02,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 63.94,
+          "y": 44.45,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 56.05,
+          "y": 35.59,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 64.31,
+          "y": 34.62,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 63.07,
+          "y": 27.84,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 54.27,
+          "y": 26.96,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.53,
+          "y": 14.75,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 55.49,
+          "y": 44.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 56.58,
+          "y": 23.51,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 51.42,
+          "y": 23.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 56.74,
+          "y": 16.47,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.48,
+          "y": 20.45,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 14,
+      "ball": {
+        "x": 50.65,
+        "y": 23.58
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 54.64,
+          "y": 24.31,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 54.96,
+          "y": 23.07,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 72.9,
+          "y": 26.66,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 54.82,
+          "y": 21.12,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 57.5,
+          "y": 30.35,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 57.94,
+          "y": 18.13,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 56.25,
+          "y": 28.81,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 56.25,
+          "y": 20.59,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 55.31,
+          "y": 27.09,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 62.14,
+          "y": 23.49,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 54.06,
+          "y": 26.08,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 63.99,
+          "y": 44.46,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 56.41,
+          "y": 35.64,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 64.62,
+          "y": 34.73,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 63.13,
+          "y": 27.99,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 54.02,
+          "y": 27.01,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.52,
+          "y": 14.7,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 55.67,
+          "y": 44.99,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 56.23,
+          "y": 23.67,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 51.32,
+          "y": 23.89,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 57.11,
+          "y": 16.48,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.54,
+          "y": 20.13,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 15,
+      "ball": {
+        "x": 50.23,
+        "y": 23.6
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 54.41,
+          "y": 24.41,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 54.76,
+          "y": 23.23,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 73.01,
+          "y": 26.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 54.7,
+          "y": 21.21,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 57.93,
+          "y": 30.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 57.39,
+          "y": 18.1,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 55.82,
+          "y": 28.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 55.99,
+          "y": 20.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 54.98,
+          "y": 27.05,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 62.3,
+          "y": 23.57,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 53.78,
+          "y": 26.12,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 64.04,
+          "y": 44.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 56.84,
+          "y": 35.73,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 64.97,
+          "y": 34.86,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 63.22,
+          "y": 28.18,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 53.74,
+          "y": 27.06,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.5,
+          "y": 14.64,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 55.89,
+          "y": 45.12,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 55.86,
+          "y": 23.84,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 51.15,
+          "y": 23.9,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 57.55,
+          "y": 16.49,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.62,
+          "y": 19.76,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 16,
+      "ball": {
+        "x": 49.91,
+        "y": 23.64
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 54.18,
+          "y": 24.51,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 54.56,
+          "y": 23.39,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 73.15,
+          "y": 26.01,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 54.58,
+          "y": 21.34,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 58.41,
+          "y": 30.26,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 56.83,
+          "y": 18.08,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 55.35,
+          "y": 28.58,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 55.73,
+          "y": 21.11,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 54.65,
+          "y": 27.01,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 62.53,
+          "y": 23.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 53.52,
+          "y": 26.16,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 64.12,
+          "y": 44.5,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 57.31,
+          "y": 35.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 65.37,
+          "y": 35.0,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 63.34,
+          "y": 28.41,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 53.44,
+          "y": 27.1,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.47,
+          "y": 14.57,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 56.12,
+          "y": 45.28,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 55.45,
+          "y": 24.02,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 50.93,
+          "y": 23.89,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 58.03,
+          "y": 16.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.74,
+          "y": 19.35,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 17,
+      "ball": {
+        "x": 49.51,
+        "y": 23.6
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 53.95,
+          "y": 24.62,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 54.33,
+          "y": 23.57,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 73.3,
+          "y": 25.62,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 54.45,
+          "y": 21.48,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 58.91,
+          "y": 30.23,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 56.25,
+          "y": 18.08,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 54.85,
+          "y": 28.46,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 55.48,
+          "y": 21.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 54.34,
+          "y": 26.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 62.8,
+          "y": 23.82,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 53.25,
+          "y": 26.19,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 64.21,
+          "y": 44.55,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 57.83,
+          "y": 35.94,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 65.81,
+          "y": 35.16,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 63.49,
+          "y": 28.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 53.14,
+          "y": 27.14,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.45,
+          "y": 14.49,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 56.39,
+          "y": 45.46,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 55.03,
+          "y": 24.21,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 50.67,
+          "y": 23.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 58.57,
+          "y": 16.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 51.9,
+          "y": 18.9,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 18,
+      "ball": {
+        "x": 48.96,
+        "y": 23.53
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 53.73,
+          "y": 24.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 54.09,
+          "y": 23.76,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 73.46,
+          "y": 25.21,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 54.32,
+          "y": 21.63,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 59.44,
+          "y": 30.22,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 55.66,
+          "y": 18.1,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 54.31,
+          "y": 28.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 55.25,
+          "y": 21.65,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 54.03,
+          "y": 26.88,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 63.12,
+          "y": 23.99,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 52.99,
+          "y": 26.22,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 64.33,
+          "y": 44.61,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 58.39,
+          "y": 36.06,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 66.29,
+          "y": 35.34,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 63.66,
+          "y": 28.98,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 52.82,
+          "y": 27.17,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.42,
+          "y": 14.39,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 56.66,
+          "y": 45.65,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 54.62,
+          "y": 24.4,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 50.36,
+          "y": 23.86,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 59.15,
+          "y": 16.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 52.07,
+          "y": 18.42,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 19,
+      "ball": {
+        "x": 48.61,
+        "y": 23.5
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 53.48,
+          "y": 24.83,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 53.83,
+          "y": 23.95,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 73.64,
+          "y": 24.76,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 54.19,
+          "y": 21.8,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 59.99,
+          "y": 30.23,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 55.06,
+          "y": 18.15,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 53.76,
+          "y": 28.26,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 55.02,
+          "y": 21.93,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 53.74,
+          "y": 26.82,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 63.47,
+          "y": 24.17,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 52.73,
+          "y": 26.25,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 64.46,
+          "y": 44.68,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 58.98,
+          "y": 36.2,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 66.79,
+          "y": 35.53,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 63.85,
+          "y": 29.3,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 52.49,
+          "y": 27.19,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.39,
+          "y": 14.26,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 56.95,
+          "y": 45.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 54.23,
+          "y": 24.61,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 50.03,
+          "y": 23.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 59.77,
+          "y": 16.54,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 52.27,
+          "y": 17.95,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 20,
+      "ball": {
+        "x": 48.38,
+        "y": 23.46
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 53.24,
+          "y": 24.96,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 53.56,
+          "y": 24.14,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 73.82,
+          "y": 24.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 54.05,
+          "y": 21.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 60.55,
+          "y": 30.26,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 54.44,
+          "y": 18.24,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 53.2,
+          "y": 28.18,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 54.82,
+          "y": 22.19,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 53.45,
+          "y": 26.75,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 63.85,
+          "y": 24.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 52.49,
+          "y": 26.26,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 64.63,
+          "y": 44.78,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 59.6,
+          "y": 36.34,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 67.31,
+          "y": 35.73,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 64.06,
+          "y": 29.63,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 52.15,
+          "y": 27.2,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.36,
+          "y": 14.11,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 57.24,
+          "y": 46.09,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 53.87,
+          "y": 24.81,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 49.68,
+          "y": 23.75,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 60.42,
+          "y": 16.55,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 52.49,
+          "y": 17.46,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 21,
+      "ball": {
+        "x": 48.17,
+        "y": 23.42
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 53.01,
+          "y": 25.07,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 53.28,
+          "y": 24.33,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 74.0,
+          "y": 23.8,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 53.92,
+          "y": 22.16,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 61.11,
+          "y": 30.31,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 53.82,
+          "y": 18.37,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 52.63,
+          "y": 28.1,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 54.63,
+          "y": 22.44,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 53.2,
+          "y": 26.68,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 64.25,
+          "y": 24.59,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 52.26,
+          "y": 26.27,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 64.82,
+          "y": 44.89,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 60.25,
+          "y": 36.48,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 67.85,
+          "y": 35.94,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 64.28,
+          "y": 29.96,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 51.8,
+          "y": 27.21,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.33,
+          "y": 13.94,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 57.53,
+          "y": 46.31,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 53.55,
+          "y": 25.01,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 49.31,
+          "y": 23.67,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 61.11,
+          "y": 16.55,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 52.74,
+          "y": 16.98,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 22,
+      "ball": {
+        "x": 47.98,
+        "y": 23.38
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 52.81,
+          "y": 25.19,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 53.0,
+          "y": 24.51,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 74.18,
+          "y": 23.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 53.78,
+          "y": 22.36,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 61.66,
+          "y": 30.39,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 53.2,
+          "y": 18.53,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 52.06,
+          "y": 28.05,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 54.45,
+          "y": 22.68,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 52.96,
+          "y": 26.62,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 64.67,
+          "y": 24.82,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 52.06,
+          "y": 26.28,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 65.02,
+          "y": 45.01,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 60.93,
+          "y": 36.61,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 68.41,
+          "y": 36.13,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 64.52,
+          "y": 30.28,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 51.44,
+          "y": 27.2,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.29,
+          "y": 13.74,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 57.81,
+          "y": 46.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 53.26,
+          "y": 25.2,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 48.94,
+          "y": 23.56,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 61.82,
+          "y": 16.56,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 53.03,
+          "y": 16.52,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 23,
+      "ball": {
+        "x": 47.81,
+        "y": 23.32
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 52.63,
+          "y": 25.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 52.72,
+          "y": 24.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 74.36,
+          "y": 22.77,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 53.64,
+          "y": 22.56,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 62.19,
+          "y": 30.49,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 52.56,
+          "y": 18.71,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 51.48,
+          "y": 27.98,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 54.29,
+          "y": 22.92,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 52.75,
+          "y": 26.58,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 65.1,
+          "y": 25.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 51.89,
+          "y": 26.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 65.26,
+          "y": 45.14,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 61.63,
+          "y": 36.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 68.97,
+          "y": 36.32,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 64.77,
+          "y": 30.6,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 51.08,
+          "y": 27.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.25,
+          "y": 13.53,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 58.07,
+          "y": 46.73,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 53.03,
+          "y": 25.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 48.58,
+          "y": 23.42,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 62.55,
+          "y": 16.55,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 53.35,
+          "y": 16.1,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 24,
+      "ball": {
+        "x": 47.65,
+        "y": 23.25
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 52.45,
+          "y": 25.4,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 52.44,
+          "y": 24.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 74.53,
+          "y": 22.23,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 53.51,
+          "y": 22.77,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 62.68,
+          "y": 30.63,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 51.92,
+          "y": 18.92,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 50.93,
+          "y": 27.92,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 54.14,
+          "y": 23.16,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 52.56,
+          "y": 26.55,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 65.51,
+          "y": 25.31,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 51.74,
+          "y": 26.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 65.52,
+          "y": 45.28,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 62.34,
+          "y": 36.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 69.53,
+          "y": 36.51,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 65.03,
+          "y": 30.89,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 50.7,
+          "y": 27.14,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.21,
+          "y": 13.31,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 58.33,
+          "y": 46.93,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 52.84,
+          "y": 25.49,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 48.23,
+          "y": 23.26,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 63.28,
+          "y": 16.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 53.7,
+          "y": 15.72,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 25,
+      "ball": {
+        "x": 47.5,
+        "y": 23.17
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 52.3,
+          "y": 25.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 52.18,
+          "y": 24.94,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 74.69,
+          "y": 21.67,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 53.39,
+          "y": 22.97,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 63.14,
+          "y": 30.8,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 51.29,
+          "y": 19.13,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 50.38,
+          "y": 27.86,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 54.01,
+          "y": 23.39,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 52.41,
+          "y": 26.54,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 65.9,
+          "y": 25.57,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 51.62,
+          "y": 26.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 65.79,
+          "y": 45.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 63.08,
+          "y": 36.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 70.09,
+          "y": 36.68,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 65.28,
+          "y": 31.14,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 50.33,
+          "y": 27.09,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.15,
+          "y": 13.08,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 58.57,
+          "y": 47.1,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 52.7,
+          "y": 25.58,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 47.87,
+          "y": 23.08,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 64.03,
+          "y": 16.49,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 54.06,
+          "y": 15.38,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 26,
+      "ball": {
+        "x": 47.43,
+        "y": 23.01
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 52.16,
+          "y": 25.6,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 51.94,
+          "y": 25.02,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 74.83,
+          "y": 21.1,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 53.27,
+          "y": 23.17,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 63.56,
+          "y": 31.0,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 50.65,
+          "y": 19.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 49.85,
+          "y": 27.8,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 53.89,
+          "y": 23.61,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 52.33,
+          "y": 26.52,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 66.27,
+          "y": 25.84,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 51.53,
+          "y": 26.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 66.09,
+          "y": 45.55,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 63.82,
+          "y": 36.9,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 70.65,
+          "y": 36.84,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 65.52,
+          "y": 31.33,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 49.96,
+          "y": 27.03,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 62.08,
+          "y": 12.86,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 58.77,
+          "y": 47.25,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 52.6,
+          "y": 25.61,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 47.52,
+          "y": 22.89,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 64.78,
+          "y": 16.4,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 54.43,
+          "y": 15.07,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 27,
+      "ball": {
+        "x": 49.41,
+        "y": 20.29
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 52.05,
+          "y": 25.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 51.74,
+          "y": 25.08,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 74.97,
+          "y": 20.52,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 53.17,
+          "y": 23.35,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 63.93,
+          "y": 31.23,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 50.02,
+          "y": 19.6,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 49.34,
+          "y": 27.72,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 53.79,
+          "y": 23.83,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 52.31,
+          "y": 26.48,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 66.6,
+          "y": 26.13,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 51.46,
+          "y": 26.31,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 66.39,
+          "y": 45.66,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 64.57,
+          "y": 36.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 71.2,
+          "y": 36.97,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 65.76,
+          "y": 31.48,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 49.59,
+          "y": 26.96,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 61.99,
+          "y": 12.64,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 58.95,
+          "y": 47.38,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 52.53,
+          "y": 25.64,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 47.19,
+          "y": 22.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 65.53,
+          "y": 16.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 54.78,
+          "y": 14.79,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 28,
+      "ball": {
+        "x": 50.62,
+        "y": 18.76
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 51.95,
+          "y": 25.76,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 51.55,
+          "y": 25.11,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 75.08,
+          "y": 19.94,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 53.1,
+          "y": 23.51,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 64.24,
+          "y": 31.49,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 49.41,
+          "y": 19.83,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 48.83,
+          "y": 27.62,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 53.72,
+          "y": 24.04,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 52.32,
+          "y": 26.45,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 66.91,
+          "y": 26.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 51.41,
+          "y": 26.33,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 66.68,
+          "y": 45.75,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 65.31,
+          "y": 36.84,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 71.74,
+          "y": 37.08,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 65.97,
+          "y": 31.56,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 49.22,
+          "y": 26.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 61.89,
+          "y": 12.45,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 59.12,
+          "y": 47.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 52.54,
+          "y": 25.54,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 46.85,
+          "y": 22.49,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 66.27,
+          "y": 16.14,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 55.12,
+          "y": 14.52,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 29,
+      "ball": {
+        "x": 51.82,
+        "y": 17.24
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 51.87,
+          "y": 25.83,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 51.4,
+          "y": 25.11,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 75.15,
+          "y": 19.34,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 53.06,
+          "y": 23.67,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 64.5,
+          "y": 31.77,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 48.8,
+          "y": 20.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 48.33,
+          "y": 27.49,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 53.68,
+          "y": 24.23,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 52.38,
+          "y": 26.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 67.23,
+          "y": 26.72,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 51.38,
+          "y": 26.37,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 66.97,
+          "y": 45.81,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 66.06,
+          "y": 36.75,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 72.28,
+          "y": 37.16,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 66.16,
+          "y": 31.57,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 48.86,
+          "y": 26.79,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 61.78,
+          "y": 12.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 59.26,
+          "y": 47.6,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 52.56,
+          "y": 25.41,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 46.52,
+          "y": 22.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 67.0,
+          "y": 15.94,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 55.43,
+          "y": 14.27,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    },
+    {
+      "frame_id": 30,
+      "ball": {
+        "x": 53.01,
+        "y": 15.74
+      },
+      "players": [
+        {
+          "nfl_id": 37266,
+          "jersey": 62,
+          "team": "PHI",
+          "x": 51.8,
+          "y": 25.89,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38606,
+          "jersey": 79,
+          "team": "PHI",
+          "x": 51.29,
+          "y": 25.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39908,
+          "jersey": 23,
+          "team": "ATL",
+          "x": 75.2,
+          "y": 18.75,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39950,
+          "jersey": 65,
+          "team": "PHI",
+          "x": 53.03,
+          "y": 23.8,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 39983,
+          "jersey": 86,
+          "team": "PHI",
+          "x": 64.71,
+          "y": 32.06,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40039,
+          "jersey": 21,
+          "team": "ATL",
+          "x": 48.22,
+          "y": 20.28,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 40095,
+          "jersey": 55,
+          "team": "ATL",
+          "x": 47.84,
+          "y": 27.35,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42346,
+          "jersey": 6,
+          "team": "ATL",
+          "x": 53.67,
+          "y": 24.41,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42480,
+          "jersey": 97,
+          "team": "ATL",
+          "x": 52.47,
+          "y": 26.37,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43341,
+          "jersey": 45,
+          "team": "ATL",
+          "x": 67.52,
+          "y": 27.03,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43368,
+          "jersey": 56,
+          "team": "PHI",
+          "x": 51.36,
+          "y": 26.42,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44893,
+          "jersey": 22,
+          "team": "ATL",
+          "x": 67.24,
+          "y": 45.84,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45607,
+          "jersey": 84,
+          "team": "PHI",
+          "x": 66.81,
+          "y": 36.6,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46127,
+          "jersey": 26,
+          "team": "ATL",
+          "x": 72.8,
+          "y": 37.2,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46269,
+          "jersey": 54,
+          "team": "ATL",
+          "x": 66.32,
+          "y": 31.52,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46302,
+          "jersey": 68,
+          "team": "PHI",
+          "x": 48.5,
+          "y": 26.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52424,
+          "jersey": 24,
+          "team": "ATL",
+          "x": 61.63,
+          "y": 12.15,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52429,
+          "jersey": 18,
+          "team": "PHI",
+          "x": 59.37,
+          "y": 47.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52455,
+          "jersey": 90,
+          "team": "ATL",
+          "x": 52.59,
+          "y": 25.26,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52461,
+          "jersey": 1,
+          "team": "PHI",
+          "x": 46.19,
+          "y": 22.09,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53439,
+          "jersey": 6,
+          "team": "PHI",
+          "x": 67.69,
+          "y": 15.66,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53579,
+          "jersey": 14,
+          "team": "PHI",
+          "x": 55.71,
+          "y": 14.0,
+          "is_offense": true,
+          "is_target": true
+        }
+      ]
+    }
+  ]
+}

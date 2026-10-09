@@ -1,0 +1,24 @@
+{
+  "best_model": "random_forest",
+  "n_plays": 7068,
+  "models": [
+    {
+      "name": "logistic_regression",
+      "auc": 0.7738,
+      "log_loss": 0.539,
+      "brier": 0.1792
+    },
+    {
+      "name": "random_forest",
+      "auc": 0.7852,
+      "log_loss": 0.5301,
+      "brier": 0.175
+    },
+    {
+      "name": "gradient_boosting",
+      "auc": 0.7818,
+      "log_loss": 0.5271,
+      "brier": 0.1741
+    }
+  ]
+}

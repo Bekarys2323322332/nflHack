@@ -1,0 +1,2462 @@
+[
+  {
+    "nfl_id": 44853,
+    "name": "Dalvin Cook",
+    "position": "RB",
+    "sep_man": 10.078,
+    "sep_zone": 4.882,
+    "diff": 5.196,
+    "targets_man": 1,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 52470,
+    "name": "A.J. Dillon",
+    "position": "RB",
+    "sep_man": 9.792,
+    "sep_zone": 5.589,
+    "diff": 4.203,
+    "targets_man": 1,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 43334,
+    "name": "Derrick Henry",
+    "position": "RB",
+    "sep_man": 8.378,
+    "sep_zone": 5.23,
+    "diff": 3.148,
+    "targets_man": 2,
+    "targets_zone": 13
+  },
+  {
+    "nfl_id": 43370,
+    "name": "Austin Hooper",
+    "position": "TE",
+    "sep_man": 5.546,
+    "sep_zone": 2.639,
+    "diff": 2.907,
+    "targets_man": 4,
+    "targets_zone": 20
+  },
+  {
+    "nfl_id": 46243,
+    "name": "Marquez Valdes-Scantling",
+    "position": "WR",
+    "sep_man": 4.2,
+    "sep_zone": 2.183,
+    "diff": 2.017,
+    "targets_man": 6,
+    "targets_zone": 7
+  },
+  {
+    "nfl_id": 33130,
+    "name": "DeSean Jackson",
+    "position": "WR",
+    "sep_man": 4.165,
+    "sep_zone": 2.604,
+    "diff": 1.561,
+    "targets_man": 4,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 47857,
+    "name": "Devin Singletary",
+    "position": "RB",
+    "sep_man": 7.991,
+    "sep_zone": 6.611,
+    "diff": 1.38,
+    "targets_man": 1,
+    "targets_zone": 11
+  },
+  {
+    "nfl_id": 44912,
+    "name": "Jonnu Smith",
+    "position": "TE",
+    "sep_man": 5.944,
+    "sep_zone": 4.624,
+    "diff": 1.32,
+    "targets_man": 4,
+    "targets_zone": 17
+  },
+  {
+    "nfl_id": 47808,
+    "name": "Marquise Brown",
+    "position": "WR",
+    "sep_man": 4.997,
+    "sep_zone": 3.797,
+    "diff": 1.2,
+    "targets_man": 5,
+    "targets_zone": 37
+  },
+  {
+    "nfl_id": 39212,
+    "name": "Brandon Bolden",
+    "position": "RB",
+    "sep_man": 6.613,
+    "sep_zone": 5.48,
+    "diff": 1.133,
+    "targets_man": 3,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 42419,
+    "name": "Chris Conley",
+    "position": "WR",
+    "sep_man": 3.561,
+    "sep_zone": 2.565,
+    "diff": 0.996,
+    "targets_man": 4,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 52733,
+    "name": "James Robinson",
+    "position": "RB",
+    "sep_man": 7.194,
+    "sep_zone": 6.257,
+    "diff": 0.937,
+    "targets_man": 3,
+    "targets_zone": 20
+  },
+  {
+    "nfl_id": 52609,
+    "name": "James Proche",
+    "position": "WR",
+    "sep_man": 4.787,
+    "sep_zone": 4.003,
+    "diff": 0.784,
+    "targets_man": 3,
+    "targets_zone": 6
+  },
+  {
+    "nfl_id": 53449,
+    "name": "Kadarius Toney",
+    "position": "WR",
+    "sep_man": 3.363,
+    "sep_zone": 2.698,
+    "diff": 0.665,
+    "targets_man": 9,
+    "targets_zone": 15
+  },
+  {
+    "nfl_id": 52523,
+    "name": "Harrison Bryant",
+    "position": "TE",
+    "sep_man": 4.511,
+    "sep_zone": 3.878,
+    "diff": 0.633,
+    "targets_man": 2,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 40026,
+    "name": "Marquise Goodwin",
+    "position": "WR",
+    "sep_man": 2.961,
+    "sep_zone": 2.369,
+    "diff": 0.592,
+    "targets_man": 6,
+    "targets_zone": 12
+  },
+  {
+    "nfl_id": 46113,
+    "name": "Dante Pettis",
+    "position": "WR",
+    "sep_man": 3.039,
+    "sep_zone": 2.685,
+    "diff": 0.354,
+    "targets_man": 4,
+    "targets_zone": 8
+  },
+  {
+    "nfl_id": 42794,
+    "name": "DeAndre Carter",
+    "position": "WR",
+    "sep_man": 4.654,
+    "sep_zone": 4.307,
+    "diff": 0.347,
+    "targets_man": 2,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 44898,
+    "name": "Kareem Hunt",
+    "position": "RB",
+    "sep_man": 4.817,
+    "sep_zone": 4.505,
+    "diff": 0.312,
+    "targets_man": 3,
+    "targets_zone": 13
+  },
+  {
+    "nfl_id": 45052,
+    "name": "Noah Brown",
+    "position": "WR",
+    "sep_man": 3.969,
+    "sep_zone": 3.725,
+    "diff": 0.244,
+    "targets_man": 1,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 52423,
+    "name": "Jerry Jeudy",
+    "position": "WR",
+    "sep_man": 3.574,
+    "sep_zone": 3.364,
+    "diff": 0.21,
+    "targets_man": 4,
+    "targets_zone": 7
+  },
+  {
+    "nfl_id": 33566,
+    "name": "Danny Amendola",
+    "position": "WR",
+    "sep_man": 3.457,
+    "sep_zone": 3.268,
+    "diff": 0.189,
+    "targets_man": 4,
+    "targets_zone": 8
+  },
+  {
+    "nfl_id": 52536,
+    "name": "Gabe Davis",
+    "position": "WR",
+    "sep_man": 4.454,
+    "sep_zone": 4.317,
+    "diff": 0.137,
+    "targets_man": 4,
+    "targets_zone": 6
+  },
+  {
+    "nfl_id": 42358,
+    "name": "Melvin Gordon",
+    "position": "RB",
+    "sep_man": 5.649,
+    "sep_zone": 5.673,
+    "diff": -0.024,
+    "targets_man": 1,
+    "targets_zone": 12
+  },
+  {
+    "nfl_id": 42486,
+    "name": "MyCole Pruitt",
+    "position": "TE",
+    "sep_man": 4.541,
+    "sep_zone": 4.636,
+    "diff": -0.095,
+    "targets_man": 2,
+    "targets_zone": 8
+  },
+  {
+    "nfl_id": 48053,
+    "name": "Trinity Benson",
+    "position": "WR",
+    "sep_man": 1.985,
+    "sep_zone": 2.152,
+    "diff": -0.167,
+    "targets_man": 3,
+    "targets_zone": 11
+  },
+  {
+    "nfl_id": 40078,
+    "name": "Kyle Juszczyk",
+    "position": "FB",
+    "sep_man": 4.82,
+    "sep_zone": 5.004,
+    "diff": -0.184,
+    "targets_man": 1,
+    "targets_zone": 12
+  },
+  {
+    "nfl_id": 46118,
+    "name": "Dallas Goedert",
+    "position": "TE",
+    "sep_man": 4.18,
+    "sep_zone": 4.386,
+    "diff": -0.206,
+    "targets_man": 6,
+    "targets_zone": 19
+  },
+  {
+    "nfl_id": 52420,
+    "name": "Henry Ruggs",
+    "position": "WR",
+    "sep_man": 3.25,
+    "sep_zone": 3.508,
+    "diff": -0.258,
+    "targets_man": 19,
+    "targets_zone": 17
+  },
+  {
+    "nfl_id": 52454,
+    "name": "K.J. Hamler",
+    "position": "WR",
+    "sep_man": 5.191,
+    "sep_zone": 5.485,
+    "diff": -0.294,
+    "targets_man": 2,
+    "targets_zone": 7
+  },
+  {
+    "nfl_id": 30842,
+    "name": "Marcedes Lewis",
+    "position": "TE",
+    "sep_man": 5.317,
+    "sep_zone": 5.618,
+    "diff": -0.301,
+    "targets_man": 4,
+    "targets_zone": 5
+  },
+  {
+    "nfl_id": 48097,
+    "name": "Jakobi Meyers",
+    "position": "WR",
+    "sep_man": 3.06,
+    "sep_zone": 3.402,
+    "diff": -0.342,
+    "targets_man": 30,
+    "targets_zone": 34
+  },
+  {
+    "nfl_id": 53536,
+    "name": "Michael Carter",
+    "position": "RB",
+    "sep_man": 5.343,
+    "sep_zone": 5.699,
+    "diff": -0.356,
+    "targets_man": 5,
+    "targets_zone": 22
+  },
+  {
+    "nfl_id": 40149,
+    "name": "Ryan Griffin",
+    "position": "TE",
+    "sep_man": 3.763,
+    "sep_zone": 4.135,
+    "diff": -0.372,
+    "targets_man": 5,
+    "targets_zone": 12
+  },
+  {
+    "nfl_id": 53478,
+    "name": "Rondale Moore",
+    "position": "WR",
+    "sep_man": 5.741,
+    "sep_zone": 6.131,
+    "diff": -0.39,
+    "targets_man": 2,
+    "targets_zone": 11
+  },
+  {
+    "nfl_id": 41290,
+    "name": "Allen Robinson",
+    "position": "WR",
+    "sep_man": 1.939,
+    "sep_zone": 2.356,
+    "diff": -0.417,
+    "targets_man": 9,
+    "targets_zone": 31
+  },
+  {
+    "nfl_id": 52449,
+    "name": "Jonathan Taylor",
+    "position": "RB",
+    "sep_man": 5.189,
+    "sep_zone": 5.613,
+    "diff": -0.424,
+    "targets_man": 2,
+    "targets_zone": 14
+  },
+  {
+    "nfl_id": 53434,
+    "name": "Ja'Marr Chase",
+    "position": "WR",
+    "sep_man": 2.06,
+    "sep_zone": 2.541,
+    "diff": -0.481,
+    "targets_man": 20,
+    "targets_zone": 31
+  },
+  {
+    "nfl_id": 45635,
+    "name": "Robert Tonyan",
+    "position": "TE",
+    "sep_man": 2.542,
+    "sep_zone": 3.028,
+    "diff": -0.486,
+    "targets_man": 8,
+    "targets_zone": 16
+  },
+  {
+    "nfl_id": 44927,
+    "name": "Samaje Perine",
+    "position": "RB",
+    "sep_man": 5.677,
+    "sep_zone": 6.196,
+    "diff": -0.519,
+    "targets_man": 4,
+    "targets_zone": 6
+  },
+  {
+    "nfl_id": 53511,
+    "name": "Dyami Brown",
+    "position": "WR",
+    "sep_man": 2.448,
+    "sep_zone": 2.99,
+    "diff": -0.542,
+    "targets_man": 12,
+    "targets_zone": 8
+  },
+  {
+    "nfl_id": 47852,
+    "name": "Josh Oliver",
+    "position": "TE",
+    "sep_man": 4.039,
+    "sep_zone": 4.586,
+    "diff": -0.547,
+    "targets_man": 3,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 52474,
+    "name": "Antonio Gibson",
+    "position": "RB",
+    "sep_man": 4.306,
+    "sep_zone": 4.854,
+    "diff": -0.548,
+    "targets_man": 2,
+    "targets_zone": 12
+  },
+  {
+    "nfl_id": 46277,
+    "name": "Cedrick Wilson",
+    "position": "WR",
+    "sep_man": 3.331,
+    "sep_zone": 3.921,
+    "diff": -0.59,
+    "targets_man": 11,
+    "targets_zone": 7
+  },
+  {
+    "nfl_id": 40641,
+    "name": "Jack Doyle",
+    "position": "TE",
+    "sep_man": 3.555,
+    "sep_zone": 4.155,
+    "diff": -0.6,
+    "targets_man": 2,
+    "targets_zone": 11
+  },
+  {
+    "nfl_id": 43362,
+    "name": "Kenyan Drake",
+    "position": "RB",
+    "sep_man": 4.882,
+    "sep_zone": 5.482,
+    "diff": -0.6,
+    "targets_man": 6,
+    "targets_zone": 16
+  },
+  {
+    "nfl_id": 43425,
+    "name": "Devontae Booker",
+    "position": "RB",
+    "sep_man": 3.902,
+    "sep_zone": 4.514,
+    "diff": -0.612,
+    "targets_man": 4,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 46120,
+    "name": "Anthony Miller",
+    "position": "WR",
+    "sep_man": 2.179,
+    "sep_zone": 2.843,
+    "diff": -0.664,
+    "targets_man": 2,
+    "targets_zone": 6
+  },
+  {
+    "nfl_id": 53435,
+    "name": "Jaylen Waddle",
+    "position": "WR",
+    "sep_man": 2.746,
+    "sep_zone": 3.438,
+    "diff": -0.692,
+    "targets_man": 17,
+    "targets_zone": 31
+  },
+  {
+    "nfl_id": 44975,
+    "name": "Jeremy McNichols",
+    "position": "RB",
+    "sep_man": 5.164,
+    "sep_zone": 5.861,
+    "diff": -0.697,
+    "targets_man": 3,
+    "targets_zone": 11
+  },
+  {
+    "nfl_id": 43808,
+    "name": "Robby Anderson",
+    "position": "WR",
+    "sep_man": 2.423,
+    "sep_zone": 3.142,
+    "diff": -0.719,
+    "targets_man": 18,
+    "targets_zone": 25
+  },
+  {
+    "nfl_id": 53541,
+    "name": "Amon-Ra St. Brown",
+    "position": "WR",
+    "sep_man": 2.985,
+    "sep_zone": 3.716,
+    "diff": -0.731,
+    "targets_man": 13,
+    "targets_zone": 23
+  },
+  {
+    "nfl_id": 41230,
+    "name": "Sammy Watkins",
+    "position": "WR",
+    "sep_man": 3.042,
+    "sep_zone": 3.811,
+    "diff": -0.769,
+    "targets_man": 10,
+    "targets_zone": 21
+  },
+  {
+    "nfl_id": 47834,
+    "name": "A.J. Brown",
+    "position": "WR",
+    "sep_man": 2.434,
+    "sep_zone": 3.258,
+    "diff": -0.824,
+    "targets_man": 24,
+    "targets_zone": 27
+  },
+  {
+    "nfl_id": 52430,
+    "name": "Justin Jefferson",
+    "position": "WR",
+    "sep_man": 2.121,
+    "sep_zone": 2.945,
+    "diff": -0.824,
+    "targets_man": 22,
+    "targets_zone": 32
+  },
+  {
+    "nfl_id": 41238,
+    "name": "Odell Beckham",
+    "position": "WR",
+    "sep_man": 2.319,
+    "sep_zone": 3.155,
+    "diff": -0.836,
+    "targets_man": 11,
+    "targets_zone": 19
+  },
+  {
+    "nfl_id": 46155,
+    "name": "Mark Andrews",
+    "position": "TE",
+    "sep_man": 3.588,
+    "sep_zone": 4.431,
+    "diff": -0.843,
+    "targets_man": 14,
+    "targets_zone": 33
+  },
+  {
+    "nfl_id": 41292,
+    "name": "Jarvis Landry",
+    "position": "WR",
+    "sep_man": 2.015,
+    "sep_zone": 2.862,
+    "diff": -0.847,
+    "targets_man": 7,
+    "targets_zone": 14
+  },
+  {
+    "nfl_id": 44821,
+    "name": "John Ross",
+    "position": "WR",
+    "sep_man": 2.168,
+    "sep_zone": 3.015,
+    "diff": -0.847,
+    "targets_man": 6,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 35521,
+    "name": "Emmanuel Sanders",
+    "position": "WR",
+    "sep_man": 2.783,
+    "sep_zone": 3.647,
+    "diff": -0.864,
+    "targets_man": 14,
+    "targets_zone": 27
+  },
+  {
+    "nfl_id": 39989,
+    "name": "Robert Woods",
+    "position": "WR",
+    "sep_man": 3.167,
+    "sep_zone": 4.032,
+    "diff": -0.865,
+    "targets_man": 9,
+    "targets_zone": 37
+  },
+  {
+    "nfl_id": 42500,
+    "name": "C.J. Uzomah",
+    "position": "TE",
+    "sep_man": 3.872,
+    "sep_zone": 4.739,
+    "diff": -0.867,
+    "targets_man": 7,
+    "targets_zone": 13
+  },
+  {
+    "nfl_id": 42357,
+    "name": "DeVante Parker",
+    "position": "WR",
+    "sep_man": 1.772,
+    "sep_zone": 2.66,
+    "diff": -0.888,
+    "targets_man": 15,
+    "targets_zone": 22
+  },
+  {
+    "nfl_id": 41233,
+    "name": "Mike Evans",
+    "position": "WR",
+    "sep_man": 2.355,
+    "sep_zone": 3.256,
+    "diff": -0.901,
+    "targets_man": 24,
+    "targets_zone": 33
+  },
+  {
+    "nfl_id": 43329,
+    "name": "Sterling Shepard",
+    "position": "WR",
+    "sep_man": 2.459,
+    "sep_zone": 3.379,
+    "diff": -0.92,
+    "targets_man": 15,
+    "targets_zone": 22
+  },
+  {
+    "nfl_id": 44874,
+    "name": "JuJu Smith-Schuster",
+    "position": "WR",
+    "sep_man": 2.526,
+    "sep_zone": 3.459,
+    "diff": -0.933,
+    "targets_man": 6,
+    "targets_zone": 17
+  },
+  {
+    "nfl_id": 52581,
+    "name": "Darnell Mooney",
+    "position": "WR",
+    "sep_man": 2.423,
+    "sep_zone": 3.371,
+    "diff": -0.948,
+    "targets_man": 10,
+    "targets_zone": 31
+  },
+  {
+    "nfl_id": 42033,
+    "name": "Cameron Brate",
+    "position": "TE",
+    "sep_man": 2.116,
+    "sep_zone": 3.097,
+    "diff": -0.981,
+    "targets_man": 6,
+    "targets_zone": 14
+  },
+  {
+    "nfl_id": 52573,
+    "name": "Collin Johnson",
+    "position": "WR",
+    "sep_man": 1.972,
+    "sep_zone": 2.96,
+    "diff": -0.988,
+    "targets_man": 5,
+    "targets_zone": 14
+  },
+  {
+    "nfl_id": 37079,
+    "name": "Julio Jones",
+    "position": "WR",
+    "sep_man": 2.117,
+    "sep_zone": 3.13,
+    "diff": -1.013,
+    "targets_man": 9,
+    "targets_zone": 16
+  },
+  {
+    "nfl_id": 48017,
+    "name": "Myles Gaskin",
+    "position": "RB",
+    "sep_man": 4.4,
+    "sep_zone": 5.417,
+    "diff": -1.017,
+    "targets_man": 10,
+    "targets_zone": 21
+  },
+  {
+    "nfl_id": 46263,
+    "name": "Russell Gage",
+    "position": "WR",
+    "sep_man": 2.617,
+    "sep_zone": 3.67,
+    "diff": -1.053,
+    "targets_man": 3,
+    "targets_zone": 5
+  },
+  {
+    "nfl_id": 34540,
+    "name": "Jared Cook",
+    "position": "TE",
+    "sep_man": 2.447,
+    "sep_zone": 3.501,
+    "diff": -1.054,
+    "targets_man": 14,
+    "targets_zone": 17
+  },
+  {
+    "nfl_id": 52465,
+    "name": "Van Jefferson",
+    "position": "WR",
+    "sep_man": 2.295,
+    "sep_zone": 3.349,
+    "diff": -1.054,
+    "targets_man": 9,
+    "targets_zone": 24
+  },
+  {
+    "nfl_id": 43461,
+    "name": "Rashard Higgins",
+    "position": "WR",
+    "sep_man": 2.714,
+    "sep_zone": 3.794,
+    "diff": -1.08,
+    "targets_man": 10,
+    "targets_zone": 13
+  },
+  {
+    "nfl_id": 43010,
+    "name": "Adam Humphries",
+    "position": "WR",
+    "sep_man": 3.839,
+    "sep_zone": 4.932,
+    "diff": -1.093,
+    "targets_man": 7,
+    "targets_zone": 17
+  },
+  {
+    "nfl_id": 46203,
+    "name": "Chase Edmonds",
+    "position": "RB",
+    "sep_man": 4.052,
+    "sep_zone": 5.147,
+    "diff": -1.095,
+    "targets_man": 5,
+    "targets_zone": 19
+  },
+  {
+    "nfl_id": 46170,
+    "name": "Ian Thomas",
+    "position": "TE",
+    "sep_man": 3.929,
+    "sep_zone": 5.03,
+    "diff": -1.101,
+    "targets_man": 2,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 38947,
+    "name": "Cole Beasley",
+    "position": "WR",
+    "sep_man": 2.966,
+    "sep_zone": 4.107,
+    "diff": -1.141,
+    "targets_man": 8,
+    "targets_zone": 31
+  },
+  {
+    "nfl_id": 40024,
+    "name": "Keenan Allen",
+    "position": "WR",
+    "sep_man": 2.759,
+    "sep_zone": 3.906,
+    "diff": -1.147,
+    "targets_man": 25,
+    "targets_zone": 28
+  },
+  {
+    "nfl_id": 45185,
+    "name": "Kendrick Bourne",
+    "position": "WR",
+    "sep_man": 2.829,
+    "sep_zone": 3.998,
+    "diff": -1.169,
+    "targets_man": 17,
+    "targets_zone": 16
+  },
+  {
+    "nfl_id": 53456,
+    "name": "Rashod Bateman",
+    "position": "WR",
+    "sep_man": 1.942,
+    "sep_zone": 3.111,
+    "diff": -1.169,
+    "targets_man": 2,
+    "targets_zone": 6
+  },
+  {
+    "nfl_id": 43584,
+    "name": "Kalif Raymond",
+    "position": "WR",
+    "sep_man": 2.864,
+    "sep_zone": 4.036,
+    "diff": -1.172,
+    "targets_man": 7,
+    "targets_zone": 29
+  },
+  {
+    "nfl_id": 48118,
+    "name": "Ashton Dulin",
+    "position": "WR",
+    "sep_man": 2.004,
+    "sep_zone": 3.188,
+    "diff": -1.184,
+    "targets_man": 3,
+    "targets_zone": 8
+  },
+  {
+    "nfl_id": 53074,
+    "name": "Nick Westbrook-Ikhine",
+    "position": "WR",
+    "sep_man": 2.662,
+    "sep_zone": 3.846,
+    "diff": -1.184,
+    "targets_man": 8,
+    "targets_zone": 13
+  },
+  {
+    "nfl_id": 44003,
+    "name": "Marcus Johnson",
+    "position": "WR",
+    "sep_man": 1.41,
+    "sep_zone": 2.603,
+    "diff": -1.193,
+    "targets_man": 7,
+    "targets_zone": 4
+  },
+  {
+    "nfl_id": 42489,
+    "name": "Stefon Diggs",
+    "position": "WR",
+    "sep_man": 2.463,
+    "sep_zone": 3.665,
+    "diff": -1.202,
+    "targets_man": 24,
+    "targets_zone": 24
+  },
+  {
+    "nfl_id": 52442,
+    "name": "Michael Pittman",
+    "position": "WR",
+    "sep_man": 2.379,
+    "sep_zone": 3.586,
+    "diff": -1.207,
+    "targets_man": 19,
+    "targets_zone": 34
+  },
+  {
+    "nfl_id": 44908,
+    "name": "Kenny Golladay",
+    "position": "WR",
+    "sep_man": 2.168,
+    "sep_zone": 3.39,
+    "diff": -1.222,
+    "targets_man": 11,
+    "targets_zone": 16
+  },
+  {
+    "nfl_id": 47791,
+    "name": "T.J. Hockenson",
+    "position": "TE",
+    "sep_man": 2.577,
+    "sep_zone": 3.804,
+    "diff": -1.227,
+    "targets_man": 19,
+    "targets_zone": 42
+  },
+  {
+    "nfl_id": 44896,
+    "name": "Chris Godwin",
+    "position": "WR",
+    "sep_man": 1.842,
+    "sep_zone": 3.103,
+    "diff": -1.261,
+    "targets_man": 20,
+    "targets_zone": 26
+  },
+  {
+    "nfl_id": 43399,
+    "name": "Tyler Higbee",
+    "position": "TE",
+    "sep_man": 2.238,
+    "sep_zone": 3.501,
+    "diff": -1.263,
+    "targets_man": 8,
+    "targets_zone": 16
+  },
+  {
+    "nfl_id": 52433,
+    "name": "Brandon Aiyuk",
+    "position": "WR",
+    "sep_man": 1.702,
+    "sep_zone": 2.979,
+    "diff": -1.277,
+    "targets_man": 9,
+    "targets_zone": 13
+  },
+  {
+    "nfl_id": 52441,
+    "name": "Tee Higgins",
+    "position": "WR",
+    "sep_man": 1.521,
+    "sep_zone": 2.819,
+    "diff": -1.298,
+    "targets_man": 19,
+    "targets_zone": 28
+  },
+  {
+    "nfl_id": 47954,
+    "name": "Darius Slayton",
+    "position": "WR",
+    "sep_man": 1.625,
+    "sep_zone": 2.932,
+    "diff": -1.307,
+    "targets_man": 6,
+    "targets_zone": 18
+  },
+  {
+    "nfl_id": 48011,
+    "name": "Tommy Sweeney",
+    "position": "TE",
+    "sep_man": 3.198,
+    "sep_zone": 4.509,
+    "diff": -1.311,
+    "targets_man": 5,
+    "targets_zone": 3
+  },
+  {
+    "nfl_id": 53098,
+    "name": "Marquez Callaway",
+    "position": "WR",
+    "sep_man": 1.992,
+    "sep_zone": 3.31,
+    "diff": -1.318,
+    "targets_man": 16,
+    "targets_zone": 17
+  },
+  {
+    "nfl_id": 43556,
+    "name": "Chester Rogers",
+    "position": "WR",
+    "sep_man": 2.09,
+    "sep_zone": 3.412,
+    "diff": -1.322,
+    "targets_man": 3,
+    "targets_zone": 18
+  },
+  {
+    "nfl_id": 47969,
+    "name": "Ty Johnson",
+    "position": "RB",
+    "sep_man": 5.833,
+    "sep_zone": 7.166,
+    "diff": -1.333,
+    "targets_man": 9,
+    "targets_zone": 15
+  },
+  {
+    "nfl_id": 45267,
+    "name": "Tim Patrick",
+    "position": "WR",
+    "sep_man": 2.403,
+    "sep_zone": 3.755,
+    "diff": -1.352,
+    "targets_man": 16,
+    "targets_zone": 24
+  },
+  {
+    "nfl_id": 46116,
+    "name": "Christian Kirk",
+    "position": "WR",
+    "sep_man": 2.246,
+    "sep_zone": 3.608,
+    "diff": -1.362,
+    "targets_man": 8,
+    "targets_zone": 25
+  },
+  {
+    "nfl_id": 46206,
+    "name": "Dalton Schultz",
+    "position": "TE",
+    "sep_man": 2.715,
+    "sep_zone": 4.086,
+    "diff": -1.371,
+    "targets_man": 14,
+    "targets_zone": 24
+  },
+  {
+    "nfl_id": 42448,
+    "name": "Jamison Crowder",
+    "position": "WR",
+    "sep_man": 2.9,
+    "sep_zone": 4.28,
+    "diff": -1.38,
+    "targets_man": 8,
+    "targets_zone": 14
+  },
+  {
+    "nfl_id": 48480,
+    "name": "Preston Williams",
+    "position": "WR",
+    "sep_man": 1.167,
+    "sep_zone": 2.566,
+    "diff": -1.399,
+    "targets_man": 3,
+    "targets_zone": 5
+  },
+  {
+    "nfl_id": 44881,
+    "name": "Cooper Kupp",
+    "position": "WR",
+    "sep_man": 2.42,
+    "sep_zone": 3.841,
+    "diff": -1.421,
+    "targets_man": 25,
+    "targets_zone": 47
+  },
+  {
+    "nfl_id": 42429,
+    "name": "David Johnson",
+    "position": "RB",
+    "sep_man": 3.366,
+    "sep_zone": 4.795,
+    "diff": -1.429,
+    "targets_man": 6,
+    "targets_zone": 13
+  },
+  {
+    "nfl_id": 53439,
+    "name": "DeVonta Smith",
+    "position": "WR",
+    "sep_man": 1.475,
+    "sep_zone": 2.929,
+    "diff": -1.454,
+    "targets_man": 13,
+    "targets_zone": 36
+  },
+  {
+    "nfl_id": 46173,
+    "name": "Nyheim Hines",
+    "position": "RB",
+    "sep_man": 3.876,
+    "sep_zone": 5.332,
+    "diff": -1.456,
+    "targets_man": 4,
+    "targets_zone": 16
+  },
+  {
+    "nfl_id": 52513,
+    "name": "Adam Trautman",
+    "position": "TE",
+    "sep_man": 2.768,
+    "sep_zone": 4.225,
+    "diff": -1.457,
+    "targets_man": 3,
+    "targets_zone": 12
+  },
+  {
+    "nfl_id": 41246,
+    "name": "Brandin Cooks",
+    "position": "WR",
+    "sep_man": 2.215,
+    "sep_zone": 3.676,
+    "diff": -1.461,
+    "targets_man": 19,
+    "targets_zone": 40
+  },
+  {
+    "nfl_id": 42589,
+    "name": "Geoff Swaim",
+    "position": "TE",
+    "sep_man": 2.083,
+    "sep_zone": 3.547,
+    "diff": -1.464,
+    "targets_man": 4,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 52595,
+    "name": "Donovan Peoples-Jones",
+    "position": "WR",
+    "sep_man": 1.616,
+    "sep_zone": 3.086,
+    "diff": -1.47,
+    "targets_man": 5,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 47859,
+    "name": "Terry McLaurin",
+    "position": "WR",
+    "sep_man": 1.951,
+    "sep_zone": 3.43,
+    "diff": -1.479,
+    "targets_man": 25,
+    "targets_zone": 43
+  },
+  {
+    "nfl_id": 38696,
+    "name": "Marvin Jones",
+    "position": "WR",
+    "sep_man": 2.305,
+    "sep_zone": 3.787,
+    "diff": -1.482,
+    "targets_man": 17,
+    "targets_zone": 28
+  },
+  {
+    "nfl_id": 53488,
+    "name": "Terrace Marshall",
+    "position": "WR",
+    "sep_man": 2.734,
+    "sep_zone": 4.216,
+    "diff": -1.482,
+    "targets_man": 10,
+    "targets_zone": 5
+  },
+  {
+    "nfl_id": 41236,
+    "name": "Eric Ebron",
+    "position": "TE",
+    "sep_man": 1.408,
+    "sep_zone": 2.929,
+    "diff": -1.521,
+    "targets_man": 2,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 44820,
+    "name": "Christian McCaffrey",
+    "position": "RB",
+    "sep_man": 3.53,
+    "sep_zone": 5.058,
+    "diff": -1.528,
+    "targets_man": 5,
+    "targets_zone": 8
+  },
+  {
+    "nfl_id": 53484,
+    "name": "Pat Freiermuth",
+    "position": "TE",
+    "sep_man": 2.44,
+    "sep_zone": 4.002,
+    "diff": -1.562,
+    "targets_man": 6,
+    "targets_zone": 19
+  },
+  {
+    "nfl_id": 53687,
+    "name": "Dax Milne",
+    "position": "WR",
+    "sep_man": 1.326,
+    "sep_zone": 2.893,
+    "diff": -1.567,
+    "targets_man": 3,
+    "targets_zone": 5
+  },
+  {
+    "nfl_id": 39975,
+    "name": "Cordarrelle Patterson",
+    "position": "RB",
+    "sep_man": 2.804,
+    "sep_zone": 4.372,
+    "diff": -1.568,
+    "targets_man": 8,
+    "targets_zone": 25
+  },
+  {
+    "nfl_id": 44819,
+    "name": "Mike Williams",
+    "position": "WR",
+    "sep_man": 1.468,
+    "sep_zone": 3.036,
+    "diff": -1.568,
+    "targets_man": 16,
+    "targets_zone": 34
+  },
+  {
+    "nfl_id": 53518,
+    "name": "Nico Collins",
+    "position": "WR",
+    "sep_man": 1.397,
+    "sep_zone": 2.972,
+    "diff": -1.575,
+    "targets_man": 3,
+    "targets_zone": 14
+  },
+  {
+    "nfl_id": 45102,
+    "name": "Zach Pascal",
+    "position": "WR",
+    "sep_man": 2.454,
+    "sep_zone": 4.036,
+    "diff": -1.582,
+    "targets_man": 8,
+    "targets_zone": 19
+  },
+  {
+    "nfl_id": 40092,
+    "name": "Kenny Stills",
+    "position": "WR",
+    "sep_man": 1.865,
+    "sep_zone": 3.454,
+    "diff": -1.589,
+    "targets_man": 5,
+    "targets_zone": 8
+  },
+  {
+    "nfl_id": 43293,
+    "name": "Ezekiel Elliott",
+    "position": "RB",
+    "sep_man": 3.575,
+    "sep_zone": 5.175,
+    "diff": -1.6,
+    "targets_man": 5,
+    "targets_zone": 16
+  },
+  {
+    "nfl_id": 44816,
+    "name": "Leonard Fournette",
+    "position": "RB",
+    "sep_man": 3.171,
+    "sep_zone": 4.772,
+    "diff": -1.601,
+    "targets_man": 10,
+    "targets_zone": 18
+  },
+  {
+    "nfl_id": 42412,
+    "name": "Tyler Lockett",
+    "position": "WR",
+    "sep_man": 2.14,
+    "sep_zone": 3.742,
+    "diff": -1.602,
+    "targets_man": 12,
+    "targets_zone": 38
+  },
+  {
+    "nfl_id": 46109,
+    "name": "Courtland Sutton",
+    "position": "WR",
+    "sep_man": 1.737,
+    "sep_zone": 3.343,
+    "diff": -1.606,
+    "targets_man": 20,
+    "targets_zone": 33
+  },
+  {
+    "nfl_id": 52622,
+    "name": "Freddie Swain",
+    "position": "WR",
+    "sep_man": 3.353,
+    "sep_zone": 4.959,
+    "diff": -1.606,
+    "targets_man": 5,
+    "targets_zone": 14
+  },
+  {
+    "nfl_id": 46130,
+    "name": "D.J. Chark",
+    "position": "WR",
+    "sep_man": 1.805,
+    "sep_zone": 3.416,
+    "diff": -1.611,
+    "targets_man": 2,
+    "targets_zone": 17
+  },
+  {
+    "nfl_id": 41282,
+    "name": "Davante Adams",
+    "position": "WR",
+    "sep_man": 1.964,
+    "sep_zone": 3.582,
+    "diff": -1.618,
+    "targets_man": 19,
+    "targets_zone": 40
+  },
+  {
+    "nfl_id": 47847,
+    "name": "DK Metcalf",
+    "position": "WR",
+    "sep_man": 2.036,
+    "sep_zone": 3.667,
+    "diff": -1.631,
+    "targets_man": 15,
+    "targets_zone": 36
+  },
+  {
+    "nfl_id": 47932,
+    "name": "Hunter Renfrow",
+    "position": "WR",
+    "sep_man": 2.817,
+    "sep_zone": 4.462,
+    "diff": -1.645,
+    "targets_man": 16,
+    "targets_zone": 26
+  },
+  {
+    "nfl_id": 52450,
+    "name": "Laviska Shenault",
+    "position": "WR",
+    "sep_man": 2.612,
+    "sep_zone": 4.275,
+    "diff": -1.663,
+    "targets_man": 8,
+    "targets_zone": 28
+  },
+  {
+    "nfl_id": 52429,
+    "name": "Jalen Reagor",
+    "position": "WR",
+    "sep_man": 1.766,
+    "sep_zone": 3.446,
+    "diff": -1.68,
+    "targets_man": 7,
+    "targets_zone": 15
+  },
+  {
+    "nfl_id": 39983,
+    "name": "Zach Ertz",
+    "position": "TE",
+    "sep_man": 2.287,
+    "sep_zone": 3.979,
+    "diff": -1.692,
+    "targets_man": 8,
+    "targets_zone": 22
+  },
+  {
+    "nfl_id": 43429,
+    "name": "Tajae Sharpe",
+    "position": "WR",
+    "sep_man": 1.671,
+    "sep_zone": 3.376,
+    "diff": -1.705,
+    "targets_man": 8,
+    "targets_zone": 12
+  },
+  {
+    "nfl_id": 47819,
+    "name": "Deebo Samuel",
+    "position": "WR",
+    "sep_man": 2.382,
+    "sep_zone": 4.106,
+    "diff": -1.724,
+    "targets_man": 11,
+    "targets_zone": 48
+  },
+  {
+    "nfl_id": 40488,
+    "name": "Adam Thielen",
+    "position": "WR",
+    "sep_man": 2.218,
+    "sep_zone": 3.956,
+    "diff": -1.738,
+    "targets_man": 19,
+    "targets_zone": 28
+  },
+  {
+    "nfl_id": 42547,
+    "name": "Darren Waller",
+    "position": "TE",
+    "sep_man": 2.33,
+    "sep_zone": 4.072,
+    "diff": -1.742,
+    "targets_man": 20,
+    "targets_zone": 24
+  },
+  {
+    "nfl_id": 52425,
+    "name": "CeeDee Lamb",
+    "position": "WR",
+    "sep_man": 1.89,
+    "sep_zone": 3.632,
+    "diff": -1.742,
+    "targets_man": 14,
+    "targets_zone": 30
+  },
+  {
+    "nfl_id": 44860,
+    "name": "Joe Mixon",
+    "position": "RB",
+    "sep_man": 4.589,
+    "sep_zone": 6.348,
+    "diff": -1.759,
+    "targets_man": 5,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 53506,
+    "name": "Josh Palmer",
+    "position": "WR",
+    "sep_man": 1.093,
+    "sep_zone": 2.918,
+    "diff": -1.825,
+    "targets_man": 3,
+    "targets_zone": 6
+  },
+  {
+    "nfl_id": 52457,
+    "name": "Chase Claypool",
+    "position": "WR",
+    "sep_man": 1.472,
+    "sep_zone": 3.298,
+    "diff": -1.826,
+    "targets_man": 9,
+    "targets_zone": 25
+  },
+  {
+    "nfl_id": 46071,
+    "name": "Saquon Barkley",
+    "position": "RB",
+    "sep_man": 4.34,
+    "sep_zone": 6.183,
+    "diff": -1.843,
+    "targets_man": 3,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 46093,
+    "name": "D.J. Moore",
+    "position": "WR",
+    "sep_man": 2.033,
+    "sep_zone": 3.903,
+    "diff": -1.87,
+    "targets_man": 22,
+    "targets_zone": 44
+  },
+  {
+    "nfl_id": 46189,
+    "name": "Will Dissly",
+    "position": "TE",
+    "sep_man": 2.914,
+    "sep_zone": 4.784,
+    "diff": -1.87,
+    "targets_man": 2,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 46992,
+    "name": "KhaDarel Hodge",
+    "position": "WR",
+    "sep_man": 1.334,
+    "sep_zone": 3.233,
+    "diff": -1.899,
+    "targets_man": 3,
+    "targets_zone": 11
+  },
+  {
+    "nfl_id": 43324,
+    "name": "Hunter Henry",
+    "position": "TE",
+    "sep_man": 2.183,
+    "sep_zone": 4.096,
+    "diff": -1.913,
+    "targets_man": 14,
+    "targets_zone": 19
+  },
+  {
+    "nfl_id": 41359,
+    "name": "James White",
+    "position": "RB",
+    "sep_man": 2.439,
+    "sep_zone": 4.362,
+    "diff": -1.923,
+    "targets_man": 5,
+    "targets_zone": 7
+  },
+  {
+    "nfl_id": 35634,
+    "name": "Antonio Brown",
+    "position": "WR",
+    "sep_man": 2.73,
+    "sep_zone": 4.664,
+    "diff": -1.934,
+    "targets_man": 18,
+    "targets_zone": 19
+  },
+  {
+    "nfl_id": 46167,
+    "name": "Jordan Akins",
+    "position": "TE",
+    "sep_man": 1.746,
+    "sep_zone": 3.688,
+    "diff": -1.942,
+    "targets_man": 7,
+    "targets_zone": 15
+  },
+  {
+    "nfl_id": 52766,
+    "name": "Kendall Hinton",
+    "position": "WR",
+    "sep_man": 1.913,
+    "sep_zone": 3.873,
+    "diff": -1.96,
+    "targets_man": 3,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 43454,
+    "name": "Tyreek Hill",
+    "position": "WR",
+    "sep_man": 2.429,
+    "sep_zone": 4.391,
+    "diff": -1.962,
+    "targets_man": 23,
+    "targets_zone": 45
+  },
+  {
+    "nfl_id": 46095,
+    "name": "Calvin Ridley",
+    "position": "WR",
+    "sep_man": 2.29,
+    "sep_zone": 4.252,
+    "diff": -1.962,
+    "targets_man": 13,
+    "targets_zone": 36
+  },
+  {
+    "nfl_id": 44978,
+    "name": "Jamal Agnew",
+    "position": "WR",
+    "sep_man": 2.567,
+    "sep_zone": 4.53,
+    "diff": -1.963,
+    "targets_man": 8,
+    "targets_zone": 11
+  },
+  {
+    "nfl_id": 42347,
+    "name": "Amari Cooper",
+    "position": "WR",
+    "sep_man": 1.729,
+    "sep_zone": 3.694,
+    "diff": -1.965,
+    "targets_man": 24,
+    "targets_zone": 26
+  },
+  {
+    "nfl_id": 46526,
+    "name": "Darrel Williams",
+    "position": "RB",
+    "sep_man": 6.438,
+    "sep_zone": 8.413,
+    "diff": -1.975,
+    "targets_man": 3,
+    "targets_zone": 19
+  },
+  {
+    "nfl_id": 52608,
+    "name": "Quez Watkins",
+    "position": "WR",
+    "sep_man": 2.018,
+    "sep_zone": 3.999,
+    "diff": -1.981,
+    "targets_man": 7,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 47803,
+    "name": "Noah Fant",
+    "position": "TE",
+    "sep_man": 3.001,
+    "sep_zone": 4.984,
+    "diff": -1.983,
+    "targets_man": 11,
+    "targets_zone": 36
+  },
+  {
+    "nfl_id": 52574,
+    "name": "Quintez Cephus",
+    "position": "WR",
+    "sep_man": 1.484,
+    "sep_zone": 3.473,
+    "diff": -1.989,
+    "targets_man": 5,
+    "targets_zone": 16
+  },
+  {
+    "nfl_id": 42363,
+    "name": "Nelson Agholor",
+    "position": "WR",
+    "sep_man": 1.511,
+    "sep_zone": 3.512,
+    "diff": -2.001,
+    "targets_man": 13,
+    "targets_zone": 21
+  },
+  {
+    "nfl_id": 53433,
+    "name": "Kyle Pitts",
+    "position": "TE",
+    "sep_man": 1.452,
+    "sep_zone": 3.484,
+    "diff": -2.032,
+    "targets_man": 18,
+    "targets_zone": 33
+  },
+  {
+    "nfl_id": 43344,
+    "name": "Tyler Boyd",
+    "position": "WR",
+    "sep_man": 1.668,
+    "sep_zone": 3.701,
+    "diff": -2.033,
+    "targets_man": 14,
+    "targets_zone": 31
+  },
+  {
+    "nfl_id": 37077,
+    "name": "A.J. Green",
+    "position": "WR",
+    "sep_man": 1.824,
+    "sep_zone": 3.878,
+    "diff": -2.054,
+    "targets_man": 6,
+    "targets_zone": 29
+  },
+  {
+    "nfl_id": 47849,
+    "name": "Diontae Johnson",
+    "position": "WR",
+    "sep_man": 1.766,
+    "sep_zone": 3.829,
+    "diff": -2.063,
+    "targets_man": 9,
+    "targets_zone": 31
+  },
+  {
+    "nfl_id": 52451,
+    "name": "Cole Kmet",
+    "position": "TE",
+    "sep_man": 1.955,
+    "sep_zone": 4.019,
+    "diff": -2.064,
+    "targets_man": 9,
+    "targets_zone": 26
+  },
+  {
+    "nfl_id": 45555,
+    "name": "Keelan Cole",
+    "position": "WR",
+    "sep_man": 1.632,
+    "sep_zone": 3.753,
+    "diff": -2.121,
+    "targets_man": 6,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 37139,
+    "name": "Randall Cobb",
+    "position": "WR",
+    "sep_man": 1.45,
+    "sep_zone": 3.574,
+    "diff": -2.124,
+    "targets_man": 8,
+    "targets_zone": 6
+  },
+  {
+    "nfl_id": 43415,
+    "name": "Demarcus Robinson",
+    "position": "WR",
+    "sep_man": 2.31,
+    "sep_zone": 4.496,
+    "diff": -2.186,
+    "targets_man": 3,
+    "targets_zone": 18
+  },
+  {
+    "nfl_id": 44792,
+    "name": "Mo Alie-Cox",
+    "position": "TE",
+    "sep_man": 2.452,
+    "sep_zone": 4.652,
+    "diff": -2.2,
+    "targets_man": 5,
+    "targets_zone": 16
+  },
+  {
+    "nfl_id": 45785,
+    "name": "Dan Arnold",
+    "position": "TE",
+    "sep_man": 2.222,
+    "sep_zone": 4.427,
+    "diff": -2.205,
+    "targets_man": 9,
+    "targets_zone": 24
+  },
+  {
+    "nfl_id": 46111,
+    "name": "Mike Gesicki",
+    "position": "TE",
+    "sep_man": 1.644,
+    "sep_zone": 3.86,
+    "diff": -2.216,
+    "targets_man": 14,
+    "targets_zone": 27
+  },
+  {
+    "nfl_id": 47815,
+    "name": "N'Keal Harry",
+    "position": "WR",
+    "sep_man": 0.558,
+    "sep_zone": 2.785,
+    "diff": -2.227,
+    "targets_man": 2,
+    "targets_zone": 6
+  },
+  {
+    "nfl_id": 45355,
+    "name": "Anthony Firkser",
+    "position": "TE",
+    "sep_man": 2.123,
+    "sep_zone": 4.364,
+    "diff": -2.241,
+    "targets_man": 5,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 46671,
+    "name": "Trent Sherfield",
+    "position": "WR",
+    "sep_man": 0.68,
+    "sep_zone": 2.922,
+    "diff": -2.242,
+    "targets_man": 1,
+    "targets_zone": 8
+  },
+  {
+    "nfl_id": 53512,
+    "name": "Tommy Tremble",
+    "position": "TE",
+    "sep_man": 0.761,
+    "sep_zone": 3.026,
+    "diff": -2.265,
+    "targets_man": 1,
+    "targets_zone": 12
+  },
+  {
+    "nfl_id": 39973,
+    "name": "DeAndre Hopkins",
+    "position": "WR",
+    "sep_man": 1.433,
+    "sep_zone": 3.727,
+    "diff": -2.294,
+    "targets_man": 10,
+    "targets_zone": 25
+  },
+  {
+    "nfl_id": 46192,
+    "name": "Durham Smythe",
+    "position": "TE",
+    "sep_man": 2.673,
+    "sep_zone": 4.973,
+    "diff": -2.3,
+    "targets_man": 3,
+    "targets_zone": 12
+  },
+  {
+    "nfl_id": 46279,
+    "name": "Braxton Berrios",
+    "position": "WR",
+    "sep_man": 3.608,
+    "sep_zone": 5.91,
+    "diff": -2.302,
+    "targets_man": 8,
+    "targets_zone": 12
+  },
+  {
+    "nfl_id": 53555,
+    "name": "Chuba Hubbard",
+    "position": "RB",
+    "sep_man": 3.296,
+    "sep_zone": 5.602,
+    "diff": -2.306,
+    "targets_man": 3,
+    "targets_zone": 18
+  },
+  {
+    "nfl_id": 44831,
+    "name": "O.J. Howard",
+    "position": "TE",
+    "sep_man": 1.396,
+    "sep_zone": 3.725,
+    "diff": -2.329,
+    "targets_man": 6,
+    "targets_zone": 12
+  },
+  {
+    "nfl_id": 53463,
+    "name": "Elijah Moore",
+    "position": "WR",
+    "sep_man": 2.753,
+    "sep_zone": 5.095,
+    "diff": -2.342,
+    "targets_man": 11,
+    "targets_zone": 16
+  },
+  {
+    "nfl_id": 44841,
+    "name": "David Njoku",
+    "position": "TE",
+    "sep_man": 1.396,
+    "sep_zone": 3.755,
+    "diff": -2.359,
+    "targets_man": 3,
+    "targets_zone": 14
+  },
+  {
+    "nfl_id": 47839,
+    "name": "Mecole Hardman",
+    "position": "WR",
+    "sep_man": 2.639,
+    "sep_zone": 5.017,
+    "diff": -2.378,
+    "targets_man": 5,
+    "targets_zone": 28
+  },
+  {
+    "nfl_id": 52494,
+    "name": "Zack Moss",
+    "position": "RB",
+    "sep_man": 4.119,
+    "sep_zone": 6.499,
+    "diff": -2.38,
+    "targets_man": 4,
+    "targets_zone": 7
+  },
+  {
+    "nfl_id": 38613,
+    "name": "Mohamed Sanu",
+    "position": "WR",
+    "sep_man": 2.165,
+    "sep_zone": 4.56,
+    "diff": -2.395,
+    "targets_man": 7,
+    "targets_zone": 12
+  },
+  {
+    "nfl_id": 40011,
+    "name": "Travis Kelce",
+    "position": "TE",
+    "sep_man": 1.72,
+    "sep_zone": 4.165,
+    "diff": -2.445,
+    "targets_man": 21,
+    "targets_zone": 44
+  },
+  {
+    "nfl_id": 37118,
+    "name": "Kyle Rudolph",
+    "position": "TE",
+    "sep_man": 0.593,
+    "sep_zone": 3.051,
+    "diff": -2.458,
+    "targets_man": 2,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 52584,
+    "name": "K.J. Osborn",
+    "position": "WR",
+    "sep_man": 2.271,
+    "sep_zone": 4.77,
+    "diff": -2.499,
+    "targets_man": 14,
+    "targets_zone": 20
+  },
+  {
+    "nfl_id": 44817,
+    "name": "Corey Davis",
+    "position": "WR",
+    "sep_man": 1.864,
+    "sep_zone": 4.389,
+    "diff": -2.525,
+    "targets_man": 16,
+    "targets_zone": 24
+  },
+  {
+    "nfl_id": 48374,
+    "name": "Olamide Zaccheaus",
+    "position": "WR",
+    "sep_man": 1.643,
+    "sep_zone": 4.181,
+    "diff": -2.538,
+    "targets_man": 4,
+    "targets_zone": 14
+  },
+  {
+    "nfl_id": 41712,
+    "name": "Damien Williams",
+    "position": "RB",
+    "sep_man": 4.18,
+    "sep_zone": 6.76,
+    "diff": -2.58,
+    "targets_man": 1,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 53453,
+    "name": "Najee Harris",
+    "position": "RB",
+    "sep_man": 2.896,
+    "sep_zone": 5.495,
+    "diff": -2.599,
+    "targets_man": 5,
+    "targets_zone": 34
+  },
+  {
+    "nfl_id": 45532,
+    "name": "Blake Jarwin",
+    "position": "TE",
+    "sep_man": 1.568,
+    "sep_zone": 4.172,
+    "diff": -2.604,
+    "targets_man": 5,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 44857,
+    "name": "Adam Shaheen",
+    "position": "TE",
+    "sep_man": 0.89,
+    "sep_zone": 3.555,
+    "diff": -2.665,
+    "targets_man": 1,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 45339,
+    "name": "Pharaoh Brown",
+    "position": "TE",
+    "sep_man": 1.917,
+    "sep_zone": 4.584,
+    "diff": -2.667,
+    "targets_man": 6,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 43722,
+    "name": "J.D. McKissic",
+    "position": "RB",
+    "sep_man": 3.917,
+    "sep_zone": 6.609,
+    "diff": -2.692,
+    "targets_man": 11,
+    "targets_zone": 26
+  },
+  {
+    "nfl_id": 47911,
+    "name": "Tony Pollard",
+    "position": "RB",
+    "sep_man": 3.898,
+    "sep_zone": 6.597,
+    "diff": -2.699,
+    "targets_man": 2,
+    "targets_zone": 8
+  },
+  {
+    "nfl_id": 52489,
+    "name": "Bryan Edwards",
+    "position": "WR",
+    "sep_man": 1.348,
+    "sep_zone": 4.056,
+    "diff": -2.708,
+    "targets_man": 18,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 52443,
+    "name": "D'Andre Swift",
+    "position": "RB",
+    "sep_man": 3.237,
+    "sep_zone": 5.952,
+    "diff": -2.715,
+    "targets_man": 7,
+    "targets_zone": 37
+  },
+  {
+    "nfl_id": 41506,
+    "name": "Albert Wilson",
+    "position": "WR",
+    "sep_man": 1.968,
+    "sep_zone": 4.696,
+    "diff": -2.728,
+    "targets_man": 3,
+    "targets_zone": 7
+  },
+  {
+    "nfl_id": 44931,
+    "name": "Mack Hollins",
+    "position": "WR",
+    "sep_man": 1.366,
+    "sep_zone": 4.161,
+    "diff": -2.795,
+    "targets_man": 3,
+    "targets_zone": 5
+  },
+  {
+    "nfl_id": 44835,
+    "name": "Evan Engram",
+    "position": "TE",
+    "sep_man": 1.587,
+    "sep_zone": 4.434,
+    "diff": -2.847,
+    "targets_man": 4,
+    "targets_zone": 19
+  },
+  {
+    "nfl_id": 47842,
+    "name": "Parris Campbell",
+    "position": "WR",
+    "sep_man": 1.396,
+    "sep_zone": 4.26,
+    "diff": -2.864,
+    "targets_man": 7,
+    "targets_zone": 13
+  },
+  {
+    "nfl_id": 45481,
+    "name": "Ricky Seals-Jones",
+    "position": "TE",
+    "sep_man": 2.411,
+    "sep_zone": 5.283,
+    "diff": -2.872,
+    "targets_man": 12,
+    "targets_zone": 14
+  },
+  {
+    "nfl_id": 53579,
+    "name": "Kenneth Gainwell",
+    "position": "RB",
+    "sep_man": 3.683,
+    "sep_zone": 6.57,
+    "diff": -2.887,
+    "targets_man": 8,
+    "targets_zone": 19
+  },
+  {
+    "nfl_id": 46129,
+    "name": "James Washington",
+    "position": "WR",
+    "sep_man": 1.14,
+    "sep_zone": 4.032,
+    "diff": -2.892,
+    "targets_man": 1,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 52569,
+    "name": "Tyler Johnson",
+    "position": "WR",
+    "sep_man": 1.32,
+    "sep_zone": 4.223,
+    "diff": -2.903,
+    "targets_man": 3,
+    "targets_zone": 11
+  },
+  {
+    "nfl_id": 43310,
+    "name": "Will Fuller",
+    "position": "WR",
+    "sep_man": 1.189,
+    "sep_zone": 4.139,
+    "diff": -2.95,
+    "targets_man": 1,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 53520,
+    "name": "Anthony Schwartz",
+    "position": "WR",
+    "sep_man": 0.943,
+    "sep_zone": 3.916,
+    "diff": -2.973,
+    "targets_man": 3,
+    "targets_zone": 8
+  },
+  {
+    "nfl_id": 44930,
+    "name": "Josh Reynolds",
+    "position": "WR",
+    "sep_man": 1.407,
+    "sep_zone": 4.39,
+    "diff": -2.983,
+    "targets_man": 5,
+    "targets_zone": 7
+  },
+  {
+    "nfl_id": 44959,
+    "name": "George Kittle",
+    "position": "TE",
+    "sep_man": 1.37,
+    "sep_zone": 4.463,
+    "diff": -3.093,
+    "targets_man": 2,
+    "targets_zone": 17
+  },
+  {
+    "nfl_id": 47870,
+    "name": "Damien Harris",
+    "position": "RB",
+    "sep_man": 3.359,
+    "sep_zone": 6.457,
+    "diff": -3.098,
+    "targets_man": 3,
+    "targets_zone": 6
+  },
+  {
+    "nfl_id": 52500,
+    "name": "Devin Duvernay",
+    "position": "WR",
+    "sep_man": 1.071,
+    "sep_zone": 4.179,
+    "diff": -3.108,
+    "targets_man": 3,
+    "targets_zone": 13
+  },
+  {
+    "nfl_id": 46522,
+    "name": "Byron Pringle",
+    "position": "WR",
+    "sep_man": 1.841,
+    "sep_zone": 4.954,
+    "diff": -3.113,
+    "targets_man": 5,
+    "targets_zone": 19
+  },
+  {
+    "nfl_id": 47885,
+    "name": "Alexander Mattison",
+    "position": "RB",
+    "sep_man": 1.952,
+    "sep_zone": 5.074,
+    "diff": -3.122,
+    "targets_man": 2,
+    "targets_zone": 8
+  },
+  {
+    "nfl_id": 39985,
+    "name": "Giovani Bernard",
+    "position": "RB",
+    "sep_man": 3.145,
+    "sep_zone": 6.268,
+    "diff": -3.123,
+    "targets_man": 4,
+    "targets_zone": 7
+  },
+  {
+    "nfl_id": 52922,
+    "name": "Salvon Ahmed",
+    "position": "RB",
+    "sep_man": 2.463,
+    "sep_zone": 5.644,
+    "diff": -3.181,
+    "targets_man": 4,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 44995,
+    "name": "Aaron Jones",
+    "position": "RB",
+    "sep_man": 3.801,
+    "sep_zone": 7.008,
+    "diff": -3.207,
+    "targets_man": 11,
+    "targets_zone": 11
+  },
+  {
+    "nfl_id": 44879,
+    "name": "Alvin Kamara",
+    "position": "RB",
+    "sep_man": 3.094,
+    "sep_zone": 6.345,
+    "diff": -3.251,
+    "targets_man": 8,
+    "targets_zone": 18
+  },
+  {
+    "nfl_id": 47879,
+    "name": "Dawson Knox",
+    "position": "TE",
+    "sep_man": 2.562,
+    "sep_zone": 5.82,
+    "diff": -3.258,
+    "targets_man": 7,
+    "targets_zone": 15
+  },
+  {
+    "nfl_id": 46226,
+    "name": "Tyler Conklin",
+    "position": "TE",
+    "sep_man": 2.115,
+    "sep_zone": 5.411,
+    "diff": -3.296,
+    "targets_man": 9,
+    "targets_zone": 24
+  },
+  {
+    "nfl_id": 39954,
+    "name": "Tavon Austin",
+    "position": "WR",
+    "sep_man": 0.541,
+    "sep_zone": 3.846,
+    "diff": -3.305,
+    "targets_man": 1,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 42428,
+    "name": "Tyler Kroft",
+    "position": "TE",
+    "sep_man": 1.476,
+    "sep_zone": 4.812,
+    "diff": -3.336,
+    "targets_man": 3,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 46094,
+    "name": "Hayden Hurst",
+    "position": "TE",
+    "sep_man": 2.325,
+    "sep_zone": 5.769,
+    "diff": -3.444,
+    "targets_man": 3,
+    "targets_zone": 18
+  },
+  {
+    "nfl_id": 47856,
+    "name": "David Montgomery",
+    "position": "RB",
+    "sep_man": 2.013,
+    "sep_zone": 5.472,
+    "diff": -3.459,
+    "targets_man": 1,
+    "targets_zone": 9
+  },
+  {
+    "nfl_id": 45573,
+    "name": "Austin Ekeler",
+    "position": "RB",
+    "sep_man": 2.551,
+    "sep_zone": 6.102,
+    "diff": -3.551,
+    "targets_man": 5,
+    "targets_zone": 27
+  },
+  {
+    "nfl_id": 52526,
+    "name": "Albert Okwuegbunam",
+    "position": "TE",
+    "sep_man": 2.425,
+    "sep_zone": 6.046,
+    "diff": -3.621,
+    "targets_man": 5,
+    "targets_zone": 6
+  },
+  {
+    "nfl_id": 41349,
+    "name": "Logan Thomas",
+    "position": "TE",
+    "sep_man": 1.498,
+    "sep_zone": 5.133,
+    "diff": -3.635,
+    "targets_man": 3,
+    "targets_zone": 8
+  },
+  {
+    "nfl_id": 44947,
+    "name": "Jamaal Williams",
+    "position": "RB",
+    "sep_man": 2.179,
+    "sep_zone": 5.863,
+    "diff": -3.684,
+    "targets_man": 1,
+    "targets_zone": 16
+  },
+  {
+    "nfl_id": 38622,
+    "name": "T.Y. Hilton",
+    "position": "WR",
+    "sep_man": 1.102,
+    "sep_zone": 4.806,
+    "diff": -3.704,
+    "targets_man": 2,
+    "targets_zone": 7
+  },
+  {
+    "nfl_id": 46705,
+    "name": "Allen Lazard",
+    "position": "WR",
+    "sep_man": 1.489,
+    "sep_zone": 5.198,
+    "diff": -3.709,
+    "targets_man": 9,
+    "targets_zone": 6
+  },
+  {
+    "nfl_id": 35481,
+    "name": "Rob Gronkowski",
+    "position": "TE",
+    "sep_man": 1.669,
+    "sep_zone": 5.499,
+    "diff": -3.83,
+    "targets_man": 8,
+    "targets_zone": 11
+  },
+  {
+    "nfl_id": 48556,
+    "name": "Jalen Guyton",
+    "position": "WR",
+    "sep_man": 1.403,
+    "sep_zone": 5.24,
+    "diff": -3.837,
+    "targets_man": 4,
+    "targets_zone": 14
+  },
+  {
+    "nfl_id": 42469,
+    "name": "Mike Davis",
+    "position": "RB",
+    "sep_man": 2.32,
+    "sep_zone": 6.165,
+    "diff": -3.845,
+    "targets_man": 3,
+    "targets_zone": 23
+  },
+  {
+    "nfl_id": 44856,
+    "name": "Gerald Everett",
+    "position": "TE",
+    "sep_man": 0.95,
+    "sep_zone": 4.885,
+    "diff": -3.935,
+    "targets_man": 3,
+    "targets_zone": 8
+  },
+  {
+    "nfl_id": 52942,
+    "name": "Juwan Johnson",
+    "position": "TE",
+    "sep_man": 2.333,
+    "sep_zone": 6.404,
+    "diff": -4.071,
+    "targets_man": 6,
+    "targets_zone": 4
+  },
+  {
+    "nfl_id": 44923,
+    "name": "Dede Westbrook",
+    "position": "WR",
+    "sep_man": 1.128,
+    "sep_zone": 5.397,
+    "diff": -4.269,
+    "targets_man": 2,
+    "targets_zone": 7
+  },
+  {
+    "nfl_id": 41286,
+    "name": "Carlos Hyde",
+    "position": "RB",
+    "sep_man": 2.574,
+    "sep_zone": 6.955,
+    "diff": -4.381,
+    "targets_man": 1,
+    "targets_zone": 10
+  },
+  {
+    "nfl_id": 47853,
+    "name": "Darrell Henderson",
+    "position": "RB",
+    "sep_man": 2.552,
+    "sep_zone": 6.975,
+    "diff": -4.423,
+    "targets_man": 3,
+    "targets_zone": 13
+  },
+  {
+    "nfl_id": 47836,
+    "name": "Miles Sanders",
+    "position": "RB",
+    "sep_man": 1.384,
+    "sep_zone": 6.255,
+    "diff": -4.871,
+    "targets_man": 1,
+    "targets_zone": 11
+  },
+  {
+    "nfl_id": 52467,
+    "name": "Denzel Mims",
+    "position": "WR",
+    "sep_man": 0.686,
+    "sep_zone": 5.875,
+    "diff": -5.189,
+    "targets_man": 2,
+    "targets_zone": 6
+  },
+  {
+    "nfl_id": 52708,
+    "name": "Jamycal Hasty",
+    "position": "RB",
+    "sep_man": 1.869,
+    "sep_zone": 7.5,
+    "diff": -5.631,
+    "targets_man": 4,
+    "targets_zone": 7
+  },
+  {
+    "nfl_id": 48456,
+    "name": "Donald Parham",
+    "position": "TE",
+    "sep_man": 2.528,
+    "sep_zone": 8.191,
+    "diff": -5.663,
+    "targets_man": 3,
+    "targets_zone": 5
+  },
+  {
+    "nfl_id": 41325,
+    "name": "Jerick McKinnon",
+    "position": "RB",
+    "sep_man": 2.669,
+    "sep_zone": 8.724,
+    "diff": -6.055,
+    "targets_man": 1,
+    "targets_zone": 7
+  }
+]

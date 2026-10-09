@@ -1,0 +1,32 @@
+[
+  {
+    "band": "0-1",
+    "plays": 756,
+    "catch_rate": 0.2262
+  },
+  {
+    "band": "1-2",
+    "plays": 1438,
+    "catch_rate": 0.4798
+  },
+  {
+    "band": "2-3",
+    "plays": 1177,
+    "catch_rate": 0.6754
+  },
+  {
+    "band": "3-4",
+    "plays": 1011,
+    "catch_rate": 0.7379
+  },
+  {
+    "band": "4-6",
+    "plays": 1397,
+    "catch_rate": 0.781
+  },
+  {
+    "band": "6+",
+    "plays": 1289,
+    "catch_rate": 0.8479
+  }
+]

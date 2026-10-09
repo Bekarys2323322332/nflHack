@@ -1,0 +1,8290 @@
+{
+  "game_id": 2021101700,
+  "play_id": 2219,
+  "description": "(:47) (Shotgun) T.Lawrence pass deep right to M.Jones for 28 yards, TOUCHDOWN [J.Baker].",
+  "p_catch": 0.2494,
+  "result": "complete",
+  "throw_frame": 36,
+  "frames": [
+    {
+      "frame_id": 1,
+      "ball": {
+        "x": 81.53,
+        "y": 30.05
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.85,
+          "y": 35.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 79.7,
+          "y": 10.37,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 81.04,
+          "y": 29.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.54,
+          "y": 31.74,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.89,
+          "y": 26.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.25,
+          "y": 43.14,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 82.29,
+          "y": 24.58,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 82.53,
+          "y": 27.46,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 80.49,
+          "y": 33.49,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 80.53,
+          "y": 19.65,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 82.71,
+          "y": 29.91,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.48,
+          "y": 27.42,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 82.71,
+          "y": 32.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 80.37,
+          "y": 28.59,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 79.98,
+          "y": 26.92,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 83.81,
+          "y": 19.46,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.08,
+          "y": 10.5,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 80.92,
+          "y": 43.19,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.13,
+          "y": 33.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.51,
+          "y": 30.19,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 81.82,
+          "y": 35.72,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 99.39,
+          "y": 24.0,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 2,
+      "ball": {
+        "x": 81.53,
+        "y": 30.05
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.86,
+          "y": 35.07,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 79.71,
+          "y": 10.37,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 81.04,
+          "y": 29.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.54,
+          "y": 31.74,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.93,
+          "y": 26.04,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.26,
+          "y": 43.13,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 82.29,
+          "y": 24.59,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 82.54,
+          "y": 27.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 80.49,
+          "y": 33.49,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 80.53,
+          "y": 19.65,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 82.71,
+          "y": 29.92,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.44,
+          "y": 27.38,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 82.7,
+          "y": 32.27,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 80.37,
+          "y": 28.59,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 79.98,
+          "y": 26.92,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 83.8,
+          "y": 19.44,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.08,
+          "y": 10.5,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 80.92,
+          "y": 43.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.13,
+          "y": 33.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.52,
+          "y": 30.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 81.8,
+          "y": 35.72,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 99.38,
+          "y": 23.89,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 3,
+      "ball": {
+        "x": 81.53,
+        "y": 30.05
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.86,
+          "y": 35.07,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 79.71,
+          "y": 10.38,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 81.04,
+          "y": 29.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.53,
+          "y": 31.75,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.96,
+          "y": 25.99,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.25,
+          "y": 43.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 82.29,
+          "y": 24.58,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 82.53,
+          "y": 27.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 80.49,
+          "y": 33.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 80.53,
+          "y": 19.66,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 82.7,
+          "y": 29.92,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.42,
+          "y": 27.35,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 82.71,
+          "y": 32.28,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 80.37,
+          "y": 28.59,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 79.97,
+          "y": 26.92,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 83.78,
+          "y": 19.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.08,
+          "y": 10.5,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 80.92,
+          "y": 43.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.13,
+          "y": 33.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.52,
+          "y": 30.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 81.77,
+          "y": 35.7,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 99.38,
+          "y": 23.8,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 4,
+      "ball": {
+        "x": 81.53,
+        "y": 30.05
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.86,
+          "y": 35.07,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 79.71,
+          "y": 10.37,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 81.04,
+          "y": 29.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.52,
+          "y": 31.75,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.99,
+          "y": 25.98,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.25,
+          "y": 43.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 82.27,
+          "y": 24.58,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 82.53,
+          "y": 27.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 80.49,
+          "y": 33.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 80.53,
+          "y": 19.66,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 82.68,
+          "y": 29.93,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.4,
+          "y": 27.34,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 82.69,
+          "y": 32.28,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 80.36,
+          "y": 28.59,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 79.97,
+          "y": 26.91,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 83.77,
+          "y": 19.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.08,
+          "y": 10.5,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 80.92,
+          "y": 43.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.13,
+          "y": 33.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.52,
+          "y": 30.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 81.86,
+          "y": 35.88,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 99.39,
+          "y": 23.71,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 5,
+      "ball": {
+        "x": 81.53,
+        "y": 30.05
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.86,
+          "y": 35.07,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 79.71,
+          "y": 10.37,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 81.04,
+          "y": 29.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.51,
+          "y": 31.74,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 86.02,
+          "y": 25.99,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.25,
+          "y": 43.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 82.24,
+          "y": 24.59,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 82.52,
+          "y": 27.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 80.48,
+          "y": 33.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 80.54,
+          "y": 19.66,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 82.66,
+          "y": 29.94,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.38,
+          "y": 27.34,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 82.67,
+          "y": 32.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 80.36,
+          "y": 28.59,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 79.96,
+          "y": 26.91,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 83.77,
+          "y": 19.35,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.08,
+          "y": 10.5,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 80.92,
+          "y": 43.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.13,
+          "y": 33.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.52,
+          "y": 30.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 81.89,
+          "y": 35.87,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 99.4,
+          "y": 23.65,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 6,
+      "ball": {
+        "x": 81.51,
+        "y": 30.0
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.86,
+          "y": 35.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 79.72,
+          "y": 10.38,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 81.03,
+          "y": 29.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.51,
+          "y": 31.74,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 86.05,
+          "y": 26.04,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.24,
+          "y": 43.13,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 82.22,
+          "y": 24.59,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 82.51,
+          "y": 27.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 80.48,
+          "y": 33.51,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 80.55,
+          "y": 19.66,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 82.63,
+          "y": 29.96,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.38,
+          "y": 27.34,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 82.65,
+          "y": 32.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 80.35,
+          "y": 28.58,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 79.93,
+          "y": 26.9,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 83.76,
+          "y": 19.32,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.08,
+          "y": 10.52,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 80.92,
+          "y": 43.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.13,
+          "y": 33.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.52,
+          "y": 30.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 81.88,
+          "y": 35.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 99.43,
+          "y": 23.6,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 7,
+      "ball": {
+        "x": 80.91,
+        "y": 30.0
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.85,
+          "y": 35.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 79.73,
+          "y": 10.37,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 81.01,
+          "y": 29.99,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.49,
+          "y": 31.75,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 86.08,
+          "y": 26.1,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.25,
+          "y": 43.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 82.16,
+          "y": 24.6,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 82.5,
+          "y": 27.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 80.47,
+          "y": 33.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 80.57,
+          "y": 19.67,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 82.59,
+          "y": 29.98,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.37,
+          "y": 27.31,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 82.62,
+          "y": 32.28,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 80.32,
+          "y": 28.57,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 79.87,
+          "y": 26.89,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 83.76,
+          "y": 19.28,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.09,
+          "y": 10.52,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 80.93,
+          "y": 43.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.13,
+          "y": 33.04,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.52,
+          "y": 30.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 81.88,
+          "y": 35.94,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 99.46,
+          "y": 23.58,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 8,
+      "ball": {
+        "x": 80.27,
+        "y": 30.03
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.83,
+          "y": 35.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 79.74,
+          "y": 10.38,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 80.97,
+          "y": 30.02,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.46,
+          "y": 31.76,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 86.11,
+          "y": 26.16,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.25,
+          "y": 43.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 82.09,
+          "y": 24.61,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 82.48,
+          "y": 27.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 80.46,
+          "y": 33.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 80.58,
+          "y": 19.67,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 82.51,
+          "y": 30.02,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.37,
+          "y": 27.24,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 82.55,
+          "y": 32.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 80.27,
+          "y": 28.55,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 79.78,
+          "y": 26.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 83.77,
+          "y": 19.26,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.09,
+          "y": 10.52,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 80.94,
+          "y": 43.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.14,
+          "y": 33.02,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.52,
+          "y": 30.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 81.9,
+          "y": 35.99,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 99.52,
+          "y": 23.59,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 9,
+      "ball": {
+        "x": 79.69,
+        "y": 30.08
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.8,
+          "y": 35.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 79.77,
+          "y": 10.37,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 80.91,
+          "y": 30.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.45,
+          "y": 31.77,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 86.12,
+          "y": 26.21,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.26,
+          "y": 43.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 81.95,
+          "y": 24.64,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 82.45,
+          "y": 27.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 80.44,
+          "y": 33.58,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 80.63,
+          "y": 19.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 82.38,
+          "y": 30.08,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.37,
+          "y": 27.15,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 82.46,
+          "y": 32.31,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 80.2,
+          "y": 28.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 79.66,
+          "y": 26.85,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 83.78,
+          "y": 19.24,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.09,
+          "y": 10.53,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 80.95,
+          "y": 43.17,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.15,
+          "y": 33.0,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.52,
+          "y": 30.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 81.87,
+          "y": 36.02,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 99.58,
+          "y": 23.61,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 10,
+      "ball": {
+        "x": 79.14,
+        "y": 30.13
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.76,
+          "y": 35.03,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 79.83,
+          "y": 10.37,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 80.82,
+          "y": 30.11,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.44,
+          "y": 31.78,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 86.13,
+          "y": 26.25,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.27,
+          "y": 43.13,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 81.77,
+          "y": 24.67,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 82.36,
+          "y": 27.48,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 80.4,
+          "y": 33.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 80.74,
+          "y": 19.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 82.2,
+          "y": 30.17,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.37,
+          "y": 27.0,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 82.32,
+          "y": 32.35,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 80.1,
+          "y": 28.49,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 79.51,
+          "y": 26.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 83.84,
+          "y": 19.25,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.1,
+          "y": 10.54,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 80.99,
+          "y": 43.15,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.15,
+          "y": 32.99,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.52,
+          "y": 30.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 81.8,
+          "y": 36.04,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 99.66,
+          "y": 23.67,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 11,
+      "ball": {
+        "x": 78.6,
+        "y": 30.19
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.7,
+          "y": 35.0,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 79.93,
+          "y": 10.35,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 80.7,
+          "y": 30.17,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.4,
+          "y": 31.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 86.13,
+          "y": 26.25,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.27,
+          "y": 43.13,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 81.52,
+          "y": 24.74,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 82.23,
+          "y": 27.51,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 80.33,
+          "y": 33.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 80.92,
+          "y": 19.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 81.97,
+          "y": 30.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.38,
+          "y": 26.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 82.13,
+          "y": 32.4,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 79.97,
+          "y": 28.44,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 79.33,
+          "y": 26.78,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 83.9,
+          "y": 19.24,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.11,
+          "y": 10.56,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 81.06,
+          "y": 43.12,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.16,
+          "y": 32.94,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.52,
+          "y": 30.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 81.63,
+          "y": 36.02,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 99.76,
+          "y": 23.74,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 12,
+      "ball": {
+        "x": 78.12,
+        "y": 30.3
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.64,
+          "y": 34.97,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 80.08,
+          "y": 10.31,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 80.53,
+          "y": 30.26,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.39,
+          "y": 31.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 86.12,
+          "y": 26.22,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.28,
+          "y": 43.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 81.23,
+          "y": 24.82,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 82.05,
+          "y": 27.58,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 80.24,
+          "y": 33.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 81.15,
+          "y": 19.75,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 81.68,
+          "y": 30.43,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.4,
+          "y": 26.6,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 81.92,
+          "y": 32.45,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 79.82,
+          "y": 28.4,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 79.14,
+          "y": 26.74,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 83.96,
+          "y": 19.23,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.15,
+          "y": 10.6,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 81.16,
+          "y": 43.08,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.19,
+          "y": 32.85,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.52,
+          "y": 30.19,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 81.43,
+          "y": 35.95,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 99.88,
+          "y": 23.83,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 13,
+      "ball": {
+        "x": 77.68,
+        "y": 30.4
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.56,
+          "y": 34.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 80.3,
+          "y": 10.24,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 80.37,
+          "y": 30.35,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.35,
+          "y": 31.85,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 86.1,
+          "y": 26.15,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.3,
+          "y": 43.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 80.9,
+          "y": 24.93,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 81.81,
+          "y": 27.67,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 80.13,
+          "y": 34.17,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 81.44,
+          "y": 19.8,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 81.37,
+          "y": 30.58,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.42,
+          "y": 26.35,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 81.68,
+          "y": 32.5,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 79.64,
+          "y": 28.37,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 78.95,
+          "y": 26.71,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 84.04,
+          "y": 19.23,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.22,
+          "y": 10.62,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 81.3,
+          "y": 43.01,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.24,
+          "y": 32.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.52,
+          "y": 30.19,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 81.2,
+          "y": 35.87,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 100.01,
+          "y": 23.94,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 14,
+      "ball": {
+        "x": 77.31,
+        "y": 30.53
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.48,
+          "y": 34.84,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 80.56,
+          "y": 10.15,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 80.19,
+          "y": 30.46,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.27,
+          "y": 31.91,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 86.06,
+          "y": 26.05,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.31,
+          "y": 43.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 80.53,
+          "y": 25.05,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 81.55,
+          "y": 27.79,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 79.99,
+          "y": 34.35,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 81.78,
+          "y": 19.86,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 81.06,
+          "y": 30.75,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.46,
+          "y": 26.06,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 81.42,
+          "y": 32.58,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 79.47,
+          "y": 28.35,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 78.75,
+          "y": 26.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 84.16,
+          "y": 19.25,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.33,
+          "y": 10.63,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 81.47,
+          "y": 42.94,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.31,
+          "y": 32.48,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.49,
+          "y": 30.2,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 80.97,
+          "y": 35.8,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 100.17,
+          "y": 24.06,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 15,
+      "ball": {
+        "x": 77.04,
+        "y": 30.64
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.39,
+          "y": 34.78,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 80.88,
+          "y": 10.03,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 79.98,
+          "y": 30.6,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.15,
+          "y": 31.99,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 86.02,
+          "y": 25.92,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.33,
+          "y": 43.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 80.14,
+          "y": 25.17,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 81.24,
+          "y": 27.92,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 79.84,
+          "y": 34.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 82.17,
+          "y": 19.94,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 80.76,
+          "y": 30.92,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.52,
+          "y": 25.76,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 81.16,
+          "y": 32.65,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 79.27,
+          "y": 28.36,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 78.53,
+          "y": 26.65,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 84.31,
+          "y": 19.28,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.49,
+          "y": 10.62,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 81.65,
+          "y": 42.89,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.41,
+          "y": 32.21,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.46,
+          "y": 30.21,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 80.73,
+          "y": 35.73,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 100.34,
+          "y": 24.17,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 16,
+      "ball": {
+        "x": 76.82,
+        "y": 30.67
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.29,
+          "y": 34.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 81.23,
+          "y": 9.9,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 79.76,
+          "y": 30.74,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 80.01,
+          "y": 32.1,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.97,
+          "y": 25.76,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.38,
+          "y": 43.11,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 79.76,
+          "y": 25.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 80.89,
+          "y": 28.09,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 79.68,
+          "y": 34.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 82.59,
+          "y": 20.04,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 80.45,
+          "y": 31.1,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.62,
+          "y": 25.46,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 80.91,
+          "y": 32.71,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 79.07,
+          "y": 28.38,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 78.31,
+          "y": 26.62,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 84.51,
+          "y": 19.34,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.67,
+          "y": 10.61,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 81.86,
+          "y": 42.86,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.52,
+          "y": 31.94,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.41,
+          "y": 30.21,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 80.49,
+          "y": 35.66,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 100.54,
+          "y": 24.28,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 17,
+      "ball": {
+        "x": 76.61,
+        "y": 30.62
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.16,
+          "y": 34.6,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 81.63,
+          "y": 9.75,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 79.53,
+          "y": 30.9,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 79.85,
+          "y": 32.23,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.91,
+          "y": 25.57,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.46,
+          "y": 43.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 79.31,
+          "y": 25.43,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 80.51,
+          "y": 28.27,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 79.52,
+          "y": 34.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 83.05,
+          "y": 20.17,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 80.13,
+          "y": 31.3,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.76,
+          "y": 25.16,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 80.68,
+          "y": 32.75,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 78.87,
+          "y": 28.44,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 78.07,
+          "y": 26.62,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 84.76,
+          "y": 19.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 82.9,
+          "y": 10.56,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 82.08,
+          "y": 42.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.64,
+          "y": 31.64,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.33,
+          "y": 30.22,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 80.25,
+          "y": 35.58,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 100.76,
+          "y": 24.37,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 18,
+      "ball": {
+        "x": 76.38,
+        "y": 30.53
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 95.0,
+          "y": 34.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 82.06,
+          "y": 9.57,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 79.29,
+          "y": 31.04,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 79.68,
+          "y": 32.37,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.85,
+          "y": 25.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.57,
+          "y": 43.14,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 78.84,
+          "y": 25.57,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 80.1,
+          "y": 28.48,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 79.33,
+          "y": 34.9,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 83.53,
+          "y": 20.34,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 79.82,
+          "y": 31.5,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 77.95,
+          "y": 24.85,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 80.49,
+          "y": 32.76,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 78.65,
+          "y": 28.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 77.83,
+          "y": 26.63,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 85.05,
+          "y": 19.54,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 83.17,
+          "y": 10.5,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 82.31,
+          "y": 42.93,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.77,
+          "y": 31.33,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.2,
+          "y": 30.23,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 80.01,
+          "y": 35.53,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 100.99,
+          "y": 24.46,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 19,
+      "ball": {
+        "x": 76.13,
+        "y": 30.39
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 94.81,
+          "y": 34.33,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 82.53,
+          "y": 9.38,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 79.05,
+          "y": 31.2,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 79.52,
+          "y": 32.51,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.78,
+          "y": 25.13,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.7,
+          "y": 43.17,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 78.4,
+          "y": 25.71,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 79.69,
+          "y": 28.7,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 79.15,
+          "y": 34.96,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 84.05,
+          "y": 20.54,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 79.52,
+          "y": 31.71,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 78.17,
+          "y": 24.56,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 80.32,
+          "y": 32.74,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 78.42,
+          "y": 28.63,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 77.58,
+          "y": 26.66,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 85.4,
+          "y": 19.7,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 83.49,
+          "y": 10.41,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 82.55,
+          "y": 43.01,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 76.91,
+          "y": 31.06,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 76.05,
+          "y": 30.25,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 79.76,
+          "y": 35.49,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 101.25,
+          "y": 24.52,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 20,
+      "ball": {
+        "x": 75.93,
+        "y": 30.25
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 94.6,
+          "y": 34.18,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 83.06,
+          "y": 9.18,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 78.8,
+          "y": 31.36,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 79.38,
+          "y": 32.66,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.7,
+          "y": 24.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 83.86,
+          "y": 43.23,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 77.97,
+          "y": 25.86,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 79.29,
+          "y": 28.94,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 78.97,
+          "y": 34.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 84.58,
+          "y": 20.77,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 79.24,
+          "y": 31.91,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 78.44,
+          "y": 24.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 80.2,
+          "y": 32.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 78.19,
+          "y": 28.76,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 77.31,
+          "y": 26.71,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 85.78,
+          "y": 19.88,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 83.87,
+          "y": 10.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 82.8,
+          "y": 43.13,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 77.04,
+          "y": 30.85,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 75.86,
+          "y": 30.27,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 79.53,
+          "y": 35.45,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 101.52,
+          "y": 24.58,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 21,
+      "ball": {
+        "x": 75.73,
+        "y": 30.1
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 94.37,
+          "y": 34.02,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 83.61,
+          "y": 8.97,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 78.55,
+          "y": 31.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 79.26,
+          "y": 32.79,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.64,
+          "y": 24.65,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 84.04,
+          "y": 43.32,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 77.55,
+          "y": 26.0,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 78.9,
+          "y": 29.18,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 78.79,
+          "y": 34.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 85.14,
+          "y": 21.01,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 78.97,
+          "y": 32.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 78.75,
+          "y": 24.04,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 80.1,
+          "y": 32.59,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 77.95,
+          "y": 28.91,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 77.05,
+          "y": 26.79,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 86.2,
+          "y": 20.1,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 84.29,
+          "y": 10.15,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 83.06,
+          "y": 43.31,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 77.18,
+          "y": 30.7,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 75.63,
+          "y": 30.28,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 79.29,
+          "y": 35.41,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 101.82,
+          "y": 24.61,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 22,
+      "ball": {
+        "x": 75.51,
+        "y": 29.92
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 94.12,
+          "y": 33.86,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 84.19,
+          "y": 8.76,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 78.32,
+          "y": 31.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 79.17,
+          "y": 32.9,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.58,
+          "y": 24.39,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 84.25,
+          "y": 43.46,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 77.15,
+          "y": 26.14,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 78.54,
+          "y": 29.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 78.6,
+          "y": 34.95,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 85.75,
+          "y": 21.31,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 78.71,
+          "y": 32.32,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 79.09,
+          "y": 23.81,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 80.01,
+          "y": 32.45,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 77.71,
+          "y": 29.06,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 76.78,
+          "y": 26.9,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 86.65,
+          "y": 20.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 84.77,
+          "y": 9.99,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 83.34,
+          "y": 43.55,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 77.33,
+          "y": 30.61,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 75.37,
+          "y": 30.3,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 79.05,
+          "y": 35.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 102.12,
+          "y": 24.63,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 23,
+      "ball": {
+        "x": 75.25,
+        "y": 29.79
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 93.85,
+          "y": 33.71,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 84.8,
+          "y": 8.55,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 78.1,
+          "y": 31.84,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 79.1,
+          "y": 32.99,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.55,
+          "y": 24.14,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 84.5,
+          "y": 43.63,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 76.76,
+          "y": 26.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 78.22,
+          "y": 29.65,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 78.41,
+          "y": 34.91,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 86.37,
+          "y": 21.63,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 78.44,
+          "y": 32.52,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 79.47,
+          "y": 23.6,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 79.91,
+          "y": 32.28,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 77.48,
+          "y": 29.22,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 76.5,
+          "y": 27.02,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 87.12,
+          "y": 20.65,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 85.29,
+          "y": 9.81,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 83.62,
+          "y": 43.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 77.48,
+          "y": 30.61,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 75.09,
+          "y": 30.32,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 78.8,
+          "y": 35.35,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 102.45,
+          "y": 24.64,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 24,
+      "ball": {
+        "x": 75.0,
+        "y": 29.65
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 93.58,
+          "y": 33.56,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 85.45,
+          "y": 8.35,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 77.87,
+          "y": 32.0,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 79.06,
+          "y": 33.07,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.53,
+          "y": 23.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 84.76,
+          "y": 43.83,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 76.4,
+          "y": 26.45,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 77.93,
+          "y": 29.88,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 78.22,
+          "y": 34.86,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 87.01,
+          "y": 21.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 78.18,
+          "y": 32.73,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 79.87,
+          "y": 23.39,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 79.81,
+          "y": 32.09,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 77.25,
+          "y": 29.38,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 76.22,
+          "y": 27.18,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 87.62,
+          "y": 20.97,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 85.86,
+          "y": 9.62,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 83.93,
+          "y": 44.14,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 77.63,
+          "y": 30.67,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 74.8,
+          "y": 30.34,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 78.54,
+          "y": 35.32,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 102.78,
+          "y": 24.64,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 25,
+      "ball": {
+        "x": 74.74,
+        "y": 29.57
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 93.3,
+          "y": 33.43,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 86.12,
+          "y": 8.16,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 77.65,
+          "y": 32.15,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 79.04,
+          "y": 33.12,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.53,
+          "y": 23.68,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 85.05,
+          "y": 44.07,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 76.07,
+          "y": 26.62,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 77.66,
+          "y": 30.09,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 78.03,
+          "y": 34.8,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 87.67,
+          "y": 22.34,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 77.93,
+          "y": 32.92,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 80.27,
+          "y": 23.22,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 79.68,
+          "y": 31.89,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 77.03,
+          "y": 29.55,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 75.96,
+          "y": 27.34,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 88.13,
+          "y": 21.31,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 86.47,
+          "y": 9.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 84.25,
+          "y": 44.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 77.8,
+          "y": 30.8,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 74.51,
+          "y": 30.36,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 78.27,
+          "y": 35.3,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 103.13,
+          "y": 24.63,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 26,
+      "ball": {
+        "x": 74.48,
+        "y": 29.54
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 93.02,
+          "y": 33.31,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 86.81,
+          "y": 7.97,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 77.44,
+          "y": 32.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 79.03,
+          "y": 33.14,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.55,
+          "y": 23.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 85.37,
+          "y": 44.35,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 75.76,
+          "y": 26.8,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 77.44,
+          "y": 30.28,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 77.83,
+          "y": 34.74,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 88.36,
+          "y": 22.71,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 77.67,
+          "y": 33.11,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 80.69,
+          "y": 23.04,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 79.51,
+          "y": 31.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 76.82,
+          "y": 29.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 75.71,
+          "y": 27.51,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 88.66,
+          "y": 21.68,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 87.11,
+          "y": 9.23,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 84.62,
+          "y": 44.89,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 77.98,
+          "y": 30.98,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 74.23,
+          "y": 30.37,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 77.97,
+          "y": 35.27,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 103.48,
+          "y": 24.62,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 27,
+      "ball": {
+        "x": 74.22,
+        "y": 29.5
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 92.75,
+          "y": 33.22,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 87.54,
+          "y": 7.79,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 77.23,
+          "y": 32.42,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 79.02,
+          "y": 33.15,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.58,
+          "y": 23.27,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 85.73,
+          "y": 44.65,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 75.48,
+          "y": 26.98,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 77.23,
+          "y": 30.48,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 77.59,
+          "y": 34.7,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 89.05,
+          "y": 23.09,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 77.42,
+          "y": 33.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 81.11,
+          "y": 22.85,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 79.33,
+          "y": 31.48,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 76.61,
+          "y": 29.9,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 75.48,
+          "y": 27.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 89.21,
+          "y": 22.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 87.79,
+          "y": 9.03,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 85.01,
+          "y": 45.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 78.16,
+          "y": 31.22,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 73.96,
+          "y": 30.39,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 77.64,
+          "y": 35.24,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 103.85,
+          "y": 24.61,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 28,
+      "ball": {
+        "x": 73.94,
+        "y": 29.51
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 92.48,
+          "y": 33.16,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 88.29,
+          "y": 7.62,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 77.02,
+          "y": 32.56,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 79.01,
+          "y": 33.13,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.61,
+          "y": 23.09,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 86.13,
+          "y": 44.97,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 75.22,
+          "y": 27.15,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 77.05,
+          "y": 30.66,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 77.34,
+          "y": 34.66,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 89.75,
+          "y": 23.47,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 77.15,
+          "y": 33.46,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 81.52,
+          "y": 22.63,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 79.11,
+          "y": 31.28,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 76.42,
+          "y": 30.07,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 75.26,
+          "y": 27.85,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 89.8,
+          "y": 22.43,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 88.5,
+          "y": 8.84,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 85.42,
+          "y": 45.7,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 78.34,
+          "y": 31.49,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 73.72,
+          "y": 30.41,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 77.27,
+          "y": 35.2,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 104.23,
+          "y": 24.62,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 29,
+      "ball": {
+        "x": 73.65,
+        "y": 29.59
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 92.23,
+          "y": 33.1,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 89.06,
+          "y": 7.47,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 76.82,
+          "y": 32.7,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 78.98,
+          "y": 33.1,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.66,
+          "y": 22.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 86.55,
+          "y": 45.31,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 74.98,
+          "y": 27.32,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 76.88,
+          "y": 30.82,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 77.1,
+          "y": 34.63,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 90.47,
+          "y": 23.84,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 76.88,
+          "y": 33.62,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 81.92,
+          "y": 22.41,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 78.87,
+          "y": 31.09,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 76.23,
+          "y": 30.23,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 75.05,
+          "y": 28.01,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 90.41,
+          "y": 22.8,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 89.24,
+          "y": 8.66,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 85.88,
+          "y": 46.11,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 78.52,
+          "y": 31.79,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 73.52,
+          "y": 30.42,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 76.88,
+          "y": 35.17,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 104.61,
+          "y": 24.64,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 30,
+      "ball": {
+        "x": 73.41,
+        "y": 29.68
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 91.99,
+          "y": 33.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 89.84,
+          "y": 7.32,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 76.63,
+          "y": 32.84,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 78.95,
+          "y": 33.06,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.71,
+          "y": 22.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 87.01,
+          "y": 45.64,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 74.76,
+          "y": 27.48,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 76.73,
+          "y": 30.96,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 76.85,
+          "y": 34.6,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 91.19,
+          "y": 24.21,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 76.59,
+          "y": 33.77,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 82.3,
+          "y": 22.15,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 78.58,
+          "y": 30.91,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 76.06,
+          "y": 30.37,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 74.85,
+          "y": 28.16,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 91.03,
+          "y": 23.16,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 89.99,
+          "y": 8.48,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 86.38,
+          "y": 46.5,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 78.69,
+          "y": 32.02,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 73.36,
+          "y": 30.43,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 76.45,
+          "y": 35.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 105.0,
+          "y": 24.66,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 31,
+      "ball": {
+        "x": 73.17,
+        "y": 29.78
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 91.77,
+          "y": 33.02,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 90.65,
+          "y": 7.18,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 76.45,
+          "y": 32.97,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 78.91,
+          "y": 33.0,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.75,
+          "y": 22.46,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 87.51,
+          "y": 45.98,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 74.53,
+          "y": 27.64,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 76.58,
+          "y": 31.08,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 76.62,
+          "y": 34.57,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 91.92,
+          "y": 24.58,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 76.3,
+          "y": 33.88,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 82.66,
+          "y": 21.85,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 78.25,
+          "y": 30.75,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 75.89,
+          "y": 30.47,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 74.65,
+          "y": 28.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 91.67,
+          "y": 23.51,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 90.76,
+          "y": 8.3,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 86.9,
+          "y": 46.88,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 78.88,
+          "y": 32.28,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 73.24,
+          "y": 30.43,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 76.0,
+          "y": 35.06,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 105.39,
+          "y": 24.68,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 32,
+      "ball": {
+        "x": 72.95,
+        "y": 29.9
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 91.56,
+          "y": 32.97,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 91.47,
+          "y": 7.03,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 76.29,
+          "y": 33.1,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 78.84,
+          "y": 32.93,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.79,
+          "y": 22.2,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 88.04,
+          "y": 46.31,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 74.32,
+          "y": 27.8,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 76.45,
+          "y": 31.2,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 76.38,
+          "y": 34.55,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 92.67,
+          "y": 24.96,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 76.0,
+          "y": 33.98,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 83.0,
+          "y": 21.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 77.87,
+          "y": 30.6,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 75.74,
+          "y": 30.57,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 74.48,
+          "y": 28.4,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 92.33,
+          "y": 23.83,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 91.55,
+          "y": 8.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 87.48,
+          "y": 47.24,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 79.06,
+          "y": 32.56,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 73.16,
+          "y": 30.42,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 75.55,
+          "y": 34.97,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 105.78,
+          "y": 24.71,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 33,
+      "ball": {
+        "x": 72.74,
+        "y": 30.04
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 91.39,
+          "y": 32.91,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 92.32,
+          "y": 6.89,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 76.14,
+          "y": 33.23,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 78.75,
+          "y": 32.84,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.82,
+          "y": 21.9,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 88.59,
+          "y": 46.63,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 74.09,
+          "y": 27.94,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 76.31,
+          "y": 31.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 76.15,
+          "y": 34.52,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 93.42,
+          "y": 25.34,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 75.71,
+          "y": 34.07,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 83.3,
+          "y": 21.13,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 77.44,
+          "y": 30.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 75.58,
+          "y": 30.64,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 74.31,
+          "y": 28.49,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 93.0,
+          "y": 24.14,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 92.36,
+          "y": 7.94,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 88.09,
+          "y": 47.56,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 79.24,
+          "y": 32.83,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 73.13,
+          "y": 30.41,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 75.09,
+          "y": 34.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 106.17,
+          "y": 24.72,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 34,
+      "ball": {
+        "x": 72.55,
+        "y": 30.2
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 91.25,
+          "y": 32.81,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 93.16,
+          "y": 6.75,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 76.0,
+          "y": 33.35,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 78.64,
+          "y": 32.75,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.85,
+          "y": 21.56,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 89.2,
+          "y": 46.96,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 73.86,
+          "y": 28.08,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 76.15,
+          "y": 31.33,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 75.91,
+          "y": 34.48,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 94.17,
+          "y": 25.74,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 75.42,
+          "y": 34.13,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 83.57,
+          "y": 20.7,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 76.97,
+          "y": 30.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 75.42,
+          "y": 30.67,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 74.15,
+          "y": 28.55,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 93.68,
+          "y": 24.43,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 93.18,
+          "y": 7.76,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 88.73,
+          "y": 47.86,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 79.42,
+          "y": 33.09,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 73.11,
+          "y": 30.41,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 74.65,
+          "y": 34.7,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 106.56,
+          "y": 24.7,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 35,
+      "ball": {
+        "x": 72.37,
+        "y": 30.36
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 91.14,
+          "y": 32.68,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 94.01,
+          "y": 6.61,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 75.87,
+          "y": 33.47,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 78.52,
+          "y": 32.64,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.87,
+          "y": 21.17,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 89.81,
+          "y": 47.27,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 73.63,
+          "y": 28.19,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 75.99,
+          "y": 31.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 75.69,
+          "y": 34.42,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 94.92,
+          "y": 26.16,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 75.13,
+          "y": 34.16,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 83.81,
+          "y": 20.2,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 76.47,
+          "y": 30.27,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 75.27,
+          "y": 30.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 73.99,
+          "y": 28.59,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 94.39,
+          "y": 24.69,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 94.01,
+          "y": 7.58,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 89.4,
+          "y": 48.15,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 79.59,
+          "y": 33.34,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 73.12,
+          "y": 30.4,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 74.23,
+          "y": 34.5,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 106.95,
+          "y": 24.67,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 36,
+      "ball": {
+        "x": 72.35,
+        "y": 30.42
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 91.06,
+          "y": 32.5,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 94.87,
+          "y": 6.47,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 75.75,
+          "y": 33.58,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 78.38,
+          "y": 32.53,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.9,
+          "y": 20.74,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 90.45,
+          "y": 47.57,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 73.39,
+          "y": 28.28,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 75.83,
+          "y": 31.38,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 75.48,
+          "y": 34.35,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 95.67,
+          "y": 26.62,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 74.84,
+          "y": 34.17,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 84.02,
+          "y": 19.67,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 75.95,
+          "y": 30.2,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 75.13,
+          "y": 30.68,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 73.85,
+          "y": 28.62,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 95.1,
+          "y": 24.94,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 94.85,
+          "y": 7.4,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 90.1,
+          "y": 48.4,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 79.77,
+          "y": 33.61,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 73.12,
+          "y": 30.39,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 73.85,
+          "y": 34.27,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 107.33,
+          "y": 24.59,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 37,
+      "ball": {
+        "x": 75.76,
+        "y": 28.21
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 91.01,
+          "y": 32.29,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 95.74,
+          "y": 6.33,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 75.63,
+          "y": 33.69,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 78.23,
+          "y": 32.41,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.92,
+          "y": 20.26,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 91.11,
+          "y": 47.85,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 73.13,
+          "y": 28.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 75.66,
+          "y": 31.39,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 75.27,
+          "y": 34.24,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 96.4,
+          "y": 27.1,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 74.57,
+          "y": 34.15,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 84.2,
+          "y": 19.09,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 75.44,
+          "y": 30.15,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 74.99,
+          "y": 30.66,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 73.7,
+          "y": 28.63,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 95.82,
+          "y": 25.16,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 95.7,
+          "y": 7.21,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 90.82,
+          "y": 48.63,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 79.94,
+          "y": 33.9,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 73.11,
+          "y": 30.37,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 73.5,
+          "y": 34.01,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 107.71,
+          "y": 24.47,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 38,
+      "ball": {
+        "x": 77.74,
+        "y": 26.93
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 91.0,
+          "y": 32.03,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 96.61,
+          "y": 6.18,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 75.52,
+          "y": 33.8,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 78.08,
+          "y": 32.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.94,
+          "y": 19.74,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 91.81,
+          "y": 48.11,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 72.87,
+          "y": 28.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 75.49,
+          "y": 31.37,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 75.08,
+          "y": 34.12,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 97.12,
+          "y": 27.61,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 74.31,
+          "y": 34.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 84.35,
+          "y": 18.47,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 74.95,
+          "y": 30.12,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 74.86,
+          "y": 30.61,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 73.57,
+          "y": 28.64,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 96.53,
+          "y": 25.37,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 96.55,
+          "y": 7.03,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 91.57,
+          "y": 48.85,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 80.1,
+          "y": 34.23,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 73.07,
+          "y": 30.36,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 73.18,
+          "y": 33.73,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 108.07,
+          "y": 24.29,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 39,
+      "ball": {
+        "x": 79.72,
+        "y": 25.68
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 91.02,
+          "y": 31.73,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 97.48,
+          "y": 6.03,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 75.43,
+          "y": 33.9,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 77.91,
+          "y": 32.16,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 85.97,
+          "y": 19.18,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 92.51,
+          "y": 48.36,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 72.59,
+          "y": 28.47,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 75.32,
+          "y": 31.34,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 74.9,
+          "y": 34.0,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 97.83,
+          "y": 28.15,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 74.06,
+          "y": 34.05,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 84.48,
+          "y": 17.82,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 74.48,
+          "y": 30.1,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 74.72,
+          "y": 30.56,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 73.44,
+          "y": 28.63,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 97.22,
+          "y": 25.55,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 97.4,
+          "y": 6.86,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 92.33,
+          "y": 49.05,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 80.26,
+          "y": 34.59,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 73.01,
+          "y": 30.33,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 72.91,
+          "y": 33.42,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 108.42,
+          "y": 24.03,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    },
+    {
+      "frame_id": 40,
+      "ball": {
+        "x": 81.67,
+        "y": 24.43
+      },
+      "players": [
+        {
+          "nfl_id": 34654,
+          "jersey": 30,
+          "team": "MIA",
+          "x": 91.08,
+          "y": 31.4,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 38696,
+          "jersey": 11,
+          "team": "JAX",
+          "x": 98.35,
+          "y": 5.88,
+          "is_offense": true,
+          "is_target": true
+        },
+        {
+          "nfl_id": 41665,
+          "jersey": 69,
+          "team": "JAX",
+          "x": 75.34,
+          "y": 33.99,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 41939,
+          "jersey": 68,
+          "team": "JAX",
+          "x": 77.75,
+          "y": 32.04,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42390,
+          "jersey": 21,
+          "team": "MIA",
+          "x": 86.01,
+          "y": 18.6,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 42827,
+          "jersey": 27,
+          "team": "MIA",
+          "x": 93.22,
+          "y": 48.57,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 43321,
+          "jersey": 91,
+          "team": "MIA",
+          "x": 72.3,
+          "y": 28.5,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44174,
+          "jersey": 49,
+          "team": "MIA",
+          "x": 75.16,
+          "y": 31.3,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44846,
+          "jersey": 74,
+          "team": "JAX",
+          "x": 74.74,
+          "y": 33.87,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 44978,
+          "jersey": 39,
+          "team": "JAX",
+          "x": 98.52,
+          "y": 28.72,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45274,
+          "jersey": 70,
+          "team": "MIA",
+          "x": 73.83,
+          "y": 33.97,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 45785,
+          "jersey": 85,
+          "team": "JAX",
+          "x": 84.59,
+          "y": 17.15,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46142,
+          "jersey": 55,
+          "team": "MIA",
+          "x": 74.05,
+          "y": 30.09,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 46198,
+          "jersey": 76,
+          "team": "JAX",
+          "x": 74.6,
+          "y": 30.49,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 47818,
+          "jersey": 75,
+          "team": "JAX",
+          "x": 73.32,
+          "y": 28.61,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 48476,
+          "jersey": 40,
+          "team": "MIA",
+          "x": 97.87,
+          "y": 25.73,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52438,
+          "jersey": 9,
+          "team": "MIA",
+          "x": 98.25,
+          "y": 6.7,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52450,
+          "jersey": 10,
+          "team": "JAX",
+          "x": 93.12,
+          "y": 49.25,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 52733,
+          "jersey": 25,
+          "team": "JAX",
+          "x": 80.42,
+          "y": 34.97,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53430,
+          "jersey": 16,
+          "team": "JAX",
+          "x": 72.9,
+          "y": 30.29,
+          "is_offense": true,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53447,
+          "jersey": 15,
+          "team": "MIA",
+          "x": 72.68,
+          "y": 33.11,
+          "is_offense": false,
+          "is_target": false
+        },
+        {
+          "nfl_id": 53465,
+          "jersey": 8,
+          "team": "MIA",
+          "x": 108.75,
+          "y": 23.69,
+          "is_offense": false,
+          "is_target": false
+        }
+      ]
+    }
+  ]
+}
